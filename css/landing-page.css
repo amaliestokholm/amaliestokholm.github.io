@@ -247,6 +247,7 @@ canvas {
 	display: block;
 	vertical-align: bottom;
 	position: absolute;
+	top:0;
 }
 
 /* ---- particles.js container ---- */
