@@ -27,10 +27,8 @@ h6 {
 	padding-bottom: 50px;
 	text-align: center;
 	color: #f8f8f8;
-	/*background: url(../img/intro-bg.jpg) no-repeat center center;*/
 	background-size: cover;
 	pointer-events: none;
-	/*height: 600px;*/
 
 }
 
@@ -243,4 +241,19 @@ iframe {
 	display:block;
 	width:100%;
 	height:100vh;
+}
+
+canvas {
+	display: block;
+	vertical-align: bottom;
+	position: absolute;
+}
+
+/* ---- particles.js container ---- */
+
+#particles-js {
+	width: 100%;
+	height: 100vh;
+	background-color:
+	#17182f;
 }
