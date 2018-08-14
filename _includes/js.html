@@ -1,4 +1,33 @@
-    <!-- Bootstrap core JavaScript -->
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-    <script type="text/javascript" src="js/landing-page.js"></script>
+<script type="text/javascript" src="js/landing-page.js"></script>
+
+
+<!-- InstaFeed -->
+<script type="text/javascript">
+if(typeof window.orientation !== 'undefined'){
+	var feed = new Instafeed({
+		clientId: '01f64cc9918c4b19bb59f90ba97f4d49',
+		get: 'user',
+		userId: 1915077581,
+		resolution: 'standard_resolution',
+		sortBy:'most-recent',
+		limit: 6,
+		after: function(){
+		}
+	});
+}else{
+	var feed = new Instafeed({
+		clientId: '01f64cc9918c4b19bb59f90ba97f4d49',
+		get: 'user',
+		userId: 1915077581,
+		resolution: 'standard_resolution',
+		sortBy:'most-recent',
+		limit: 15,
+		after: function(){
+		}
+	});
+}
+feed.run();
+</script>
