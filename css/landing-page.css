@@ -248,6 +248,8 @@ canvas {
 	vertical-align: bottom;
 	position: absolute;
 	top:0;
+	left:0;
+	z-index:0;
 }
 
 /* ---- particles.js container ---- */
@@ -257,6 +259,8 @@ canvas {
 	height: 100vh;
 	background-color:
 	#17182f;
+	position:relative;
+
 }
 a {
 	color:#525252;
