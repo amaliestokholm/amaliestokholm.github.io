@@ -55,7 +55,7 @@ h6 {
 
 @media(max-width:767px) {
 	.intro-message {
-		padding-bottom: 15%;
+		padding-bottom: 20%;
 	}
 
 	.intro-message > h1 {
@@ -185,7 +185,7 @@ h6 {
 	}
 
 	ul.banner-social-buttons > li {
-		display: block;
+		display: inline;
 		margin-bottom: 20px;
 		padding: 0;
 
