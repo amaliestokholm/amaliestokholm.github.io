@@ -286,11 +286,17 @@ a {
 }
 
 .counter .title{
-	color: #00CC66; text-align: right; margin-right: 130px;
+	color: #1a237e;
+	text-align: right;
+	margin-right: 130px;
 }
 
 .counter .desc{
-	position: absolute; bottom: 4px; right: 0px; width: 110px;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	width: 110px;
+	font-size: 16px;
 }
 
 
