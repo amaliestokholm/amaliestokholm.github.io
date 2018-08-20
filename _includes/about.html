@@ -10,41 +10,21 @@
 			</div>
 			<div class="row">
 				<div class="col-sm-12 col-md-6">
-					"Hi! I'm an astronomy graduate student studying at the Stellar Astrophysics Centre at Aarhus University, Denmark. My primary research interest is the field of Galactic archaeology where by studying the demographics of stars one learns about the history and evolution of our Milky Way."
+					Hi! I'm an astronomy graduate student studying at the Stellar Astrophysics Centre at Aarhus University, Denmark. My primary research interest is the field of Galactic archaeology where by studying the demographics of stars one learns about the history and evolution of our Milky Way.
 				</div>
 				<div class="col-sm-12 col-md-6">
-					"I am currently working on combining the ultra-precise parallaxes and proper motions provided by Gaia DR2 with asteroseismic and spectroscopic data for a great sample of stars and investigating the differences between stars in the discs of the Milky Way."
+					I am currently working on combining the ultra-precise parallaxes and proper motions provided by Gaia DR2 with asteroseismic and spectroscopic data for a great sample of stars and investigating the differences between stars in the discs of the Milky Way.
 				</div>
 				<div class="col-sm-12" id="counter">
 					<div class="row" >
-
+						{% for c in site.counter %}
 						<div class="col-sm-6 col-md-6 col-lg-3">
-							<div class="counter margin-b-50">
-								<h1 class="title"><b><span class="counter-value" data-duration="400" data-count="3">0</span></b></h1>
-								<h5 class="desc"><b>First Author Papers</b></h5>
-							</div><!-- counter -->
-						</div><!-- col-md-3-->
-
-						<div class="col-sm-6 col-md-6 col-lg-3">
-							<div class="counter margin-b-50">
-								<h1 class="title"><b><span class="counter-value" data-duration="700" data-count="6">0</span></b></h1>
-								<h5 class="desc"><b>Total Papers</b></h5>
-							</div><!-- counter -->
-						</div><!-- col-md-3-->
-
-						<div class="col-sm-6 col-md-6 col-lg-3">
-							<div class="counter margin-b-50">
-								<h1 class="title"><b><span class="counter-value" data-duration="1400" data-count="7">0</span></b></h1>
-								<h5 class="desc"><b>Years Studying</b></h5>
-							</div><!-- counter -->
-						</div><!-- col-md-3-->
-
-						<div class="col-sm-6 col-md-6 col-lg-3">
-							<div class="counter margin-b-50">
-								<h1 class="title"><b><span class="counter-value" data-duration="2000" data-count="180">0</span></b></h1>
-								<h5 class="desc"><b>k Stars Analyzed</b></h5>
+							<div class="counter" style="margin-bottom:50px">
+								<h1 class="title"><b>{{ c.prefix }}<span class="counter-value" data-duration="{{ c.duration }}" data-count="{{ c.count }}">0</span></b></h1>
+								<h5 class="desc"><b>{{ c.title }}</b></h5>
 							</div>
 						</div>
+						{% endfor %}
 					</div>
 				</div>
 
