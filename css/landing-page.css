@@ -174,7 +174,7 @@ h6 {
 }
 
 @media(max-width:767px) {
-	.button-text {
+	.network-name {
 		display: none;
 	}
 	.banner h2 {
