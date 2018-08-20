@@ -280,3 +280,18 @@ canvas {
 a {
 	color:#525252;
 }
+
+.counter{
+	position: relative;
+}
+
+.counter .title{
+	color: #00CC66; text-align: right; margin-right: 130px;
+}
+
+.counter .desc{
+	position: absolute; bottom: 4px; right: 0px; width: 110px;
+}
+
+
+

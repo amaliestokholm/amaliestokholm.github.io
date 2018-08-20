@@ -42,6 +42,9 @@ social:
     url: https://a.strova.dk/rsc/resume.pdf
 
 counter:
+  - title:    
+    duration: 400
+    count: 
   - title: years studying
     duration: 400
     count: 5
