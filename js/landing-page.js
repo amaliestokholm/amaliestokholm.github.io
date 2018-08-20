@@ -139,3 +139,67 @@ particlesJS("particles-js", {
 	"retina_detect": true
 });
 $("#particles-header").insertAfter(".particles-js-canvas-el");
+
+// From http://www.ifa.hawaii.edu/~taberger
+function enableCounterUp(a){
+	
+	var counterElement;
+	
+	if(isExists('#counter')){ counterElement = $('#counter'); }
+	else{ return; }
+		
+	var oTop = $('#counter').offset().top - window.innerHeight;
+	if (a == 0 && $(window).scrollTop() > oTop) {
+		$('.counter-value').each(function() {
+			var $this = $(this),
+				countDuration = $this.data('duration'),
+				countTo = $this.attr('data-count');
+			$({
+				countNum: $this.text()
+			}).animate({
+				countNum: countTo
+			},{
+
+				duration: countDuration,
+				easing: 'swing',
+				step: function() {
+					$this.text(Math.floor(this.countNum));
+				},
+				complete: function() {
+					$this.text(this.countNum);
+				}
+
+			});
+		});
+		a = 1;
+	}
+
+	return a;
+}
+
+function isExists(elem){
+	if ($(elem).length > 0) { 
+		return true;
+	}
+	return false;
+}
+
+(function ($) {
+
+	"use strict";
+
+	var countCounterUp = 0;
+
+	var a = 0 ;
+
+	countCounterUp = enableCounterUp(countCounterUp);
+
+	$(window).on('scroll', function(){
+
+		countCounterUp = enableCounterUp(countCounterUp);
+
+	});
+
+
+})(jQuery);
+
