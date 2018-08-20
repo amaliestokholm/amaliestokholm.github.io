@@ -174,8 +174,9 @@ h6 {
 }
 
 @media(max-width:767px) {
-	.network-name {
+	.banner-social-buttons.network-name {
 		display: none;
+
 	}
 	.banner h2 {
 		margin: 0;
@@ -184,7 +185,6 @@ h6 {
 	}
 
 	ul.banner-social-buttons > li {
-		display: block;
 		margin-bottom: 20px;
 		padding: 0;
 
