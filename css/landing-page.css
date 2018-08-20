@@ -63,7 +63,7 @@ h6 {
 	}
 
 	ul.intro-social-buttons > li {
-		display: inline-flex;
+		display: block;
 		margin-bottom: 20px;
 		padding: 0;
 	}
