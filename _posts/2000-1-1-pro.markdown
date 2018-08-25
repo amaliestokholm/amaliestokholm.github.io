@@ -1,6 +1,6 @@
 ---
 layout: default
-img: me-at-mount-wilson.jpg
+img: img/me-at-mount-wilson.jpg
 category: Experiences
 title: Research Experience
 description: Work so far
