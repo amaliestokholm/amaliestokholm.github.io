@@ -12,10 +12,19 @@ h4,
 h5,
 h6 {
 	font-family: 'Montserrat', sans-serif;
-	font-weight: 700;
 }
 
-.alt-font {font-family: 'Quicksand', sans-serif !important;}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: 700;
+}
+.alt-font {font-family: 'Quicksand', sans-serif !important;
+	font-weight: 700;
+}
 
 .lead {
 	font-size: 18px;
@@ -93,6 +102,12 @@ h6 {
 	letter-spacing: 2px;
 }
 
+.button-text {
+	text-transform: uppercase;
+	font-size: 13px;
+	font-weight: 400;
+	letter-spacing: 2px;
+}
 .content-section-a {
 	padding: 50px 0;
 	background-color: #f8f8f8;
@@ -170,10 +185,15 @@ h6 {
 	ul.banner-social-buttons {
 		float: left;
 		margin-top: 15px;
+		display: inline-flex;
 	}
 }
 
 @media(max-width:767px) {
+	.button-text {
+		display: none;
+
+	}
 	.banner h2 {
 		margin: 0;
 		text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
@@ -184,6 +204,7 @@ h6 {
 		display: block;
 		margin-bottom: 20px;
 		padding: 0;
+
 	}
 
 	ul.banner-social-buttons > li:last-child {
@@ -268,3 +289,24 @@ canvas {
 a {
 	color:#525252;
 }
+
+.counter{
+	position: relative;
+}
+
+.counter .title{
+	color: #1a237e;
+	text-align: right;
+	margin-right: 130px;
+}
+
+.counter .desc{
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	width: 110px;
+	font-size: 16px;
+}
+
+
+

@@ -40,3 +40,12 @@ social:
   - icon: file-pdf-o
     title: resume
     url: https://a.strova.dk/rsc/resume.pdf
+
+counter:
+  - title: years studying
+    duration: 400
+    count: 5
+  - title: stars analyzed
+    duration: 2000
+    count: 9000
+    prefix: '~'
