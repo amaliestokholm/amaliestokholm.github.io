@@ -7,3 +7,4 @@ description: Work so far
 ---
 
 * In my first year as a graduate student, I worked primary on a detailed analysis of the bright subgiant star HR 7322.
+
