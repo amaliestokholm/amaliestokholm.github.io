@@ -44,8 +44,8 @@ social:
 counter:
   - title: years studying
     duration: 400
-    count: 5
+    count: 6
   - title: stars analyzed
     duration: 2000
-    count: 9000
+    count: 40000
     prefix: '~'
