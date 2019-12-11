@@ -1,9 +1,8 @@
 ---
-layout: default
+layout: blog
 img: img/me-at-mount-wilson.jpg
 category: Blog
 title: Travel hacks
 description: Travel is one of those activities where small failures cascade into larger ones, and simple preparations can make a huge impact on the quality of your travelling life.
 ---
 Throughout my PhD I have been travelling a considerably amount more than I have done before and I have (more times than not) had travels that did not go according to the plan. I have been delayed or stranded in airports often and I have learned a thing or two about preparing myself for bad situation, optimizing a travel day, and in general learned how to make travelling more easy and more comfortable for my self.
-
