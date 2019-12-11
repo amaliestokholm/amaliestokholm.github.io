@@ -6,6 +6,8 @@ layout: blogbase
   <header id="header">
   <a id="title" class="index">
   <img src="{{ site.baseurl }}/images/logo.png" style="width: 3em">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <link rel="shortcut icon" href="img/favicon-star.ico">
   </a>
   </header> <!--header-->
 
@@ -25,6 +27,6 @@ layout: blogbase
   {% endif %}
 
   <footer id="footer">
-  <p class="small">Lorem ipsum dolor, sit <a href="http://www.twitter.com/">@loremipsum</a>.</p>
+  <p class="small">Amalie Stokholm</p>
   </footer>
 </section> <!--wrapper-->
