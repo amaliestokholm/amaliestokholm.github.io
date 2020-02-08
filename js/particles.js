@@ -48,7 +48,7 @@ var pJS = function(tag_id, params){
         value: 1,
         random: false,
         anim: {
-          enable: false,
+          enable: True,
           speed: 20,
           opacity_min: 0,
           sync: false
