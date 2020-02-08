@@ -92,25 +92,25 @@ var pJS = function(tag_id, params){
       events: {
         onhover: {
           enable: true,
-          mode: 'grab'
+          mode: 'bubble'
         },
         onclick: {
           enable: true,
           mode: 'push'
         },
-        resize: true
+        resize: false
       },
       modes: {
         grab:{
-          distance: 100,
+          distance: 200,
           line_linked:{
             opacity: 1
           }
         },
         bubble:{
           distance: 200,
-          size: 80,
-          duration: 0.4
+          size: 40,
+          duration: 2
         },
         repulse:{
           distance: 200,
