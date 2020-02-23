@@ -73,7 +73,7 @@ var pJS = function(tag_id, params){
       },
       move: {
         enable: true,
-        speed: 1,
+        speed: 8,
         direction: 'none',
         random: true,
         straight: false,
@@ -92,28 +92,28 @@ var pJS = function(tag_id, params){
       events: {
         onhover: {
           enable: true,
-          mode: 'bubble'
+          mode: 'grab'
         },
         onclick: {
           enable: true,
-          mode: 'push'
+          mode: 'repulse'
         },
-        resize: false
+        resize: true
       },
       modes: {
         grab:{
-          distance: 200,
+          distance: 125,
           line_linked:{
             opacity: 1
           }
         },
         bubble:{
-          distance: 200,
-          size: 40,
+          distance: 100,
+          size: 0,
           duration: 2
         },
         repulse:{
-          distance: 200,
+          distance: 100,
           duration: 0.4
         },
         push:{
