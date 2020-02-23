@@ -28,15 +28,18 @@ social:
   - icon: envelope-o
     title: email
     url: mailto:a+wp@strova.dk
-  - icon: github
-    title: github
-    url: https://github.com/amaliestokholm
-  - icon: linkedin
-    title: linkedin
-    url: https://www.linkedin.com/in/amaliestokholm
   - icon: gitlab
     title: gitlab
     url: https://gitlab.com/amaliestokholm
+  - icon: linkedin
+    title: linkedin
+    url: https://www.linkedin.com/in/amaliestokholm
+  - icon: atlas
+    title: Papers
+    url: https://ui.adsabs.harvard.edu/public-libraries/VoJI-I0hQmeylc72urzhUw
+  - icon: github
+    title: github
+    url: https://github.com/amaliestokholm
   - icon: file-pdf-o
     title: resume
     url: https://a.strova.dk/rsc/resume.pdf
@@ -49,3 +52,6 @@ counter:
     duration: 2000
     count: 40000
     prefix: '~'
+  - title: peer-reviewed (co-)authored papers
+    duration: 1000
+    count: 6
