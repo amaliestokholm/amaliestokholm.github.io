@@ -124,3 +124,5 @@ var pJS = function(tag_id, params){
     }
   },
   "retina_detect": true
+	}
+}
