@@ -24,17 +24,13 @@ $('div.modal').on('show.bs.modal', function() {
 		}
 	}
 });
-/* -----------------------------------------------
-/* Author : Captain Anonymous
-/* https://codepen.io/anon/pen/OwqerX 
-/* ----------------------------------------------- */
 particlesJS("particles-js", {
 	"particles": {
 		"number": {
-			"value": 355,
+			"value": 160,
 			"density": {
 				"enable": true,
-				"value_area": 789.1476416322727
+				"value_area": 800
 			}
 		},
 		"color": {
@@ -56,22 +52,22 @@ particlesJS("particles-js", {
 			}
 		},
 		"opacity": {
-			"value": 0.48927153781200905,
-			"random": false,
+			"value": 1
+			"random": true,
 			"anim": {
 				"enable": true,
-				"speed": 0.2,
+				"speed": 1,
 				"opacity_min": 0,
 				"sync": false
 			}
 		},
 		"size": {
-			"value": 2,
+			"value": 3,
 			"random": true,
 			"anim": {
-				"enable": true,
-				"speed": 2,
-				"size_min": 0,
+				"enable": false,
+				"speed": 4,
+				"size_min": 0.3,
 				"sync": false
 			}
 		},
@@ -84,7 +80,7 @@ particlesJS("particles-js", {
 		},
 		"move": {
 			"enable": true,
-			"speed": 0.2,
+			"speed": 8,
 			"direction": "none",
 			"random": true,
 			"straight": false,
