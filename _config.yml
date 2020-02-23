@@ -34,7 +34,7 @@ social:
   - icon: linkedin
     title: linkedin
     url: https://www.linkedin.com/in/amaliestokholm
-  - icon: atlas
+  - icon: fa-atlas
     title: Papers
     url: https://ui.adsabs.harvard.edu/public-libraries/VoJI-I0hQmeylc72urzhUw
   - icon: github
@@ -52,6 +52,6 @@ counter:
     duration: 2000
     count: 40000
     prefix: '~'
-  - title: peer-reviewed (co-)authored papers
+  - title: (co-)authored papers
     duration: 1000
     count: 6
