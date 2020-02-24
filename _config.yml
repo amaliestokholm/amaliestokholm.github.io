@@ -23,7 +23,6 @@ gems:
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
-
 social:
   - icon: envelope-o
     title: email
@@ -41,7 +40,7 @@ social:
     title: github
     url: https://github.com/amaliestokholm
   - icon: file-pdf-o
-    title: CV
+    title: Resume
     url: https://a.strova.dk/rsc/resume.pdf
 
 counter:
