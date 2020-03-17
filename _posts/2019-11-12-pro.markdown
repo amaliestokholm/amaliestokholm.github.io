@@ -6,6 +6,8 @@ description: Travel is one of those activities where small mistakes cascade into
 ---
 Throughout my PhD, I have been travelling a considerably amount more than I have done before and I have (more times than not) had travels that did not go according to plan. I have been delayed or stranded in airports and train stations, so I have learned a thing or two about optimizing a travel day and how to make travelling easier and more comfortable for myself. This list is continously updated when I learn something new.
 
+As always, share you own tips so I can post them here.
+
 Last updated: 12-03-2020
 
 
@@ -33,7 +35,7 @@ I usually carry my phone and my laptop with me and I make sure they are fully ch
 
 In most european airports, you can find 'power bars' where you can charge your devices for free, but often they are crowded with people and in many other airports you would have to seek any corner for a usable power outlet. Therefore you either need a good power bank
 
-![power-banks](/pics_travels/powerbank.jpg)
+![power-banks](/images/pics_travels/powerbank.jpg)
 _A [power bank](https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B0194WDVHI/ref=zg_bs_7073960011_1?_encoding=UTF8&psc=1&refRID=47Y9N1FP5KB46X3KB6QE) solves this issue easily and makes sure that you can rely on having a working phone and other device during your travels._
 
 or at least a USB charger, so you can charge your phone with the laptop battery in an emergency.
@@ -44,7 +46,7 @@ In 2018, I was at a multiday meeting in New York City and I was going to give a 
 
 In 'the city that never sleeps', I went from one almost-closing foreign store to the next, frantically looking for a plug adapter or alternatively a replacement charger with the right plug. After almost 2 hours of searching while jet-lagged, the small, suspicious corner store had what I needed:
 
-![adapter](/pics_travels/allinoneuniversalpoweradapter.jpg)
+![adapter](/images/pics_travels/allinoneuniversalpoweradapter.jpg)
 _The [All-In-One 125V 250V universal travel power adapter](https://www.amazon.com/AlyKets-Universal-Travel-Adapter-Charger/dp/B0825ZW2N2/ref=sr_1_53?dchild=1&keywords=all+in+one+travel&qid=1584452789&s=electronics&sr=1-53) which can input even weird Danish plugs and connect them to the wall outlets in more than 150 countries worldwide. It falls rather easy out of the wall, but besides that it gets the work done._
 
 I got to my room, charged my laptop, and finished the presentation slides even in my slightly fluttered, jet-lagged state-of-mind.
@@ -60,7 +62,7 @@ Fruit can be an issues through security in different contries, so consider somet
 
 My go-to packed foods are: Salted almonds, oat cookies and dark chocolate. For longer trips, I usually bring a lunchbox with spicy chickpeas and mixed vegetables wrap.
 
-![oatcookies](/pics_travels/oatcookies.png)
+![oatcookies](/images/pics_travels/oatcookies.png)
 _These are the best dark chokolate oatcookies I have come across. Unfurtunately for me, they can only be brought in Penny's in Germany._
 
 This advice is especially important when travelling with kids. Travelling is exhausting for everyone, but for kids it can be even more tiresome due to the many new sensory inputs.
@@ -89,7 +91,7 @@ If you stay at hotels, you need only few items in general, so keep it minimalist
 
 I usually travel with 2 bags at most: my backpack and my carry-on suitcase.
 
-![backpack](/pics_travels/backpack.jpg)
+![backpack](/images/pics_travels/backpack.jpg)
 _My backpack is a [simple North Face school bag](https://www.amazon.com/North-Face-Borealis-Black-Size/dp/B00OS2NUT4/ref=sr_1_21?dchild=1&qid=1584455288&refinements=p_89%3AThe+North+Face&rnid=360832011&s=apparel&sr=1-21) with two bigger rooms and one small outer pocket._
 
 I like to bring a backpack as I like to use it as an everyday bag during my conference/meeting/stay.
@@ -98,7 +100,7 @@ On travel days, my back-pack is mostly empty, but it contains the things that I 
 
 If I am flying, my backpack also contains the clear plastic bags with liquids for an easy walk through sequrity.
 
-![carry-on](/pics_travels/carryon.jpg)
+![carry-on](/images/pics_travels/carryon.jpg)
 _My carry-on is a normal small carry-on with 4 wheels with one big room and a small outer pocket._
 
 On buisness trips, I usually save bills and receipts for reimbursment in the outer pocket as it has a ziplock and enough space for me to not worry about folding the receipts up too much or for them to get wrinkled and curled. It also seems useless for most other purposes.
@@ -125,7 +127,7 @@ They don't take up a lot of space and they can solve small otherwise annoying is
 # Consider noise-cancelling headphones
 I am probably going to write more about how getting noise-cancelling headphones changed my life.
 
-![bose](/pics_travels/bose.jpg)
+![bose](/images/pics_travels/bose.jpg)
 _These headphones [Bose QuietComfort 25](https://www.amazon.com/Bose-QuietComfort-Acoustic-Cancelling-Headphones/dp/B00M1NEUKK/ref=pd_sbs_23_5/137-7242150-8842955?_encoding=UTF8&pd_rd_i=B00M1NEUKK&pd_rd_r=ef65949e-c984-42bc-b1ee-187c79f0f41c&pd_rd_w=BylbV&pd_rd_wg=8RUUe&pf_rd_p=7cd8f929-4345-4bf2-a554-7d7588b3dd5f&pf_rd_r=JV9VMPAPBD1EATXQHSB5&psc=1&refRID=JV9VMPAPBD1EATXQHSB5) changed my life. These are wired noise-cancelling headphones that run on AAA batteries._
 
 But especially when travelling, they fully transform the experience.
