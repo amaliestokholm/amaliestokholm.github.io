@@ -2,20 +2,23 @@
 layout: blog
 category: Blog
 title: Travel hacks
-description: Travel is one of those activities where small mistakes cascade into larger ones, and where simple preparations can make a huge impact on the quality of your travelling wellbeing.
 ---
+Travel is one of those activities where small mistakes cascade into larger ones, and where simple preparations can make a huge impact on the quality of your travelling wellbeing.
+
 Throughout my PhD, I have been travelling a considerably amount more than I have done before and I have (more times than not) had travels that did not go according to plan. I have been delayed or stranded in airports and train stations, so I have learned a thing or two about optimizing a travel day and how to make travelling easier and more comfortable for myself. This list is continously updated when I learn something new.
 
 As always, share you own tips so I can post them here.
-
 Last updated: 12-03-2020
 
+# Prepare for your travel
 
-## Prepare for your travel ##
-### Back-up your important documents
+### Back-up your important documents and things
 One is none - always have a backup!
 
 Scan impotant documents such as passports, driver license, or possible visa documents and save them to your devices and an online back-up such as your email, Dropbox, Nextcloud etc..
+
+Take a quick picture of the inside of your packed suitcase/bags and save it with your other documents.
+If the airline loses your luggage, you will want this to prove its value.
 
 
 ### Have directions in a physical format
@@ -23,8 +26,12 @@ Print out any adresses and Google maps directions you may need ahead of time. If
 
 Also: Consider printing the directions in the language of the destination!
 
+
 ### Make sure your phone works across borders
 Check with your phone carrier whether your phone plan includes mobile and/or data outside your home country.
+
+Without an international data plan, the GPS feature on a smartphone can be extremely expensive.
+International data plans can be expensive, but they are worth it just to get GPS.
 
 
 ### Combating the lack of power
@@ -70,6 +77,16 @@ Some comfort food can help turn the travelling experience into a more positive o
 
 Bring a refillable water bottle - it will save you a lot of headache and money.
 If you are flying, remember to keep it empty until after security and then fill it up.
+
+
+### Prevent losing your luggage
+Luggage does get lost or accidentally taken from time to time.
+
+Prevent this by making your luggage easy to identify.
+
+Use colored handle straps to avoid looking for the generic black, medium-sized carry-on.
+
+Put contact information both inside and outside the bag.
 
 
 ### Minimize your luggage
@@ -148,7 +165,8 @@ Did you check the weather at your destination and maked sure that you will be dr
 Did you remember to leave most of your clothes at home?
 
 
-## While on adventure ##
+# While on adventure
+
 ### Use a travel wallet
 Do not carry all your cash or credit cards in the same place!
 
@@ -160,6 +178,8 @@ Do not discard a train or subway ticket! Some system require you to submit the t
 
 Keep a designated pocket in your suitcase or bag to receipts if you plan to be reimbursed.
 
+
+### Unpacking
 
 ### Exercise
 Travel can destroy a regular workout routine. Lack of sleep, jet-lag, and a new city are all challeging to the everyday schedule.
@@ -184,3 +204,10 @@ Just like with the travel snacks, dry snacks are ideel as hotel room snacks: coo
 If there is an electric kettle available, a nice cup of your preferred hot beverage can make your mornings or late nights more comfortable. I also like buying quick oats, peanut butter, and bananas for an easy breakfast or late night oatmeal.
 
 If there is a small fridge in your room (with no automatic weight-sensors for the mini-bar), you can also keep yoghurts, milks or other chilled goods.
+
+
+### Toiletries
+
+If you forgot basic toiletries, ask the reception when you check in.
+
+Most receptions have a small stock of travel-sized version of everything.
