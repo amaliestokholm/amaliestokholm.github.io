@@ -12,22 +12,22 @@ Last updated: 12-03-2020
 
 
 ## Prepare for your travel
-# Back-up your important documents
+### Back-up your important documents
 One is none - always have a backup!
 
 Scan impotant documents such as passports, driver license, or possible visa documents and save them to your devices and an online back-up such as your email, Dropbox, Nextcloud etc..
 
 
-# Have directions in a physical format
+### Have directions in a physical format
 Print out any adresses and Google maps directions you may need ahead of time. If you'll take a taxi, this will make everything run a lot smoother which is what you need at the last 5 percentage of the travel.
 
 Also: Consider printing the directions in the language of the destination!
 
-# Make sure your phone works across borders
+### Make sure your phone works across borders
 Check with your phone carrier whether your phone plan includes mobile and/or data outside your home country.
 
 
-# Combating the lack of power
+### Combating the lack of power
 Power -- or more specifically the lack of power -- has been a common issue for me when travelling.
 It sucks to be a foreign place with no phone to call a cap, no digital map, or even the possibility to look up the adress of your hotel which you forgot to write down on physical paper before you became powerless.
 
@@ -41,7 +41,7 @@ _A [power bank](https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-
 or at least a USB charger, so you can charge your phone with the laptop battery in an emergency.
 
 
-# Bring a universal power adapter
+### Bring a universal power adapter
 In 2018, I was at a multiday meeting in New York City and I was going to give a presentation. I sat down in my hotel room after a long day of discussion to prepare my last slides and polish my talk and then my computer ran out of power. No worries, I thought, I brought my charger. And I took a closer look at my charger. My charger with the danish 'Smiley' plug that not in any way compatible with the power sockets in the US.
 
 In 'the city that never sleeps', I went from one almost-closing foreign store to the next, frantically looking for a plug adapter or alternatively a replacement charger with the right plug. After almost 2 hours of searching while jet-lagged, the small, suspicious corner store had what I needed:
@@ -53,7 +53,7 @@ I got to my room, charged my laptop, and finished the presentation slides even i
 This is not an experience I would like to repeat, and therefore I always carry this universal power adapter with me in my backpack when travelling.
 
 
-# Pack food and an (empty) water bottle
+### Pack food and an (empty) water bottle
 This is a life-saver! Especially if you travel though smaller train stations or airports where there might not be any stores or where they are closed for the night. Or if you have allegies or dietary restrictions, which further limits your options in these places.
 
 Pack at least a few snacks.
@@ -72,7 +72,7 @@ Bring a refillable water bottle - it will save you a lot of headache and money.
 If you are flying, remember to keep it empty until after security and then fill it up.
 
 
-# Minimize your luggage
+### Minimize your luggage
 Have as few bags as possible!
 There are many benefits to this strategy:
 - You can get around quicker
@@ -113,7 +113,7 @@ I like there to be a bit of extra space in my carry-on, so I can put my coat and
 When I am flying, I can stove away the carry-on in the overhead compartment as the backpack contains the things I will reach for during a flight, saving a bit of much-needed mental energy.
 
 
-# Clear plastic bags
+### Clear plastic bags
 Pack a handfull of clear 1L ziplock plastic bags in one of the inner pockets of your carry-on suitcase.
 It might sound ridiculus, but it is so convenient!
 
@@ -124,7 +124,7 @@ You can use them for wet/dirty clothes that needs to be packed in a hurry.
 They don't take up a lot of space and they can solve small otherwise annoying issues.
 
 
-# Consider noise-cancelling headphones
+### Consider noise-cancelling headphones
 I am probably going to write more about how getting noise-cancelling headphones changed my life.
 
 ![bose](/images/travels/bose.jpg)
@@ -136,7 +136,7 @@ I have more energy now when travelling as I can mute (or at least turn down the 
 I usually listen to relaxing conversational podcasts such as Hello Internet (hellointernet.fm) while travelling or nice power music.
 
 
-# Double-check what you packed!
+### Double-check what you packed!
 Did you remember your toothbrush?
 
 Did you put your passport and ID in your bag?
@@ -149,19 +149,19 @@ Did you remember to leave most of your clothes at home?
 
 
 ## While on adventure
-# Use a travel wallet
+### Use a travel wallet
 Do not carry all your cash or credit cards in the same place!
 
 Spread it out over multiple wallets/pockets and consider keeping some in the hotel safe in case of emergencies.
 
 
-# Receipts and tickets
+### Receipts and tickets
 Do not discard a train or subway ticket! Some system require you to submit the ticket to a machine when you get off.
 
 Keep a designated pocket in your suitcase or bag to receipts if you plan to be reimbursed.
 
 
-# Exercise
+### Exercise
 Travel can destroy a regular workout routine. Lack of sleep, jet-lag, and a new city are all challeging to the everyday schedule.
 In most cities I have been in, I feel safe enough to go for a morning run. It is easy and free and refreshing, so that is usually what I prioritise to do.
 
@@ -170,7 +170,7 @@ If I do not feel safe outside or if the weather is not running-friendly, I usual
 But otherwise: don't worry! You will catch up on the lost sessions in a week or two. It is more important to get your sleep (and do the work that you are travelling to do) than to follow the exact routines you would do at home.
 
 
-# Have food in your room
+### Have food in your room
 During conferences and meetings, I usually have dinner at a restaurant with collegues, but there are many other meals in a day than dinner.
 This can be a cheap, quick breakfast or just a snack.
 
