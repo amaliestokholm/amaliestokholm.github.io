@@ -2,11 +2,31 @@
 layout: blog
 category: Blog
 title: What to do when your flight is delayed (or cancelled)
---draft
 ---
+In my [travel hacks post](), I mentioned that I have had some experience being delayed or stranding in an airport.
+
+I thought that the topic deserved it's own post, so here we are.
+
+First things first, if your flight is delayed or cancelled, *contact your carrier immediately*.
+They can rebook you and / or compensate your ticket.
+
+Since you probably are not the only one in this situation, then the earlier you enter the queue, the better.
+
+Within Europe, they have to get you food coupons and or get you to a hotel and cover the transport to the hotel.
+
+
+# Get where you want to end up
+Do your research in the queue: can you find a replacement flight to your destination, alternatively by a different airline?
+Maybe they can rebook you -- sometimes you will be surprised.
+
+Figure out what the second-closest airport to your destination is. Are there any connecting flights that could get you there and minimize your delay to your destination?
+
+Be polite -- it is (most likely) not whoever you are talking to's fault that you got delayed.
+Howevery, don't be a pushover.
+
+
+
 # Living in a airport when your flight is delayed
-If your flight is delayed or cancelled, contact your carrier. Within Europe they have to get you food coupons and or get you to a hotel.
-If your flight is 
 
 If your flight is not the only one delayed, strongly consider getting to your destination by other means. When flight gets delayed it can have this cascade effect which if very unpleasant and includes you standing in lines for hours without getting a ticket.
 I have spend an entire weekend in Frankfurt Airport standing in lines getting nothing but frustration.
