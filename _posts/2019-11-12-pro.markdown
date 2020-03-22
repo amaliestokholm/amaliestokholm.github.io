@@ -3,9 +3,9 @@ layout: blog
 category: Blog
 title: Travel hacks
 ---
-Travel is one of those activities where small mistakes cascade into larger ones, and where simple preparations can make a huge impact on the quality of your travelling wellbeing.
+Travel is one of those activities where small mistakes cascade into larger ones, and where simple preparations can make a huge impact on the quality of your travelling well-being.
 
-Throughout my PhD, I have been travelling a considerably amount more than I have done before and I have (more times than not) had travels that did not go according to plan. I have been delayed or stranded in airports and train stations, so I have learned a thing or two about optimizing a travel day and how to make travelling easier and more comfortable for myself. This list is continously updated when I learn something new.
+Throughout my PhD, I have been travelling a considerably amount more than I have done before and I have (more times than not) had travels that did not go according to plan. I have been delayed or stranded in airports and train stations, so I have learned a thing or two about optimizing a travel day and how to make travelling easier and more comfortable for myself. This list is continuously updated when I learn something new.
 
 As always, share you own tips so I can post them here.
 
@@ -17,14 +17,14 @@ Last updated: March 12 2020
 ### Back-up your important documents and things
 One is none -- always have a backup!
 
-Scan impotant documents such as passports, driver license, or possible visa documents and save them to your devices and an online back-up such as your email, Dropbox, Nextcloud etc..
+Scan important documents such as passports, driver license, or possible visa documents and save them to your devices and an online back-up such as your email, Dropbox, Nextcloud etc..
 
 Take a quick picture of the inside of your packed suitcase/bags and save it with your other documents.
 If the airline loses your luggage, you will want this to prove its value.
 
 
 ### Have directions in a physical format
-Print out any adresses and Google maps directions you may need ahead of time. If you'll take a taxi, this will make everything run a lot smoother which is what you need at the last 5 percentage of the travel.
+Print out any addresses and Google maps directions you may need ahead of time. If you'll take a taxi, this will make everything run a lot smoother which is what you need at the last 5 percentage of the travel.
 
 Also: consider printing the directions in the language of the destination!
 
@@ -39,24 +39,24 @@ International data plans can be expensive, but they are worth it just to get GPS
 ### Combating the lack of power
 Power -- or more specifically the lack of power -- has been a common issue for me when travelling.
 
-It sucks to be a foreign place with no phone to call a cap, no digital map, or even the possibility to look up the adress of your hotel which you forgot to write down on physical paper before you became powerless.
+It sucks to be a foreign place with no phone to call a cap, no digital map, or even the possibility to look up the address of your hotel which you forgot to write down on physical paper before you became powerless.
 
 I usually carry my phone and my laptop with me, but even though I make sure they are fully charged before I begin my journey, the battery always seems to be running out when I need it the most.
 
-In most european airports, you can find 'power bars' where you can charge your devices for free, but often they are crowded with people and in many other airports you would have to seek any corner for a usable power outlet. Therefore you either need a good power bank
+In most European airports, you can find 'power bars' where you can charge your devices for free, but often they are crowded with people and in many other airports you would have to seek any corner for a usable power outlet. Therefore you either need a good power bank
 
-![power-banks](/images/travels/powerbank.jpg)
+![A power bank](/images/travels/powerbank.jpg)
 _A [power bank](https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B0194WDVHI/ref=zg_bs_7073960011_1?_encoding=UTF8&psc=1&refRID=47Y9N1FP5KB46X3KB6QE) solves this issue easily and makes sure that you can rely on having a working phone and other device during your travels._
 
 or at least a USB charger, so you can charge your phone with the laptop battery in an emergency.
 
 
 ### Bring a universal power adapter
-In 2018, I was at a multiday meeting in New York City and I was going to give a presentation. I sat down in my hotel room after a long day of discussion to prepare my last slides and polish my talk and then my computer ran out of power. No worries, I thought, I brought my charger. And I took a closer look at my charger. My charger with the danish 'Smiley' plug that not in any way compatible with the power sockets in the US.
+In 2018, I was at a multi day meeting in New York City and I was going to give a presentation. I sat down in my hotel room after a long day of discussion to prepare my last slides and polish my talk and then my computer ran out of power. No worries, I thought, I brought my charger. And I took a closer look at my charger. My charger with the danish 'Smiley' plug that not in any way compatible with the power sockets in the US.
 
 In 'the city that never sleeps', I went from one almost-closing foreign store to the next, frantically looking for a plug adapter or alternatively a replacement charger with the right plug. After almost 2 hours of searching while jet-lagged, the small, suspicious corner store had what I needed:
 
-![adapter](/images/travels/allinoneuniversalpoweradapter.jpg)
+![All in One universal travel adapter](/images/travels/allinoneuniversalpoweradapter.jpg)
 _The [All-In-One 125V 250V universal travel power adapter](https://www.amazon.com/AlyKets-Universal-Travel-Adapter-Charger/dp/B0825ZW2N2/ref=sr_1_53?dchild=1&keywords=all+in+one+travel&qid=1584452789&s=electronics&sr=1-53) which can input even weird Danish plugs and connect them to the wall outlets in more than 150 countries worldwide. It falls rather easy out of the wall, but besides that it gets the work done._
 
 I got to my room, charged my laptop, and finished the presentation slides even in my slightly fluttered, jet-lagged state-of-mind.
@@ -64,16 +64,16 @@ This is not an experience I would like to repeat, and therefore I always carry t
 
 
 ### Pack food and an (empty) water bottle
-This is a life-saver! Especially if you travel though smaller train stations or airports where there might not be any stores or where they are closed for the night. Or if you have allegies or dietary restrictions, which further limits your options in these places.
+This is a life-saver! Especially if you travel though smaller train stations or airports where there might not be any stores or where they are closed for the night. Or if you have allergies or dietary restrictions, which further limits your options in these places.
 
 Pack at least a few snacks.
-Remember the limits on liquids for going through sequrity.
-Fruit can be an issues through security in different contries, so consider something individual packed.
+Remember the limits on liquids for going through security.
+Fruit can be an issues through security in different countries, so consider something individual packed.
 
 My go-to packed foods are: Salted almonds, oat cookies and dark chocolate. For longer trips, I usually bring a lunchbox with spicy chickpeas and mixed vegetables wrap.
 
-![oatcookies](/images/travels/oatcookies.png)
-_These are the best dark chokolate oatcookies I have come across. Unfurtunately for me, they can only be brought in Penny's in Germany._
+![Vegan oatcookies](/images/travels/oatcookies.png)
+_These are the best dark chocolate/oats cookies I have come across. Unfortunately for me, they can only be brought in Penny's in Germany._
 
 This advice is especially important when travelling with kids. Travelling is exhausting for everyone, but for kids it can be even more tiresome due to the many new sensory inputs.
 Some comfort food can help turn the travelling experience into a more positive one.
@@ -111,21 +111,21 @@ If you stay at hotels, you need only few items in general, so keep it minimalist
 
 I usually travel with 2 bags at most: my backpack and my carry-on suitcase.
 
-![backpack](/images/travels/backpack.jpg)
+![A black backpack](/images/travels/backpack.jpg)
 _My backpack is a [simple North Face school bag](https://www.amazon.com/North-Face-Borealis-Black-Size/dp/B00OS2NUT4/ref=sr_1_21?dchild=1&qid=1584455288&refinements=p_89%3AThe+North+Face&rnid=360832011&s=apparel&sr=1-21) with two bigger rooms and one small outer pocket._
 
 I like to bring a backpack as I like to use it as an everyday bag during my conference/meeting/stay.
 
 On travel days, my back-pack is mostly empty, but it contains the things that I will reach for during the travel: travel documents, my laptop, my headphones, an extra cardigan, my snacks, the phone charger, and maybe a book or papers to read.
 
-If I am flying, my backpack also contains the clear plastic bags with liquids for an easy walk through sequrity.
+If I am flying, my backpack also contains the clear plastic bags with liquids for an easy walk through security.
 
-![carry-on](/images/travels/carryon.jpg)
+![A carry-on](/images/travels/carryon.jpg)
 _My carry-on is a normal small carry-on with 4 wheels with one big room and a small outer pocket._
 
-On buisness trips, I usually save bills and receipts for reimbursment in the outer pocket as it has a ziplock and enough space for me to not worry about folding the receipts up too much or for them to get wrinkled and curled. It also seems useless for most other purposes.
+On business trips, I usually save bills and receipts for reimbursement in the outer pocket as it has a ziplock and enough space for me to not worry about folding the receipts up too much or for them to get wrinkled and curled. It also seems useless for most other purposes.
 
-My carry-on contains mostly clothes and my toilettries and thus the things that I would leave in my hotel room at the destination.
+My carry-on contains mostly clothes and my toiletries and thus the things that I would leave in my hotel room at the destination.
 If I am away for more than a few days, I will bring my running gear and shoes.
 
 I like there to be a bit of extra space in my carry-on, so I can put my coat and scarf away when I get to the train station or air port. I don't need to wear the coat in these places and not wearing them gives me more freedom of movement and allows me to use fewer bins in the security line.
@@ -134,8 +134,8 @@ When I am flying, I can stove away the carry-on in the overhead compartment as t
 
 
 ### Pack clear ziplock bags!
-Pack a handfull of clear 1L ziplock plastic bags in one of the inner pockets of your carry-on suitcase.
-It might sound ridiculus, but it is so convenient!
+Pack a handful of clear 1L ziplock plastic bags in one of the inner pockets of your carry-on suitcase.
+It might sound ridiculous, but it is so convenient!
 
 You can use then for travelling with liquids in your carry-on bag (and have spares in case one of your containers explode).
 tsa.gov/travel/security-screening/liquids-rule
@@ -152,16 +152,16 @@ I like to divide my stuff in categories e.g. socks, small electronics, running c
 This makes it easy for me to keep an overview of my stuff while travelling
 and it makes it easier for me to keep clean and dirty clothes separate.
 
-![plasticbags](/images/travels/plasticbags.jpg)
-_Do you every feel [like a plactic bag?](https://www.youtube.com/watch?v=rNYaw4EJpZo)_
+![IKEA plastic bags](/images/travels/plasticbags.jpg)
+_Do you every feel [like a plastic bag?](https://www.youtube.com/watch?v=rNYaw4EJpZo)_
 
-This also make the surprise extra sequrity screening check a lot easier.
+This also make the surprise extra security screening check a lot easier.
 
 
 ### Consider noise-cancelling headphones
 I am probably going to write more about how getting noise-cancelling headphones changed my life.
 
-![bose](/images/travels/bose.jpg)
+![Noise-cancelling headphones](/images/travels/bose.jpg)
 _These headphones [Bose QuietComfort 25](https://www.amazon.com/Bose-QuietComfort-Acoustic-Cancelling-Headphones/dp/B00M1NEUKK/ref=pd_sbs_23_5/137-7242150-8842955?_encoding=UTF8&pd_rd_i=B00M1NEUKK&pd_rd_r=ef65949e-c984-42bc-b1ee-187c79f0f41c&pd_rd_w=BylbV&pd_rd_wg=8RUUe&pf_rd_p=7cd8f929-4345-4bf2-a554-7d7588b3dd5f&pf_rd_r=JV9VMPAPBD1EATXQHSB5&psc=1&refRID=JV9VMPAPBD1EATXQHSB5) changed my life. These are wired noise-cancelling headphones that run on AAA batteries._
 
 But especially when travelling, they fully transform the experience.
@@ -239,8 +239,8 @@ I use a simple system in order to make it easier for myself to not forget anythi
 Even if you follow this system, remember to double-check your shower niche and the power outlet near the bed for the things that you forget the easiest.
 
 
-### Dealing with jetlag
-Everyone has their own technique for how to cope with jetlag.
+### Dealing with jet-lag
+Everyone has their own technique for how to cope with jet-lag.
 
 I like to stay up until 10 pm in the destination time zone and set my alarm for 6 am the next morning
 
