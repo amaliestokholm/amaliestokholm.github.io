@@ -135,7 +135,7 @@ The cord was a bit short, the heating very localised, and you need to turn it of
 
 
 # What does not work for me
-### Heat packs
+### Reuseable heat packs
 These work alright, but are a bit of a hassle.
 
 ![heatpacks](/images/freezing/heatpack.jpg)
@@ -146,7 +146,7 @@ Then in order to reset them, you need to boil them and let them cool (and rememb
 I find the same heating effect (and less work) from enjoying a warm cup of tea.
 
 
-### Exercises
+### Exercise
 Many people say that by increasing your daily exercise you also increase your body temperature and thus you should freeze less.
 
 I have not found this to be true for me.

@@ -2,7 +2,7 @@
 layout: blog
 category: Blog
 title: What to do when your flight is delayed (or cancelled)
-description: Travel is one of those activities where small mistakes cascade into larger ones, and where simple preparations can make a huge impact on the quality of your travelling wellbeing.
+--draft
 ---
 # Living in a airport when your flight is delayed
 If your flight is delayed or cancelled, contact your carrier. Within Europe they have to get you food coupons and or get you to a hotel.
