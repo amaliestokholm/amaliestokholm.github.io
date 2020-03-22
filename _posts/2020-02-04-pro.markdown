@@ -100,7 +100,7 @@ However, it is nice to have different options to keep warm when you are feeling 
 
 A scarf can be worn normally or as a small blanket or shawl.
 
-![scarf](/images/freezing/scarf.png)
+![A scarf](/images/freezing/scarf.png)
 _A scarf does not take up a lot of space and is super convenient._
 
 Adding layers is a different way of keeping warm.
@@ -108,14 +108,14 @@ Adding layers is a different way of keeping warm.
 I usually have both a cardigan and a hoodie (with a thumb hole) at my desk to put on if I am feeling a little cold.
 I have both so I can decide which one I want to wear based on the rest of my outfit.
 
-![cardigan](/images/freezing/cardigan.jpg)
+![A long cardigan](/images/freezing/cardigan.jpg)
 _Go for a cardigan in a good material such as this one made from_
 
 If it is even colder, I also have a fleece blanket in one of my office drawers.
 
 It is bright orange, and not that discreet, but it is nice for the winter days where I will be sitting at my desk all day without a lot of meetings or teaching to attend to.
 
-![fleece](/images/freezing/blanket.jpg)
+![A fleece blanket](/images/freezing/blanket.jpg)
 _A blanket is also amazing in the late afternoons / evenings / weekeend at the office, where the heating for some reason seems to be turned off._
 
 On the more extreme winter days, these things can be combined turning you into the mystical Office Yeti which looks abominable but feels warm and comfortable (and less and less able to move).
@@ -128,7 +128,7 @@ If you do not have a blanket or a extra cardigan, you can use your coat.
 ### Electric seat-warmers
 Overall, I can see a similar product might working for me, especially on the very cold winter days.
 
-![seatwarmer](/images/freezing/seatwarmer.jpg)
+![An electric seatwarmer](/images/freezing/seatwarmer.jpg)
 _I boroughed one and used one a couple of times in my home office (which is less cold than my office)._
 
 The cord was a bit short, the heating very localised, and you need to turn it off for an extended period of time to prevent overheating, but I can see a different, similar product working for me.
@@ -138,9 +138,10 @@ The cord was a bit short, the heating very localised, and you need to turn it of
 ### Reuseable heat packs
 These work alright, but are a bit of a hassle.
 
-![heatpacks](/images/freezing/heatpack.jpg)
+![2 reuseable heat packs](/images/freezing/heatpack.jpg)
 
 They warm your fingers for at most half an hour.
+
 Then in order to reset them, you need to boil them and let them cool (and remember to do so before you need to use them again).
 
 I find the same heating effect (and less work) from enjoying a warm cup of tea.
@@ -167,7 +168,7 @@ Also, I cannot get any work done while I am stretching, lifting or pressing my f
 ### USB heating gloves
 These heaters have no stopping criteria and will burn your hands!
 
-![usbheater](/images/freezing/usb.jpg)
+![USB heating gloves](/images/freezing/usb.jpg)
 _A burning power output that is not great for neither your hand, your economy, nor the environment._
 
 These are a fire hazard and they make a small, high-pitched humming noise that is distracting.
