@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: Blog
-title: How to freeze less at the office (and get more work done!)
+title: How to freeze less at the office (and thus get more work done!)
 ---
 I freeze easily. I don't really know why.
 
@@ -22,7 +22,9 @@ Maybe I am being overly picky, but ideally I also do not want to look like the O
 So how do I solve my issue of feeling cold without [wearing my entire wardrobe at once](https://tenor.com/view/friends-matt-le-blanc-joey-tribbiani-could-ibe-wearing-any-more-clothes-gif-4762889)?
 
 
-Here is the list of things I have tried so far, divided into what I found to work and not to work (or simply not to be worth it).
+Here is the list of things I have tried so far, some of which might be very trivial to you, dear reader.
+
+I have divided the list into what I found to work and what did not work for me (or simply was not to be worth it).
 
 If you are like me and are feeling cold every working day of your life, write me so we can share these tips with everyone.
 
@@ -43,18 +45,18 @@ However, most of the year it is dark and cold outside and the office is colder t
 ### Drink hot drinks
 There are two amazing benefits to hot beverages:
 - by drinking them they heat you up from the inside, and
-- by placing your hands on the outside of your warm cup, you can use it as a finger heater.
+- by placing your hands on the outside of your warm mug, you can use it as a finger heater.
 
 It doesn't really matter if it is coffee, tea, hot cocoa, or simply boiled water that is inside the cup -- you can use whatever you like the most.
 
-![cup](/images/freezing/cup.jpg)
-_Find a good big, sturdy porcelain cup to use as a finger heater and a good selection of your favourite hot beverage to heat you from the inside_
+![A nice porcelain mug](/images/freezing/mug.jpg)
+_Find a good big, sturdy ceramic mug to use as a finger heater and a good selection of your favourite hot beverage to heat you from the inside_
 
 I like them all (well, boiled water is not the most exciting of the bunch).
 
 But especially in winter when I (surprise, surprise) freeze the most, I feel how the daily number of hot drinks is proportional to the number of shivers I do.
 
-![tea](/images/freezing/tea.jpg)
+![Pack of organisc herbal tea bags](/images/freezing/tea.png)
 _The sweet combination of licorice, lemongrass, and spearmint is refreshing on a dark, November morning_
 
 Therefore, I have found that in order not to overindulge on caffeine the cup in front of me needs to be filled with a nice tea.
@@ -72,13 +74,13 @@ I am still searching for the perfect pair of computer gloves.
 
 So far, I use either my normal running gloves
 
-![runninggloves](/images/freezing/gloves.jpg)
+![A pair of yellow running gloves](/images/freezing/runninggloves.jpg)
 _Running gloves: not that discreet and a bit too thick of a material._
 
 or a hoodie with a thumb hole or half-gloves.
 
-![halfgloves](/images/freezing/halfgloves.jpg)
-_Half-gloves are a part of a few of my hoodies and are nice, but not perfect as they fail to keep the coldest part of my body warm: my fingers._
+![Black hoodie with thumb hole](/images/freezing/halfgloves.jpg)
+_Half-gloves (or thumb holes) are a part of a few of my hoodies and are nice but not perfect as they fail to keep the coldest part of my body warm: my fingers._
 
 I also like to wear good socks and to keep extra socks at the office.
 
@@ -96,9 +98,9 @@ I mentioned already that I do not like to be draped in a multitude of fabrics.
 
 However, it is nice to have different options to keep warm when you are feeling cold in the varying degrees from chilled to freezing.
 
-A scarf can be worn normally or as a small blanket or poncho.
+A scarf can be worn normally or as a small blanket or shawl.
 
-![scarf](/images/freezing/scarf.jpg)
+![scarf](/images/freezing/scarf.png)
 _A scarf does not take up a lot of space and is super convenient._
 
 Adding layers is a different way of keeping warm.
@@ -162,18 +164,25 @@ I find the heating from these exercises to disappear almost immediately after I 
 Also, I cannot get any work done while I am stretching, lifting or pressing my fingers to keep them warm.
 
 
-### USB finger heaters
-These work maybe a bit too efficiently and they quickly have the air around the keyboard burningly hot.
+### USB heating gloves
+These heaters have no stopping criteria and will burn your hands!
 
 ![usbheater](/images/freezing/usb.jpg)
 _A burning power output that is not great for neither your hand, your economy, nor the environment._
 
-The noise alone is too distracting and annoying for me to not use them.
+These are a fire hazard and they make a small, high-pitched humming noise that is distracting.
+
+
+So the noise alone is too annoying for me to use them.
+
+..and you need to be plugged in to your computer for these to work.
+
+.. and being burned is not a better alternative to being cold.
 
 
 # So a summary
 I keep the following items at my office desk
-- 1 big porcelain tea cup
+- 1 big ceramic tea cup
 - 1 woolen cardigan
 - 1 hoodie with thumb hole
 - Emergency fleece blanket
