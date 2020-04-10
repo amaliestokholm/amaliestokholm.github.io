@@ -7,6 +7,7 @@ Just like everybody else, the Corona crisis has forced me to learn how to hold a
 
 Here I am sharing what I have learned so far.
 
+
 # Few basic rules of safe use of video chats
 *           Share the meeting number only with the participants of your (zoom) meeting.
 *           Use a meeting password.
@@ -16,6 +17,7 @@ Here I am sharing what I have learned so far.
 *           Like always: *Do not click on "Funny Links"*
 *           A recording of the video conference requires the explicit consent of all participants.
 Make it clear in the meeting invitation if you plan to record the meeting and ask for consent beforehand.
+
 
 # Video Meeting Etiquette
 * Mute your microphone when you're not talking.
