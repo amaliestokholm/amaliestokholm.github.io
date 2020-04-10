@@ -7,22 +7,21 @@ Just like everybody else, the Corona crisis has forced me to learn how to hold a
 
 Here I am sharing what I have learned so far.
 
-# Few basic rules of safe use of video conference systems
-*           Share the meeting number only with the participants of your meeting
-*           Use a meeting password
-*           As a meeting organizer, keep an eye on the dialed-in participants, react immediately as soon as an uninvited participant appears
+# Few basic rules of safe use of video chats
+*           Share the meeting number only with the participants of your (zoom) meeting.
+*           Use a meeting password.
+*           As a meeting organizer, keep an eye on the dialed-in participants. React immediately if an uninvited participant appears.
 *           Do not transfer files via the video conference system.
 *           Behave in chats in such a way that the information could also become public. Even in the *private* chat between you and one other meeting attendee.
-*           Like always: Do not click on "Funny Links"
-*           A recording of the video conference requires the explicit consent of all participants. Make it clear in the meeting invitation if you plan to record the meeting and ask for consent beforehand.
+*           Like always: *Do not click on "Funny Links"*
+*           A recording of the video conference requires the explicit consent of all participants.
+Make it clear in the meeting invitation if you plan to record the meeting and ask for consent beforehand.
 
-# Etiquette when in video chat
+# Video Meeting Etiquette
 * Mute your microphone when you're not talking.
 * Try to make sure you in a well-lit space with little/no background noise.
 * If you want to ask a question, use the 'raise hand' button in zoom to notify the chairperson.
 * The chairperson controls the discussion and allows participants to talk when it will be the least disruptive to the presentation or discussion.
 * The chairperson should make it clear if it is best practice to have the cameras turned on or off.
-
-	* If you are fewer people (less than 20 or so), consider asking attendees to keep their cameras on if possible. It allows the discussion to be more natural.
-
-	* If the meeting is more of a seminar or talk, consider asking the audience to turn off their cameras to save bandwidth.
+    * If you are fewer people (less than 20 or so), consider asking attendees to keep their cameras on if possible. It allows the discussion to be more natural.
+    * If the meeting is more of a seminar or talk, consider asking the audience to turn off their cameras to save bandwidth.
