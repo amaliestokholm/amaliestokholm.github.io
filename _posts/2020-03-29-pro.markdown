@@ -25,5 +25,5 @@ Make it clear in the meeting invitation if you plan to record the meeting and as
 * If you want to ask a question, use the *raise hand* button in zoom to notify the chairperson.
 * The chairperson controls the discussion and allows participants to talk when it will be the least disruptive to the presentation or discussion.
 * The chairperson should make it clear if it is best practice to have the cameras turned on or off.
-    * If you are fewer people (less than 20 or so), consider asking attendees to keep their cameras on if possible. It allows the discussion to be more natural.
-    * If the meeting is more of a seminar or talk, consider asking the audience to turn off their cameras to save bandwidth.
+    * If there is less than 20 or so attending the meeting, consider asking attendees to keep their cameras on if possible. It allows the discussion to be more natural.
+    * If the meeting is more of a seminar or talk with a larger audience, consider asking the attendees to turn off their cameras when they are not speaking in order to save bandwidth.
