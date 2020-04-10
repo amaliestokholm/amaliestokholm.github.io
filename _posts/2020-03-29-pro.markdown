@@ -19,8 +19,8 @@ Make it clear in the meeting invitation if you plan to record the meeting and as
 
 # Video Meeting Etiquette
 * Mute your microphone when you're not talking.
-* Try to make sure you in a well-lit space with little/no background noise.
-* If you want to ask a question, use the 'raise hand' button in zoom to notify the chairperson.
+* Try to be in a well-lit space with little or no background noise.
+* If you want to ask a question, use the *raise hand* button in zoom to notify the chairperson.
 * The chairperson controls the discussion and allows participants to talk when it will be the least disruptive to the presentation or discussion.
 * The chairperson should make it clear if it is best practice to have the cameras turned on or off.
 
