@@ -27,18 +27,21 @@ social:
   - icon: envelope-o
     title: email
     url: mailto:a+wp@strova.dk
-  - icon: gitlab
-    title: gitlab
-    url: https://gitlab.com/amaliestokholm
+    #  - icon: gitlab
+    #title: gitlab
+    #url: https://gitlab.com/amaliestokholm
   - icon: linkedin
     title: linkedin
     url: https://www.linkedin.com/in/amaliestokholm
   - icon: map
     title: Papers
     url: https://ui.adsabs.harvard.edu/public-libraries/VoJI-I0hQmeylc72urzhUw
-  - icon: github
-    title: github
-    url: https://github.com/amaliestokholm
+  - icon: instagram
+    title: instagram
+    url: https://instagram.com/amalie.stokholm/
+    #- icon: github
+    #title: github
+    #url: https://github.com/amaliestokholm
   - icon: file-pdf-o
     title: Resume
     url: https://a.strova.dk/rsc/resume.pdf
