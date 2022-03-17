@@ -1,0 +1,17 @@
+---
+layout: blog
+category: Blog
+title: Actually good things on the Internet
+---
+The Internet. Good things, awful things -- many, many things.
+
+Here is a ongoing list of things that I find inspiring, mind-provoking, or just simply just small nuggets that makes me happy.
+
+# Inspiring things
+* The origin of the Finkbeiner test https://www.lastwordonnothing.com/2013/01/17/5266/
+
+# Thought-provoking things
+* 
+
+# Happy, fun things
+* 
