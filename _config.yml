@@ -39,9 +39,9 @@ social:
   - icon: instagram
     title: instagram
     url: https://instagram.com/amalie.stokholm/
-    #- icon: github
-    #title: github
-    #url: https://github.com/amaliestokholm
+  - icon: github
+    title: github
+    url: https://github.com/amaliestokholm
   - icon: file-pdf-o
     title: Resume
     url: https://a.strova.dk/rsc/resume.pdf

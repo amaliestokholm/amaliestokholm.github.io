@@ -1,4 +1,4 @@
-<section id="aboutblog" class="content-section">
+<section id="blog" class="content-section">
 	<div class="content-section-b">
 		<div class="container">
 			<div id="about_change" class="row">
@@ -10,8 +10,11 @@
 			</div>
 			<div class="row justify-content-md-center">
 				<div class="col-sm-12 col-md-6">
-					Occasionally, I upload small text bits here to the internet.
-					This will be uploaded to my <a href="/blog/">blog</a>.
+					<div class="list-group">
+						{% for post in site.posts limit:5 %}
+						<a href="{{ post.url }}" class="list-group-item">{{ post.title }}</a>
+						{% endfor %}
+					</div>
 				</div>
 				<div class="col-sm-12 col-md-6">
 				</div>
