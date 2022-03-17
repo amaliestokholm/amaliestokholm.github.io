@@ -1,7 +1,7 @@
 <section id="research">
 <!-- Page Content -->
 {% for post in site.posts reversed %}
-    {% if post.category contains 'Blog'%}
+    {% if post.category contains 'science'%}
       {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
         {% if thecycle == 'odd' %}
         <div class="content-section-a">

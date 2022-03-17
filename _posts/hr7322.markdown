@@ -1,6 +1,6 @@
 ---
 layout: blog
-category: Projects
+category: science
 title: HR 7322
 ---
 Just like everybody else, the Corona crisis has forced me to learn how to hold and participate in good and productive video meetings.
