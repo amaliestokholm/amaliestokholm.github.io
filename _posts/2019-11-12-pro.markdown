@@ -1,6 +1,6 @@
 ---
 layout: blog
-category: Blog
+category: blog
 title: Travel hacks
 ---
 Travel is one of those activities where small mistakes cascade into larger ones, and where simple preparations can make a huge impact on the quality of your travelling well-being.
@@ -39,13 +39,20 @@ _My backpack is a [simple North Face school bag](https://www.amazon.com/North-Fa
 
 On travel days, my back-pack is mostly empty.
 
-However, it contains the things that I will reach for the most during my travel: travel documents, my laptop, my headphones, an extra cardigan, my snacks, the phone charger, and maybe a book or papers to read.
+However, it contains the things that I will reach for the most during my travel:
+- Travel documents
+- Laptop
+- Headphones
+- An extra cardigan/hoodie
+- Phone charging cable
+- For long flights: my snacks
+- Maybe a book or papers to read.
 
 If I am flying, my backpack also contains the clear plastic bags with liquids for an easy walk through security.
 
 
 ### Carry-on
-Get a carry-on with four wheels! This changes how you move as you can now either push the carry on in front of you or have it by your side as a well-heeled dog. This saves a lot of energy and makes it easier to move around in a crowd.
+_Get a carry-on with four wheels!_ This changes how you move as you can now either push the carry on in front of you or have it by your side as a well-heeled dog. This saves a lot of energy and makes it easier to move around in a crowd.
 
 ![A carry-on](/images/travels/carryon.jpg)
 _My carry-on is a normal small carry-on with 4 wheels with one big room and a small outer pocket._
@@ -65,7 +72,7 @@ Luggage gets lost or accidentally taken from time to time.
 
 Prevent this by making your luggage easy to identify.
 
-Use colored straps, unique baggage tags, or add your own flair to your bag in order to avoid looking for the generic black, medium-sized carry-on.
+Use a unique baggage tags, or add your own flair to your bag in order to avoid looking for the generic black, medium-sized carry-on.
 
 Put your name and contact information on two labels: one outside the bag and one inside the bag.
 
