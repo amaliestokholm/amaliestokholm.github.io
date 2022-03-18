@@ -38,6 +38,8 @@ h6 {
 	color: #f8f8f8;
 	background-size: cover;
 	pointer-events: none;
+	position: relative;
+	z-index: -10;
 
 }
 
