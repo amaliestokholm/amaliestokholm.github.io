@@ -76,12 +76,12 @@ h6 {
 		display: block;
 		margin-bottom: 20px;
 		padding: 0;
-		z-index: 100,
+		z-index: 9999;
 	}
 
 	ul.intro-social-buttons > li:last-child {
 		margin-bottom: 0;
-		z-index: 100,
+		z-index: 9999;
 	}
 
 	.intro-divider {
@@ -92,6 +92,7 @@ h6 {
 .intro-social {
 	position: relative;
 	padding-bottom: 20%;
+	z-index: 9999;
 }
 .social-click {
 	position: relative;
