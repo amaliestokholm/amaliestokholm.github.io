@@ -2,21 +2,21 @@
 	<div class="content-section-b">
 		<div class="container">
 			<div id="about_change" class="row">
-				<h2 class="category-heading alt-font"><i class="fa fa-pencil-square-o"></i> Blog</h2>
+				<h2 class="category-heading alt-font"><i class="fa fa-pencil-square-o"></i> Recent blog posts</h2>
 			</div>
 			<div class="row">
 				<hr class="section-heading-spacer" align="left">
 				<div class="clearfix"></div>
 			</div>
 			<div class="row justify-content-md-center">
-				<div class="col-sm-12 col-md-6">
+				<div class="col-md-12">
 					<div class="list-group">
 						{% for post in site.posts limit:5 %}
-						<a href="{{ post.url }}" class="list-group-item">{{ post.title }}</a>
+						<a href="{{ post.url }}" class="list-group-item border-0">{{ post.title }}</a>
 						{% endfor %}
 					</div>
-				</div>
-				<div class="col-sm-12 col-md-6">
+					<br>
+					A full list of all blog posts can be found at <a href="/blog/">my blog</a>.
 				</div>
 			</div>
 		</div>

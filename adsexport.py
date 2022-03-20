@@ -48,7 +48,7 @@ def make_adsexport_json() -> None:
         fp.write(json.dumps(docs, indent=2))
 
 
-def main() -> None:
+def main(noofpubs=5) -> None:
     try:
         mtime = os.stat("adsexport.json").st_mtime
     except FileNotFoundError:
@@ -68,15 +68,20 @@ def main() -> None:
     f = "_includes/publications_ads.html"
     with open(f + "_", "w") as fp:
         fp.write("<ul>\n")
-        for pub in adsexport:
+        for pub in adsexport[0:noofpubs]:
             link = "https://ui.adsabs.harvard.edu/abs/%s/abstract" % pub["bibcode"]
             fp.write('<li><a href="%s">\n' % html.escape(link))
             fp.write('%s</a>\n' % html.escape(pub["title"][0]))
             for i, a in enumerate(pub["author"]):
+                if i == 0:
+                    fp.write('\n')
                 if i >= 3:
-                    fp.write('et al\n')
+                    fp.write(' et al.\n')
                     break
-                fp.write('%s;\n' % html.escape(a))
+                fp.write('%s ' % html.escape(a.split(',')[1]))
+                fp.write('%s' % html.escape(a.split(',')[0]))
+                if i < 2:
+                    fp.write(', ')
             fp.write('<br>Published %s\n' % pub["pubdate"][:7])
             fp.write('in %s\n' % pub["pub"])
             fp.write('</li>\n')
