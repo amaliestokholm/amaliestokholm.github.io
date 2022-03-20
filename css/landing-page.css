@@ -37,9 +37,7 @@ h6 {
 	text-align: center;
 	color: #f8f8f8;
 	background-size: cover;
-	pointer-events: none;
 	position: relative;
-	z-index: -10;
 
 }
 
@@ -78,12 +76,10 @@ h6 {
 		display: block;
 		margin-bottom: 20px;
 		padding: 0;
-		z-index: 9999;
 	}
 
 	ul.intro-social-buttons > li:last-child {
 		margin-bottom: 0;
-		z-index: 9999;
 	}
 
 	.intro-divider {
@@ -91,14 +87,16 @@ h6 {
 	}
 }
 
+ul.intro-social-buttons > li.list-inline-item {
+	margin-right:0px;
+}
+
 .intro-social {
 	position: relative;
 	padding-bottom: 20%;
-	z-index: 9999;
 }
 .social-click {
 	position: relative;
-	pointer-events: all;
 }
 
 .network-name {
@@ -193,7 +191,6 @@ h6 {
 	ul.banner-social-buttons {
 		float: left;
 		margin-top: 15px;
-		display: inline-flex;
 	}
 }
 
@@ -278,7 +275,6 @@ canvas {
 	position: absolute;
 	top:0;
 	left:0;
-	z-index:0;
 }
 
 /* ---- particles.js container ---- */
@@ -292,7 +288,6 @@ canvas {
 	background-position: 50% 50%;
 	background-repeat: no-repeat;
 	position:relative;
-	z-index: -1;
 }
 a {
 	color:#525252;

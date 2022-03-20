@@ -1,6 +1,6 @@
 ---
 layout: blog
-category: blog
+category: Blog
 title: Travel hacks
 ---
 Travel is one of those activities where small mistakes cascade into larger ones, and where simple preparations can make a huge impact on the quality of your travelling well-being.
