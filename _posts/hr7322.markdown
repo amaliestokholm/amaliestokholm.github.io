@@ -1,6 +1,0 @@
----
-layout: blog
-category: Science
-title: HR 7322
----
-Yaay benchmark star
