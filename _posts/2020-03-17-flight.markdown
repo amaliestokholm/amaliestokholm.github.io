@@ -1,58 +1,59 @@
 ---
 layout: blog
 category: Blog
-title: What to do when your flight is delayed (or cancelled)
+title: What to do when your flight is delayed (...or cancelled)
 ---
-In my [travel hacks post](), I mentioned that I have had some experience being delayed or stranding in an airport.
+In my [travel hacks post](/blog/2019/11/12/travel/), I mentioned that I have had some experience being delayed or stranding in an airport.
 
 I thought that the topic deserved it's own post, so here we are.
 
-First things first, if your flight is delayed or cancelled, *contact your carrier immediately*.
-They can rebook you and / or compensate your ticket.
+---
 
-Since you probably are not the only one in this situation, then the earlier you enter the queue, the better.
+First things first, if your flight is delayed or cancelled, *contact your carrier immediately*.<br>
+They can rebook you and/or compensate your ticket.
 
-Within Europe, they have to get you food coupons and or get you to a hotel and cover the transport to the hotel.
+Since you probably are not the only one in this situation, then the earlier you enter the queue, the better.<br>
+Consider being in the phone queue while being in the physical queue at the airport.
+
+Remember that *within Europe*, they have to get you food coupons and/or get you to a hotel and cover the transport to the hotel.
 
 
-# Get where you want to end up
-Do your research in the queue: can you find a replacement flight to your destination, alternatively by a different airline?
+<br>
+## Get where you want to end up
+Do some research in the queue: can you find a replacement flight to your destination, alternatively by a different airline?
 
-Figure out what the second-closest airport to your destination is. Are there any connecting flights that could get you there and minimize your delay to your destination?
+Figure out what the second-closest airport to your destination is.<br>
+Are there any connecting flights that could get you there and minimize your delay to your destination?
 
 Maybe your airline can rebook you -- sometimes you will be surprised.
 
-Be polite -- it is (most likely) not whoever you are talking to's fault that you got delayed.
+Be polite -- it is (most likely) not whoever you are talking to's fault that you got delayed.<br>
 Howevery, don't be a pushover. Do not accept anything that they offer you.
 
-
-# Living in a airport when your flight is delayed
+<br>
+## Living in a airport when your flight is delayed
 If your flight is not the only one delayed, strongly consider getting to your destination by other means, i.e. trains or buses.
 
-When many flightf gets delayed it can have this cascade effect which if very unpleasant and includes you standing in lines for hours without getting a ticket.
+When many flights get delayed it can have this cascade effect which is very unpleasant.
+It easily means that you need to stand in lines for hours or days without getting a ticket to your destination.
 
-I have spend an entire weekend in Frankfurt Airport standing in lines getting nothing but frustration.
+I have spend an entire weekend in Frankfurt Airport standing in lines and waiting around, getting nothing but increasingly frustrated..
 
-They did go through the lines and picked out people travelling with kids or disabled or elderly people to put them in a higher prioritised line, but that was still two nights and many long hours waiting unknowenly if I could come on the next plane home and I should just have gotten a train or FlixBus or something else to get out of the messy situation. It is a more expensive option, but keep it in mind.
+In that case, the people from the airlines went through the lines and picked out people with special needs, i.e. travelling with kids or with disabilities, to put them in a higher prioritised line.<br>
+However, I was waiting for mutliple days and many long hours, waiting unknownly if I could come on the next plane home and I should just have gotten a train or FlixBus or something else to get out of the messy situation.It is a more expensive option, but keep it in mind.
 
-# How to spend your time in an airport
+---
+
+## How to spend your time in an airport
 
 If you suddenly have a surplus of time to spend at an airport, here are some of my tips for how to spend / have fun in an airport.
 
-Keep updated with where and when your flight will be boarded. Are you at the right gate?
+Keep updated with where and when your flight will be boarded.<br> Are you at the right gate and the right terminal?
 
+Go explore. Look at book shops or electronics vendors -- you do not have to buy anything but it can be interesting to see what new books/electronics are on the market.
 
-Explore
+Listen to podcasts. I prefer pyodcasts or audiobooks over music when travelling, and at this point there is a podcast about nearly everything. Try out a new podcast: I can recommend <a href="hellointernet.fm">Hello Internet</a>, <a href="https://becauselanguage.com/">Because Language</a>, and <a href="https://www.dungeonsanddaddies.com/">Dungeons & Daddies</a>.
 
+Have a physical relax. Find a chair and just sit and save your energy for the journey ahead.
 
-
-
-Listen to podcasts. I prefer pyodcasts or audiobooks over music when travelling, and at this point there is a podcast about nearly everything.
-
-Listen to audiobooks. Use either one of the (many) sponsored posts for Audible to get some free audiobooks.
-For Danish citizens, I have been using mofibo with great success a couple of times.
-
-Have a physical relax. 
-
-
-Travelling with kids: do airport bingo
+Are you travelling with kids? Consider doing a game like  <a href="https://aerosavvy.com/airport-bingo/">airport bingo</a> to keep the spirit up.
