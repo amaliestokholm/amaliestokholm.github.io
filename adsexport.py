@@ -72,7 +72,7 @@ def main(noofpubs=5) -> None:
         fp.write("<ul>\n")
         for pub in adsexport[0:noofpubs]:
             link = "https://ui.adsabs.harvard.edu/abs/%s/abstract" % pub["bibcode"]
-            fp.write('<li><a href="%s">\n' % html.escape(link))
+            fp.write('<li><a href="%s" target="_blank">\n' % html.escape(link))
             fp.write('%s</a>\n' % html.escape(pub["title"][0]))
             fp.write('<br>\n')
             for i, a in enumerate(pub["author"]):
