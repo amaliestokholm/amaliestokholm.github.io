@@ -208,6 +208,7 @@ This also make the surprise extra security screening check a lot easier.
 
 <br>
 ## Double-check what you packed!
+
 - Did you remember your toothbrush?
 - Did you put your passport and ID in your bag?
 - Did you pack chargers for all your devices? Phone, laptop, toothbrush, headphones, wearables?
@@ -310,9 +311,9 @@ It is convenient to have a bit of food in your own hotel room.<br>
 A bit of food for when you are jet-lagged and have not yet syncronised your inner clock to the clock at your destination.<br>
 It is annoying to wake up in the middle of the night in an all-closed city and be ready for breakfast when there is not even an open 7-eleven for miles around.
 
-Or if you are in a city, where the stores are all closed on Sundays (looking at you, Germany).
+...Or if you are in a city, where the stores are all closed on Sundays (looking at you, Germany).
 
-Or if you are simply exhausted after a long working day.
+...Or if you are simply exhausted after a long working day.
 
 Just like with the travel snacks, dry snacks are ideal as hotel room snacks: cookies, fruits, and protein bars.
 

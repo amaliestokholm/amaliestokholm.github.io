@@ -15,16 +15,13 @@ It could be because it is just cold where I live.<br>
 
 No matter what, the fact is that I freeze easily and it affect me when I am working.<br>
 When you are freezing your fingers, it is pretty difficult to type on a keyboard and do the kind of office work that I do.
-
 The feeling of freezing in general [can be very damaging for your overall productivity.](https://doi.org/10.1371/journal.pone.0216362) So this is really a problem worth solving.
 
 <br>
 I want my solution to not only to solve my temperature problem but ideally also not cause any other problem or hinder to my work.
 
 I don't want to be obscured. Too many layers and blankets harm my movement and can be a hassle if I need to get up to go to a meeting / out during a fire drill / go get a cup of tea / do anything else than just sit at my desk
-
 Maybe I am being overly picky, but ideally I also do not want to look like the Office Yeti, shrouded in blankets and winter-outerwear from top to toe.
-
 So how do I solve my issue of feeling cold without [wearing my entire wardrobe at once](https://tenor.com/view/friends-matt-le-blanc-joey-tribbiani-could-ibe-wearing-any-more-clothes-gif-4762889)?
 
 
@@ -89,7 +86,7 @@ However, it is nice to have different options to keep warm when you are feeling 
 
 A scarf can be worn normally or as a small blanket or shawl.
 
-<img src="/images/freezing/scarf.png">
+<img src="/images/freezing/scarf.png" class=responsive>
 
 *A scarf does not take up a lot of space and is super convenient.*
 
