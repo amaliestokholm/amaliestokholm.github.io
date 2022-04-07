@@ -12,9 +12,9 @@ On the bright side, this also means that I have learned a thing or two about opt
 Last updated: December 8 2021
 
 ---
-
-## Let's talk bags!
-### Minimize your luggage
+<br>
+# Let's talk bags!
+## Minimize your luggage
 The best strategy: *Have as few bags as possible!*<br>
 There are many benefits to this strategy:
 
@@ -24,6 +24,7 @@ There are many benefits to this strategy:
 
 You don't need half of the stuff you bring anyway, so consider what things you are bringing with you one extra time.
 
+<br>
 If you stay at hotels, you need only few items in general, so keep it minimalistic.
 - Only bring versatile pieces of clothing that can be worn in different combinations.
 - Be okay with wearing repeated outfits.
@@ -32,14 +33,14 @@ If you stay at hotels, you need only few items in general, so keep it minimalist
 - Bring fewer gadgets and bathroom appliances.
 - Wear your bulkiest pieces such as a cardigan or a hoodie on travel day so they don't take up space in your bags.
 
-<br>
 I usually travel with 2 bags at most: my backpack and my carry-on suitcase.
 
 <br>
 ### Backpack
 I like to bring a backpack with me as I can use it as an everyday-bag during my conference/meeting/stay.
 
-<img src="/images/travels/backpack.jpg" width="30">
+<img src="/images/travels/backpack.jpg" class="responsive">
+
 *My current backpack is a [simple North Face school bag](https://www.amazon.com/North-Face-Borealis-Black-Size/dp/B00OS2NUT4/ref=sr_1_21?dchild=1&qid=1584455288&refinements=p_89%3AThe+North+Face&rnid=360832011&s=apparel&sr=1-21) with two bigger rooms and one small outer pocket.*
 
 On travel days, my back-pack is mostly empty.<br>
@@ -53,7 +54,6 @@ However, it contains the things that I will reach for the most during my travel:
 - For long flights: my snacks
 - Maybe a book or papers to read.
 
-<br>
 If I am flying, my backpack also contains the clear plastic bags with liquids for an easy walk through security.
 
 <br>
@@ -62,7 +62,8 @@ If I am flying, my backpack also contains the clear plastic bags with liquids fo
  This changes how you move as you can now either push the carry on in front of you or have it by your side as a well-heeled dog.<br>
 This saves a lot of energy and makes it easier to move around in a crowd.
 
-![A carry-on](/images/travels/carryon.jpg)
+<img src="/images/travels/carryon.jpg" class="responsive">
+
 *My carry-on is a normal small carry-on with 4 wheels with one big room and a small outer pocket.*
 
 On business trips, I usually save bills and receipts for reimbursement in the outer pocket as it has a ziplock and enough space for me to not worry about folding the receipts up too much or for them to get wrinkled and curled. This pocket also seems useless for any other purpose.
@@ -89,7 +90,8 @@ Use a unique baggage tags, or add your own flair to your bag in order to avoid l
 ### Consider noise-cancelling headphones
 I am probably going to write more about how getting noise-cancelling headphones changed my life.
 
-![Noise-cancelling headphones](/images/travels/bose.jpg)
+<img src="/images/travels/bose.jpg" class="responsive">
+
 *These headphones [Bose QuietComfort 25](https://www.amazon.com/Bose-QuietComfort-Acoustic-Cancelling-Headphones/dp/B00M1NEUKK/ref=pd_sbs_23_5/137-7242150-8842955?_encoding=UTF8&pd_rd_i=B00M1NEUKK&pd_rd_r=ef65949e-c984-42bc-b1ee-187c79f0f41c&pd_rd_w=BylbV&pd_rd_wg=8RUUe&pf_rd_p=7cd8f929-4345-4bf2-a554-7d7588b3dd5f&pf_rd_r=JV9VMPAPBD1EATXQHSB5&psc=1&refRID=JV9VMPAPBD1EATXQHSB5) changed my life. These are wired noise-cancelling headphones that run on AAA batteries. I currently use the wireless Bose QuietComfort 35.*
 
 But especially when travelling, they fully transform the experience.

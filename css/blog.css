@@ -86,8 +86,8 @@ a,
 #post-list li:hover .dates,
 #title:hover {
 	text-decoration:none; 
-	color:#5badf0;
-	color:#5694f1;
+	color:#f8f8f8;
+	color:#f8f8f8;
 }
 
 p a { color:#5694f1; }
@@ -192,7 +192,7 @@ code, span.code {
 span.code {  background-color:#EEE; }
 
 pre	{ font-family:Menlo, Monaco, Courier; border: 1px solid #ddd; padding:20px; 
-background-color:#fdfdfd; font-size:14px;  overflow:scroll; border-radius: 3px;
+background-color:#f8f8f8; font-size:14px;  overflow:scroll; border-radius: 3px;
 }
 
 table {
@@ -328,7 +328,7 @@ Post Page
 
 #post-meta {
 	font-size:13px;
-	color:#aaa;
+	color:#f8f8f8;
 	margin-bottom:40px;
 	line-height:1.4;
 	border-top:1px solid #eee;
