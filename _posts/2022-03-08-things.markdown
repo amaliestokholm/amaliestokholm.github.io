@@ -3,13 +3,16 @@ layout: blog
 category: Blog
 title: Actually good things on the Internet
 ---
-The Internet. <a href="https://youtu.be/k1BneeJTDcU">Mountains of content, some better, some worse. If none of it's of interest to you, you'd be the first.</a>
+# Actually good things on the Internet
+
+The Internet. <a href="https://youtu.be/k1BneeJTDcU">Mountains of content, some better, some worse.</a>
 
 Here is a ongoing list of nuggests that I like/love/recommend that everyone checks out.
 
 Last update: 20/03/2022
 
 ---
+
 <br>
 # Inspiring things
 - <a href="https://www.lastwordonnothing.com/2013/01/17/5266/">What I'm Not Going to Do</a>, Ann Finkbeiner:<br>
@@ -27,3 +30,5 @@ This video essay goes into depth with the recent controversies of J. K. Rowling 
 # Happy, fun things
 - <a href="https://paperpile.com/blog/shortest-papers/">The Shortest Papers Ever Published</a>, Stefan Washietl:<br>
 A nice, fun compilation of the shortest papers ever published. 
+
+<br>
