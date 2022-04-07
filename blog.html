@@ -1,30 +1,13 @@
 ---
-layout: blogbase
+layout: tpw
+title: Blog Posts
 ---
 
-<section id="wrapper">
-  <header id="header">
-  <a id="title" class="index" href="/">
-  Amalie Stokholm
-  </a>
-  </header> <!--header-->
-
-  <ul id="post-list">
-        {% for post in site.posts %}
-	    <li>
-        <a href='{{ post.url | prepend: site.baseurl }}'><aside class="dates">{{ post.date | date: "%b %d" }}</aside></a>
-        <a href='{{ post.url | prepend: site.baseurl }}'>{{ post.title }} {% if post.subtitle|length %}<h2>{{ post.subtitle }}</h2>{% endif %}</a>
-      </li>
-        {% endfor %}
-  </ul> <!--post-list-->
-
-  {% if site.posts.size >= 1 %}
-  <footer id="post-list-footer">
-    <a id="archive-link" href="{{ site.baseurl }}/archive"> <span class="arrow">&larr;</span> Older posts</a>
-  </footer>
-  {% endif %}
-
-  <footer id="footer">
-  <p class="small">Amalie Stokholm</p>
-  </footer>
-</section> <!--wrapper-->
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
