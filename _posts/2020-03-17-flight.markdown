@@ -5,7 +5,7 @@ title: What to do when your flight is delayed (...or cancelled)
 ---
 # What to do when your flight is delayed (...or cancelled)
 
-In my [travel hacks post](/blog/2019/11/12/travel/), I mentioned that I have had some experience being delayed or stranding in an airport.
+In my <a href="/blog/2019/11/12/travel/" target="_blank">travel hacks post</a>, I mentioned that I have had some experience being delayed or stranding in an airport.
 
 I thought that the topic deserved it's own post, so here we are.
 
@@ -60,10 +60,10 @@ If you suddenly have a surplus of time to spend at an airport, here are some of 
 
 - Go explore. Look at book shops or electronics vendors -- you do not have to buy anything but it can be interesting to see what new books/electronics are on the market.
 
-- Listen to podcasts. I prefer pyodcasts or audiobooks over music when travelling, and at this point there is a podcast about nearly everything. Try out a new podcast: I can recommend <a href="https://www.hellointernet.fm">Hello Internet</a>, <a href="https://becauselanguage.com/">Because Language</a>, and <a href="https://www.dungeonsanddaddies.com/">Dungeons & Daddies</a>.
+- Listen to podcasts. I prefer pyodcasts or audiobooks over music when travelling, and at this point there is a podcast about nearly everything. Try out a new podcast: I can recommend <a href="https://www.hellointernet.fm" target="_blank">Hello Internet</a>, <a href="https://becauselanguage.com/" target="_blank">Because Language</a>, and <a href="https://www.dungeonsanddaddies.com/" target="_blank">Dungeons & Daddies</a>.
 
-- Have a physical relax. Find a chair and just sit and save your energy for the journey ahead. Maybe go have a look at [some noise-cancelling head phones](/blog/2019/11/12/travel/)?
+- Have a physical relax. Find a chair and just sit and save your energy for the journey ahead. Maybe go have a look at <a href="/blog/2019/11/12/travel/" target="_blank">some noise-cancelling head phones</a>?
 
-- Are you travelling with kids? Consider playing a game like  <a href="https://aerosavvy.com/airport-bingo/">airport bingo</a> to keep the spirit up. Look for some fun food or other new experiences you can have while at the airport -- treat it not as a commute but as an adventure.
+- Are you travelling with kids? Consider playing a game like  <a href="https://aerosavvy.com/airport-bingo/" target="_blank">airport bingo</a> to keep the spirit up. Look for some fun food or other new experiences you can have while at the airport -- treat it not as a commute but as an adventure.
 
 <br>

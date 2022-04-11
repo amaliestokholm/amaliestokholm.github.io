@@ -45,7 +45,7 @@ I like to bring a backpack with me as I can use it as an everyday-bag during my 
 
 <img src="/images/travels/backpack.jpg">
 
-*My current backpack is a [simple North Face school bag](https://www.amazon.com/North-Face-Borealis-Black-Size/dp/B00OS2NUT4/ref=sr_1_21?dchild=1&qid=1584455288&refinements=p_89%3AThe+North+Face&rnid=360832011&s=apparel&sr=1-21) with two bigger rooms and one small outer pocket.*
+*My current backpack is a <a href="https://www.amazon.com/North-Face-Borealis-Black-Size/dp/B00OS2NUT4/ref=sr_1_21?dchild=1&qid=1584455288&refinements=p_89%3AThe+North+Face&rnid=360832011&s=apparel&sr=1-21" target="_blank">simple North Face school bag</a> with two bigger rooms and one small outer pocket.*
 
 On travel days, my back-pack is mostly empty.<br>
 However, it contains the things that I will reach for the most during my travel:<br>
@@ -98,13 +98,13 @@ I am probably going to write more about how getting noise-cancelling headphones 
 
 <img src="/images/travels/bose.jpg">
 
-*These headphones [Bose QuietComfort 25](https://www.amazon.com/Bose-QuietComfort-Acoustic-Cancelling-Headphones/dp/B00M1NEUKK/ref=pd_sbs_23_5/137-7242150-8842955?_encoding=UTF8&pd_rd_i=B00M1NEUKK&pd_rd_r=ef65949e-c984-42bc-b1ee-187c79f0f41c&pd_rd_w=BylbV&pd_rd_wg=8RUUe&pf_rd_p=7cd8f929-4345-4bf2-a554-7d7588b3dd5f&pf_rd_r=JV9VMPAPBD1EATXQHSB5&psc=1&refRID=JV9VMPAPBD1EATXQHSB5) changed my life. These are wired noise-cancelling headphones that run on AAA batteries. I currently use the wireless Bose QuietComfort 35.*
+*These headphones <a href="https://www.amazon.com/Bose-QuietComfort-Acoustic-Cancelling-Headphones/dp/B00M1NEUKK/ref=pd_sbs_23_5/137-7242150-8842955?_encoding=UTF8&pd_rd_i=B00M1NEUKK&pd_rd_r=ef65949e-c984-42bc-b1ee-187c79f0f41c&pd_rd_w=BylbV&pd_rd_wg=8RUUe&pf_rd_p=7cd8f929-4345-4bf2-a554-7d7588b3dd5f&pf_rd_r=JV9VMPAPBD1EATXQHSB5&psc=1&refRID=JV9VMPAPBD1EATXQHSB5" target="_blank">Bose QuietComfort 25</a> changed my life. These are wired noise-cancelling headphones that run on AAA batteries. I currently use the wireless Bose QuietComfort 35.*
 
 But especially when travelling, they fully transform the experience.
 
 I have more energy now when travelling. I can mute (or at least turn down the volume) for crying babies, loud chit-chatty passengers, and annoying muzak. This allows me to just focus on my own things in my own bubble and not spend my energy on my noisy environment.
 
-I usually listen to relaxing conversational podcasts such as [Hello Internet](https://hellointernet.fm) while travelling or [nice power music](https://www.youtube.com/watch?v=hZyLwfrDyjc).
+I usually listen to relaxing conversational podcasts such as <a href="https://hellointernet.fm" target="_blank">Hello Internet</a> while travelling or <a href="https://www.youtube.com/watch?v=hZyLwfrDyjc" target="_blank">nice power music</a>.
 
 <br>
 ## Combating the lack of power
@@ -133,7 +133,7 @@ After almost 2 hours of searching while jet-lagged, a small, suspicious corner s
 
 <img src="/images/travels/allinoneuniversalpoweradapter.jpg">
 
-*The [All-In-One 125V 250V universal travel power adapter](https://www.amazon.com/AlyKets-Universal-Travel-Adapter-Charger/dp/B0825ZW2N2/ref=sr_1_53?dchild=1&keywords=all+in+one+travel&qid=1584452789&s=electronics&sr=1-53) which can input even weird Danish plugs and connect them to the wall outlets in more than 150 countries worldwide. It falls rather easy out of the wall, but besides that it gets the work done.*
+*The <a href="https://www.amazon.com/AlyKets-Universal-Travel-Adapter-Charger/dp/B0825ZW2N2/ref=sr_1_53?dchild=1&keywords=all+in+one+travel&qid=1584452789&s=electronics&sr=1-53" target="_blank">All-In-One 125V 250V universal travel power adapter</a> which can input even weird Danish plugs and connect them to the wall outlets in more than 150 countries worldwide. It falls rather easy out of the wall, but besides that it gets the work done.*
 
 I got to my room, charged my laptop, and finished the presentation slides in my slightly fluttered, jet-lagged state-of-mind.<br>
 This is not an experience I would like to repeat, and therefore I always carry this universal power adapter with me in my backpack when travelling.
