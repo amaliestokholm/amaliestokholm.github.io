@@ -83,7 +83,7 @@ def main(noofpubs=5) -> None:
                     break
                 fp.write('%s ' % html.escape(a.split(',')[1]))
                 fp.write('%s' % html.escape(a.split(',')[0]))
-                if i < 2:
+                if i < 3:
                     fp.write(', ')
             fp.write('<br>\n')
             fp.write('Published %s\n' % pub["pubdate"][:7])
