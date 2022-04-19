@@ -78,7 +78,7 @@ def main(noofpubs=5) -> None:
             for i, a in enumerate(pub["author"]):
                 if i == 0:
                     fp.write('\n')
-                if i >= 3:
+                if i >= 4:
                     fp.write(' et al.\n')
                     break
                 fp.write('%s ' % html.escape(a.split(',')[1]))
