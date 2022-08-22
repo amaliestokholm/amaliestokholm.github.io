@@ -82,7 +82,7 @@ Following this you can right-click on the parent item in the items list and sele
 
 The `Create full export note` menu exports an item's metadata and its Zotero notes as a single file. For that it uses the `Mdnotes Default Template.md`, which you should edit by adding your desired metadata placeholders like done in this tutorial. Zotero notes included in this export will use a new template you need to add to the same root directory as `Mdnotes Default Template.md` called `Zotero Note Template.md`. My `Zotero Note Template.md` only contains one line
 ```
-{{noteContent}}
+{%raw%}{{noteContent}}{%endraw%}
 ```
 
 ### Formatting the extraction of notes
