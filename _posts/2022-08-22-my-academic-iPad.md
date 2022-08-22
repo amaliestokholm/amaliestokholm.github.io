@@ -4,20 +4,21 @@ category: Blog
 title: My academic iPad or how to link Zotero and Obsidian
 ---
 # My academic iPad  or how to link Zotero and Obsidian
-
 At one of the summer conferences, I noticed just how many people in the audience that would take their notes on an iPad during the talks. I wanted to try it out - here is my experience with it.
 
 I got a refurbed iPad Pro as a birthday gift. I bough an Apple Pen, a Paperlike screen protector and a case for it (so I don't break it too easily).
 
 I uninstalled most apps, changed the wallpaper, and installed my paper reference manager  [Zotero](zotero.org). And that is it. My idea is that this iPad is supposed to be a bit 'dumb' with few-to-no distractions and only a nice set-up just for reading.
 
+<br>
 
+---
 ## What is Zotero?
 Zotero is a free and open-source reference manager you can use to manage bibliographic metadata and notes of research papers. From it, you can extract bibtex-entries or bibliographies of research papers rather easily.
 
 Furthermore, Zotero has a decent built-in pdf viewer and annotator so you can take notes and highlight passages while reading the paper. This last part is what I want to use it for on my academic iPad.
 
-
+<br>
 ## What is Obsidian?
 However, I also want to easily get an overview of all of my notes on a single paper. For this I use a workflow that connects Zotero with my note-taking app [Obsidian]( obsidian.md) and saves my notes in a readable, searchable, nice-looking markdown file.
 
@@ -26,6 +27,7 @@ As mentioned in my post on [[My Obsidian]], Obsidian is a note-taking and knowle
 I use it as a repository for notes, ideas, code snippets, and lists, but there are many different ways of using it. One strength of Obsidian is the many community-driven plug-ins that adds amazing functionalities and customizations so you can design the workflow that suits you the best.
 
 
+<br>
 ## Devices and workflow
 I have Zotero and Obsidian on both my work laptop and my personal laptop. The laptops synchronize the Obsidian Vault using git and the Obsidian plug-in [Obsidian Git](https://github.com/denolehov/obsidian-git). This then also works as a backup for all of my notes.
 
@@ -36,6 +38,7 @@ I can then read it, highlight it, and take notes in it on my iPad.
 With two clicks in Zotero I then get a nicely formatted text with all my notes on this specific paper inside my Obsidian Vault for easy accessing and use. I love it!
 
 
+<br>
 ## How I take notes on the academic iPad
 As of now there is only 5 colours in the built-in Zotero Annotator. I use them for marking different things in a research paper:
 - Yellow `#ffd400` are default highlights
@@ -57,20 +60,20 @@ With the Apple Pencil I can also draw in the paper on Zotero, however, these dra
 <br>
 
 ---
-
 ## More technical: Linking Obsidian and Zotero
 So how do you actually link Obsidian to Zotero in order to extract your notes in a nice way?
 
-I started out with the workflow outlined here: https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-dataview-workflow/15536. Here you download Obsidian and the plug-ins Better Bibtex, Zotfile, and Mdnotes and you change some of the default settings.
+I started out with the workflow outlined <a href="https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-dataview-workflow/15536" target="_blank" rel="noopener">here</a>. Here you download Obsidian and the plug-ins Better Bibtex, Zotfile, and Mdnotes and you change some of the default settings.
 
 As I want to connect Zotero with my iPad, I did not make the set-up with a shared folder. Instead I enabled Zotero Sync. Otherwise, I followed the guide all the way to section 3.2.
 
 Zotero had been updated from version 5 to 6 since the tutorial was posted and this basically broke section 3.2 which concerns a set-up using Zotfile to extract annotations from Zotero. 
 
-Luckily, Zotero 6 has many of the same functionalities as Zotfile ( see e.g. https://github.com/jlegewie/zotfile/pull/573). Here is my version of section 3.2 ([[which I also posted as a reply in the tread]]]](https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-dataview-workflow/15536/101?u=cassiopyas)):
+Luckily, Zotero 6 has many of the same functionalities as Zotfile (see e.g. <a href="https://github.com/jlegewie/zotfile/pull/573" target="_blank" rel="noopener">this page</a>). Here is my version of section 3.2 (which I also posted as a <a href="(https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-dataview-workflow/15536/101?u=cassiopyas" target="_blank" rel="noopener">as a reply in the thread</a>)):
 
+<br>
 ### Extraction of Notes
-When you have added your notes to a paper in Zotero 6 using their annotator, you can create a note with all annotations in the PDF by right-clicking on the parent item in the items list and select `Add Note from Annotations`. (see https://www.zotero.org/support/pdf_reader#adding_annotations_to_notes)
+When you have added your notes to a paper in Zotero 6 using their annotator, you can create a note with all annotations in the PDF by right-clicking on the parent item in the items list and select `Add Note from Annotations`. (see <a href="https://www.zotero.org/support/pdf_reader#adding_annotations_to_notes" target="_blank" rel="noopener">here</a>)
 
 Following this you can right-click on the parent item in the items list and select `Mdnotes -> Create full export note` to get the formatted output in Obsidian.
 
@@ -80,7 +83,7 @@ The `Create full export note` menu exports an item's metadata and its Zotero not
 ```
 
 ### Formatting the extraction of notes
-The customizing of annotations can be done using note templates in the Config Editor in Zotero, like in Section 3.1. A brief link on how the Config Editor customization works can be found here: https://www.zotero.org/support/note_templates . Now you need to change 
+The customizing of annotations can be done using note templates in the Config Editor in Zotero, like in Section 3.1. A brief link on how the Config Editor customization works can be found <a href="https://www.zotero.org/support/note_templates" target="_blank" rel="noopener">here</a> . Now you need to change 
 - `extensions.zotero.annotations.noteTemplates.title`
 - `extensions.zotero.annotations.noteTemplates.note`
 - `extensions.zotero.annotations.noteTemplates.highlight`
@@ -89,7 +92,7 @@ The customizing of annotations can be done using note templates in the Config Ed
 In Zotero's Config Editor, you need to change the setting  `extensions.zotero.annotations.noteTemplates.title` to change the title of the Extracted note. The default is `<h1>{{title}}<br/>({{date}})</h1>` but as I am not interested in keeping the date, I changed it to `<h3>{{title}}<br/></h3>`.
 
 ### 3.2.3 Editing the Annotated Comments
-I want to highlight my annotated comments from parts of the main text that are highlighted. However, Mdnotes does not yet support italics or bold (In the Changelog (https://argentinaos.com/zotero-mdnotes/changelog/) this feature is listed under "Unreleased").
+I want to highlight my annotated comments from parts of the main text that are highlighted. However, Mdnotes does not yet support italics or bold (In the (<a href="https://argentinaos.com/zotero-mdnotes/changelog/" target="_blank" rel="noopener">Changelog</a>) this feature is listed under "Unreleased").
 
 In Zotero's Config Editor, you need to change the setting  `extensions.zotero.annotations.noteTemplates.note` to change the behavior of Notes/Sticky Notes
 So for now I have changed it to `<p>[[Note]] {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}}`
@@ -115,9 +118,9 @@ As mentioned above, my highlighting system currently is:
 - purple highlights are important conclusions.
 
 For now I have changed it to this long bit 
-```
+`
 {{if comment}} {{if color == '#ffd400'}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote> {{elseif color == '#5fb236'}}<p>{{highlight quotes='true'}} {{citation}}</p><p> - [ ] {{comment}} #task</p> {{elseif color == '#ff6666'}}<p>[[Disagreement]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote> <p>{{comment}}</p></blockquote> {{elseif color == '#2ea8e5'}}<p>[[Confusion]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{elseif color == '#a28ae5'}}<p>[[Important]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{else}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote>{{endif}} {{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}} {{else}}<p>[[Highlight]]:{{highlight quotes='true'}} {{citation}}</p>{{endif}}
-```
+`
 
 Again let us go through it line by line:
 - `{{if comment}}`: If a text comment was added to the highlight, do some of the following
