@@ -98,24 +98,24 @@ In Zotero's Config Editor, you need to change the setting  `extensions.zotero.an
 I want to highlight my annotated comments from parts of the main text that are highlighted. However, Mdnotes does not yet support italics or bold (In the (<a href="https://argentinaos.com/zotero-mdnotes/changelog/" target="_blank" rel="noopener">Changelog</a>) this feature is listed under "Unreleased").
 
 In Zotero's Config Editor, you need to change the setting  `extensions.zotero.annotations.noteTemplates.note` to change the behavior of Notes/Sticky Notes
-So for now I have changed it to `<p>[[Note]] {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}}`
+So for now I have changed it to `{%raw%}<p>[[Note]] {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}}{%endraw%}`
 
 Line by line:
-~~~
-<p>[[Note]] {{highlight quotes='true'}} {{citation}}</p>
-~~~
+```
+{%raw%}<p>[[Note]] {{highlight quotes='true'}} {{citation}}</p>{%endraw%}
+```
 
 This adds the link Note to this comment and tells me where in the document I added this sticky note.
 
-~~~
-<blockquote><p>{{comment}}</p></blockquote>
-~~~
+```
+{%raw%}<blockquote><p>{{comment}}</p></blockquote>{%endraw%}
+```
 
- This adds my own note as a blockquote to separate it from the rest of the main text.
+This adds my own note as a blockquote to separate it from the rest of the main text.
 
-~~~
-{{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}}
-~~~
+```
+{%raw%}{{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}}{%endraw%}
+```
 
 This adds another blockquote with any tags given to this note.
 
@@ -136,66 +136,66 @@ As mentioned above, my highlighting system currently is:
 - purple highlights are important conclusions.
 
 For now I have changed it to this long bit 
-~~~Markdown
-````{{if comment}} {{if color == '#ffd400'}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote> {{elseif color == '#5fb236'}}<p>{{highlight quotes='true'}} {{citation}}</p><p> - [ ] {{comment}} #task</p> {{elseif color == '#ff6666'}}<p>[[Disagreement]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote> <p>{{comment}}</p></blockquote> {{elseif color == '#2ea8e5'}}<p>[[Confusion]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{elseif color == '#a28ae5'}}<p>[[Important]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{else}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote>{{endif}} {{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}} {{else}}<p>[[Highlight]]:{{highlight quotes='true'}} {{citation}}</p>{{endif}}````
-~~~
+
+```
+{%raw%}{{if comment}} {{if color == '#ffd400'}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote> {{elseif color == '#5fb236'}}<p>{{highlight quotes='true'}} {{citation}}</p><p> - [ ] {{comment}} #task</p> {{elseif color == '#ff6666'}}<p>[[Disagreement]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote> <p>{{comment}}</p></blockquote> {{elseif color == '#2ea8e5'}}<p>[[Confusion]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{elseif color == '#a28ae5'}}<p>[[Important]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{else}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote>{{endif}} {{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}} {{else}}<p>[[Highlight]]:{{highlight quotes='true'}} {{citation}}</p>{{endif}}{%endraw%}
+```
 
 Again let us go through it line by line:
 
-~~~
-{{if comment}}
-~~~
+```
+{%raw%}{{if comment}}{%endraw%}
+```
 
 If a text comment was added to the highlight, do some of the following
 
-~~~
-{{if color == '#ffd400'}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote>
-~~~
+```
+{%raw%}{{if color == '#ffd400'}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote>{%endraw%}
+```
 
 If the color is yellow, just add a blockquote note.
 
-~~~
-{{elseif color == '#5fb236'}}<p>{{highlight quotes='true'}} {{citation}}</p><p> - [ ] {{comment}} #task</p>
-~~~
+```
+{%raw%}{{elseif color == '#5fb236'}}<p>{{highlight quotes='true'}} {{citation}}</p><p> - [ ] {{comment}} #task</p>{%endraw%}
+```
 
 If the color is green, add a to-do item with the comment and tag the item with the label `#task`. This makes it possible to do the neat Dataview extraction in Obsidian as explained at the end of tutorial.
 
-
-~~~
-{{elseif color == '#ff6666'}}<p>[[Disagreement]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote> <p>{{comment}}</p></blockquote>
-~~~
+```
+{%raw%}{{elseif color == '#ff6666'}}<p>[[Disagreement]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote> <p>{{comment}}</p></blockquote>{%endraw%}
+```
 
 If the color is red, mark the comment as Disagreement and add the note in a blockquote.
 
-~~~
-{{elseif color == '#2ea8e5'}}<p>[[Confusion]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote>
-~~~
+```
+{%raw%}{{elseif color == '#2ea8e5'}}<p>[[Confusion]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote>{%endraw%}
+```
 
- If the color is blue, mark the comment as Confusion and add the note in a blockquote.
+If the color is blue, mark the comment as Confusion and add the note in a blockquote.
 
-~~~
-{{elseif color == '#a28ae5'}}<p>[[Important]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote>
-~~~
+```
+{%raw%}{{elseif color == '#a28ae5'}}<p>[[Important]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote>{%endraw%}
+```
 
 If the color is purple, label the comment as Important and add the note in a blockquote.
 
-~~~
-{{else}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote>{{endif}}
-~~~
+```
+{%raw%}{{else}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote>{{endif}}{%endraw%}
+```
 
- If the color is something else (not yet implemented), then just add the note in a blockquote.
+If the color is something else (not yet implemented), then just add the note in a blockquote.
 
-~~~
-{{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}}
-~~~
+```
+{%raw%}{{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}}{%endraw%}
+```
 
 All tags added in Zotero are added to a list
 
-~~~
-{{else}}<p>[[Highlight]]:{{highlight quotes='true'}} {{citation}}</p>{{endif}}
-~~~
+```
+{%raw%}{{else}}<p>[[Highlight]]:{{highlight quotes='true'}} {{citation}}</p>{{endif}}{%endraw%}
+```
 
- If the highlight contains no notes, mark it as `Highlight`.
+If the highlight contains no notes, mark it as `Highlight`.
 
 <br>
 ## Workflow
