@@ -81,9 +81,9 @@ When you have added your notes to a paper in Zotero 6 using their annotator, you
 Following this you can right-click on the parent item in the items list and select `Mdnotes -> Create full export note` to get the formatted output in Obsidian.
 
 The `Create full export note` menu exports an item's metadata and its Zotero notes as a single file. For that it uses the `Mdnotes Default Template.md`, which you should edit by adding your desired metadata placeholders like done in this tutorial. Zotero notes included in this export will use a new template you need to add to the same root directory as `Mdnotes Default Template.md` called `Zotero Note Template.md`. My `Zotero Note Template.md` only contains one line
-~~~
-{{noteContent}}
-~~~
+```
+\{\{noteContent\}\}
+```
 
 ### Formatting the extraction of notes
 The customizing of annotations can be done using note templates in the Config Editor in Zotero, like in Section 3.1. A brief link on how the Config Editor customization works can be found <a href="https://www.zotero.org/support/note_templates" target="_blank" rel="noopener">here</a> . Now you need to change 
