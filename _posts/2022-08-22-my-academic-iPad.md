@@ -72,7 +72,7 @@ As I want to connect Zotero with my iPad, I did not make the set-up with a share
 
 Zotero had been updated from version 5 to 6 since the tutorial was posted and this basically broke section 3.2 which concerns a set-up using Zotfile to extract annotations from Zotero. 
 
-Luckily, Zotero 6 has many of the same functionalities as Zotfile (see e.g. <a href="https://github.com/jlegewie/zotfile/pull/573" target="_blank" rel="noopener">this page</a>). Here is my version of section 3.2 (which I also posted <a href="(https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-dataview-workflow/15536/101?u=cassiopyas" target="_blank" rel="noopener">as a reply in the thread</a>)):
+Luckily, Zotero 6 has many of the same functionalities as Zotfile (see e.g. <a href="https://github.com/jlegewie/zotfile/pull/573" target="_blank" rel="noopener">this page</a>). Here is my version of section 3.2 (which I also posted <a href="https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-dataview-workflow/15536/101?u=cassiopyas" target="_blank" rel="noopener">as a reply in the thread</a>)):
 
 <br>
 ### Extraction of Notes
@@ -140,7 +140,7 @@ As mentioned above, my highlighting system currently is:
 - blue highlights things that confuse me, and
 - purple highlights are important conclusions.
 
-For now I have changed it to this long bit 
+For now I have changed the setting to this long bit 
 
 ```
 {%raw%}{{if comment}} {{if color == '#ffd400'}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote> {{elseif color == '#5fb236'}}<p>{{highlight quotes='true'}} {{citation}}</p><p> - [ ] {{comment}} #task</p> {{elseif color == '#ff6666'}}<p>[[Disagreement]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote> <p>{{comment}}</p></blockquote> {{elseif color == '#2ea8e5'}}<p>[[Confusion]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{elseif color == '#a28ae5'}}<p>[[Important]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{else}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote>{{endif}} {{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}} {{else}}<p>[[Highlight]]:{{highlight quotes='true'}} {{citation}}</p>{{endif}}{%endraw%}
