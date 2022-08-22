@@ -1,19 +1,22 @@
---
+---
 layout: blog
 category: Blog
 title: My academic iPad or how to link Zotero and Obsidian
 ---
 # My academic iPad  or how to link Zotero and Obsidian
+
 At one of the summer conferences, I noticed just how many people in the audience that would take their notes on an iPad during the talks. I wanted to try it out - here is my experience with it.
 
 I got a refurbed iPad Pro as a birthday gift. I bough an Apple Pen, a Paperlike screen protector and a case for it (so I don't break it too easily).
 
 I uninstalled most apps, changed the wallpaper, and installed my paper reference manager  [Zotero](zotero.org). And that is it. My idea is that this iPad is supposed to be a bit 'dumb' with few-to-no distractions and only a nice set-up just for reading.
 
+
 ## What is Zotero?
 Zotero is a free and open-source reference manager you can use to manage bibliographic metadata and notes of research papers. From it, you can extract bibtex-entries or bibliographies of research papers rather easily.
 
 Furthermore, Zotero has a decent built-in pdf viewer and annotator so you can take notes and highlight passages while reading the paper. This last part is what I want to use it for on my academic iPad.
+
 
 ## What is Obsidian?
 However, I also want to easily get an overview of all of my notes on a single paper. For this I use a workflow that connects Zotero with my note-taking app [Obsidian]( obsidian.md) and saves my notes in a readable, searchable, nice-looking markdown file.
@@ -21,6 +24,7 @@ However, I also want to easily get an overview of all of my notes on a single pa
 As mentioned in my post on [[My Obsidian]], Obsidian is a note-taking and knowledge management app that saves all of your notes in plain markdown files in a local folder. It is a free tool and because it stores the data locally in simple text files, you do not rely on a cloud-service or on keep using Obsidian for the rest of your working life. The notes will always be readable to you and you can always access them.
 
 I use it as a repository for notes, ideas, code snippets, and lists, but there are many different ways of using it. One strength of Obsidian is the many community-driven plug-ins that adds amazing functionalities and customizations so you can design the workflow that suits you the best.
+
 
 ## Devices and workflow
 I have Zotero and Obsidian on both my work laptop and my personal laptop. The laptops synchronize the Obsidian Vault using git and the Obsidian plug-in [Obsidian Git](https://github.com/denolehov/obsidian-git). This then also works as a backup for all of my notes.
@@ -30,6 +34,7 @@ For the pdf's and notes in Zotero, I use the build-in Zotero Sync. This choice m
 So the workflow is that when I find a paper on one of the laptops, I use the chrome extention of Zotero to add the pdf to my Zotero library.
 I can then read it, highlight it, and take notes in it on my iPad.
 With two clicks in Zotero I then get a nicely formatted text with all my notes on this specific paper inside my Obsidian Vault for easy accessing and use. I love it!
+
 
 ## How I take notes on the academic iPad
 As of now there is only 5 colours in the built-in Zotero Annotator. I use them for marking different things in a research paper:
@@ -48,6 +53,10 @@ This makes them easily searchable and usable with the great backlinking system i
 With the Apple pencil, I can write my notes and get the handwriting converted into text using the brilliant Scribble function, which is enabled in newer versions of iPad IOS. 
 
 With the Apple Pencil I can also draw in the paper on Zotero, however, these drawings do not get converted and saved in Obsidian. I therefore usually accompany a drawing with a sticky note (that does make it into my Obsidian Vault) so I remember that the drawing exists and can look it up if needed.
+
+<br>
+
+---
 
 ## More technical: Linking Obsidian and Zotero
 So how do you actually link Obsidian to Zotero in order to extract your notes in a nice way?
