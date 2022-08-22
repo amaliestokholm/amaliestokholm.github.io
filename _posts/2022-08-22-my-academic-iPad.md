@@ -29,7 +29,7 @@ I use it as a repository for notes, ideas, code snippets, and lists, but there a
 
 <br>
 ## Devices and workflow
-I have Zotero and Obsidian on both my work laptop and my personal laptop. The laptops synchronize the Obsidian Vault using git and the Obsidian plug-in [Obsidian Git](https://github.com/denolehov/obsidian-git). This then also works as a backup for all of my notes.
+I have Zotero and Obsidian on both my work laptop and my personal laptop. The laptops synchronize the Obsidian Vault using git and the Obsidian plug-in <a href="https://github.com/denolehov/obsidian-git" target="_blank" rel="noopener">Obsidian Git</a>). This then also works as a backup for all of my notes.
 
 For the pdf's and notes in Zotero, I use the build-in Zotero Sync. This choice makes it possible for me to synchronize with the IOS app on my iPad and therefore use it for taking notes and reading. You get up to 300 MB for free and can update to more for relatively cheap.
 
@@ -51,9 +51,9 @@ Besides highlighting text in the paper, I will take general notes in sticky note
 
 All of these highlights and notes will be saved, converted to markdown files, and become part of my Obsidian Vault. Here they get tagged and formatted based on their colours and nature, meaning I get a single nice-looking markdown file with all of my notes and references for every single paper.
 
-This makes them easily searchable and usable with the great backlinking system in Obsidian and its network view of notes. For me, this actually makes them a lot more useful. Back when I had a more physical, non-electronic system, I rarely went through my notes from paper reviews or conferences -- but this new system has changed that. 
+This makes them easily searchable and usable with the great backlinking system in Obsidian and its network view of notes. For me, this actually makes them a lot more useful. Back when I had a more physical, non-electronic system, I rarely went through my notes from paper reviews or conferences -- but this new system has changed that.
 
-With the Apple pencil, I can write my notes and get the handwriting converted into text using the brilliant Scribble function, which is enabled in newer versions of iPad IOS. 
+With the Apple pencil, I can write my notes and get the handwriting converted into text using the brilliant Scribble function, which is enabled in newer versions of iPad IOS.
 
 With the Apple Pencil I can also draw in the paper on Zotero, however, these drawings do not get converted and saved in Obsidian. I therefore usually accompany a drawing with a sticky note (that does make it into my Obsidian Vault) so I remember that the drawing exists and can look it up if needed.
 
