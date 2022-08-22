@@ -8,7 +8,7 @@ At one of the summer conferences, I noticed just how many people in the audience
 
 I got a refurbed iPad Pro as a birthday gift. I bough an Apple Pen, a Paperlike screen protector and a case for it (so I don't break it too easily).
 
-I uninstalled most apps, changed the wallpaper, and installed my paper reference manager  [Zotero](zotero.org). And that is it. My idea is that this iPad is supposed to be a bit 'dumb' with few-to-no distractions and only a nice set-up just for reading.
+I uninstalled most apps, changed the wallpaper, and installed my paper reference manager <a href="zotero.org" target="_blank" rel="noopener">Zotero</a>). And that is it. My idea is that this iPad is supposed to be a bit 'dumb' with few-to-no distractions and only a nice set-up just for reading.
 
 <br>
 
@@ -20,9 +20,9 @@ Furthermore, Zotero has a decent built-in pdf viewer and annotator so you can ta
 
 <br>
 ## What is Obsidian?
-However, I also want to easily get an overview of all of my notes on a single paper. For this I use a workflow that connects Zotero with my note-taking app [Obsidian]( obsidian.md) and saves my notes in a readable, searchable, nice-looking markdown file.
+However, I also want to easily get an overview of all of my notes on a single paper. For this I use a workflow that connects Zotero with my note-taking app<a href="obsidian.md" target="_blank">Obsidian</a> and saves my notes in a readable, searchable, nice-looking markdown file.
 
-As mentioned in my post on [[My Obsidian]], Obsidian is a note-taking and knowledge management app that saves all of your notes in plain markdown files in a local folder. It is a free tool and because it stores the data locally in simple text files, you do not rely on a cloud-service or on keep using Obsidian for the rest of your working life. The notes will always be readable to you and you can always access them.
+As mentioned in my post on <a href="/blog/2022/08/22/my-Obsidian" target="_blank">my Obsidian</a>, Obsidian is a note-taking and knowledge management app that saves all of your notes in plain markdown files in a local folder. It is a free tool and because it stores the data locally in simple text files, you do not rely on a cloud-service or on keep using Obsidian for the rest of your working life. The notes will always be readable to you and you can always access them.
 
 I use it as a repository for notes, ideas, code snippets, and lists, but there are many different ways of using it. One strength of Obsidian is the many community-driven plug-ins that adds amazing functionalities and customizations so you can design the workflow that suits you the best.
 
@@ -69,7 +69,7 @@ As I want to connect Zotero with my iPad, I did not make the set-up with a share
 
 Zotero had been updated from version 5 to 6 since the tutorial was posted and this basically broke section 3.2 which concerns a set-up using Zotfile to extract annotations from Zotero. 
 
-Luckily, Zotero 6 has many of the same functionalities as Zotfile (see e.g. <a href="https://github.com/jlegewie/zotfile/pull/573" target="_blank" rel="noopener">this page</a>). Here is my version of section 3.2 (which I also posted as a <a href="(https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-dataview-workflow/15536/101?u=cassiopyas" target="_blank" rel="noopener">as a reply in the thread</a>)):
+Luckily, Zotero 6 has many of the same functionalities as Zotfile (see e.g. <a href="https://github.com/jlegewie/zotfile/pull/573" target="_blank" rel="noopener">this page</a>). Here is my version of section 3.2 (which I also posted <a href="(https://forum.obsidian.md/t/zotero-zotfile-mdnotes-obsidian-dataview-workflow/15536/101?u=cassiopyas" target="_blank" rel="noopener">as a reply in the thread</a>)):
 
 <br>
 ### Extraction of Notes
@@ -79,7 +79,7 @@ Following this you can right-click on the parent item in the items list and sele
 
 The `Create full export note` menu exports an item's metadata and its Zotero notes as a single file. For that it uses the `Mdnotes Default Template.md`, which you should edit by adding your desired metadata placeholders like done in this tutorial. Zotero notes included in this export will use a new template you need to add to the same root directory as `Mdnotes Default Template.md` called `Zotero Note Template.md`. My `Zotero Note Template.md` only contains one line
 ```
-{{noteContent}}
+\{\{noteContent\}\}
 ```
 
 ### Formatting the extraction of notes
@@ -118,9 +118,9 @@ As mentioned above, my highlighting system currently is:
 - purple highlights are important conclusions.
 
 For now I have changed it to this long bit 
-`
+```
 {{if comment}} {{if color == '#ffd400'}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote> {{elseif color == '#5fb236'}}<p>{{highlight quotes='true'}} {{citation}}</p><p> - [ ] {{comment}} #task</p> {{elseif color == '#ff6666'}}<p>[[Disagreement]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote> <p>{{comment}}</p></blockquote> {{elseif color == '#2ea8e5'}}<p>[[Confusion]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{elseif color == '#a28ae5'}}<p>[[Important]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{else}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote>{{endif}} {{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}} {{else}}<p>[[Highlight]]:{{highlight quotes='true'}} {{citation}}</p>{{endif}}
-`
+```
 
 Again let us go through it line by line:
 - `{{if comment}}`: If a text comment was added to the highlight, do some of the following
