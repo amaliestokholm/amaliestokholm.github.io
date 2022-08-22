@@ -92,17 +92,17 @@ The customizing of annotations can be done using note templates in the Config Ed
 - `extensions.zotero.annotations.noteTemplates.highlight`
 
 ### 3.2.2 Changing the Note Title
-In Zotero's Config Editor, you need to change the setting  `extensions.zotero.annotations.noteTemplates.title` to change the title of the Extracted note. The default is `<h1>\{\{title\}\}<br/>(\{\{date\}\})</h1>` but as I am not interested in keeping the date, I changed it to `<h3>\{\{title\}\}<br/></h3>`.
+In Zotero's Config Editor, you need to change the setting  `extensions.zotero.annotations.noteTemplates.title` to change the title of the Extracted note. The default is `{%raw%}<h1>{{title}}<br/>({{date}})</h1>{%endraw%}` but as I am not interested in keeping the date, I changed it to `{%raw%}<h3>{{title}}<br/></h3>{%endraw%}`.
 
 ### 3.2.3 Editing the Annotated Comments
 I want to highlight my annotated comments from parts of the main text that are highlighted. However, Mdnotes does not yet support italics or bold (In the (<a href="https://argentinaos.com/zotero-mdnotes/changelog/" target="_blank" rel="noopener">Changelog</a>) this feature is listed under "Unreleased").
 
 In Zotero's Config Editor, you need to change the setting  `extensions.zotero.annotations.noteTemplates.note` to change the behavior of Notes/Sticky Notes
-So for now I have changed it to `<p>[[Note]] \{\{highlight quotes='true'\}\} \{\{citation\}\}</p> <blockquote><p>\{\{comment\}\}</p></blockquote> \{\{if tags\}\} <blockquote><p><b>Tags:</b> #\{\{tags join=' #'\}\}</p></blockquote>\{\{endif\}\}`
+So for now I have changed it to `<p>[[Note]] {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}}`
 
 Line by line:
 ~~~
-<p>[[Note]] \{\{highlight quotes='true'}} {{citation}}</p>
+<p>[[Note]] {{highlight quotes='true'}} {{citation}}</p>
 ~~~
 
 This adds the link Note to this comment and tells me where in the document I added this sticky note.
