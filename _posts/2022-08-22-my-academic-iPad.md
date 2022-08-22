@@ -8,23 +8,23 @@ At one of the summer conferences, I noticed just how many people in the audience
 
 I got a refurbed iPad Pro as a birthday gift. I bough an Apple Pen, a Paperlike screen protector and a case for it (so I don't break it too easily).
 
-I uninstalled most apps, changed the wallpaper, and installed my paper reference manager <a href="https://zotero.org" target="_blank">Zotero</a>). And that is it. My idea is that this iPad is supposed to be a bit 'dumb' with few-to-no distractions and only a nice set-up just for reading.
+I uninstalled most apps, changed the wallpaper, and installed my paper reference manager <a href="https://zotero.org" target="_blank" rel="noopener">Zotero</a>. And that is it. My idea is that this iPad is supposed to be a bit 'dumb' with few-to-no distractions and only a nice set-up just for reading.
 
 <br>
 
 ---
 ## What is Zotero?
-Zotero is a free and open-source reference manager you can use to manage bibliographic metadata and notes of research papers. From it, you can extract bibtex-entries or bibliographies of research papers rather easily.
+<a href="https://zotero.org" target="_blank" rel="noopener">Zotero</a> is a free and open-source reference manager you can use to manage bibliographic metadata and notes of research papers. From it, you can extract bibtex-entries or bibliographies of research papers rather easily.
 
 Furthermore, Zotero has a decent built-in pdf viewer and annotator so you can take notes and highlight passages while reading the paper. This last part is what I want to use it for on my academic iPad.
 
 <br>
 ## What is Obsidian?
-However, I also want to easily get an overview of all of my notes on a single paper. For this I use a workflow that connects Zotero with my note-taking app<a href="https://obsidian.md" target="_blank">Obsidian</a> and saves my notes in a readable, searchable, nice-looking markdown file.
+However, I also want to easily get an overview of all of my notes on a single paper. For this I use a workflow that connects Zotero with my note-taking app <a href="https://obsidian.md" target="_blank">Obsidian</a> and saves my notes in a readable, searchable, nice-looking markdown file.
 
 As mentioned in my post on <a href="/blog/2022/08/22/my-Obsidian/" target="_blank">my Obsidian</a>, Obsidian is a note-taking and knowledge management app that saves all of your notes in plain markdown files in a local folder. It is a free tool and because it stores the data locally in simple text files, you do not rely on a cloud-service or on keep using Obsidian for the rest of your working life. The notes will always be readable to you and you can always access them.
 
-I use it as a repository for notes, ideas, code snippets, and lists, but there are many different ways of using it. One strength of Obsidian is the many community-driven plug-ins that adds amazing functionalities and customizations so you can design the workflow that suits you the best.
+I use it as a repository for notes, ideas, code snippets, and lists, but there are many different ways of using it. One strength of Obsidian is the many community-driven plug-ins that adds amazing functionalities and customizations so you can design the workflow that best suits you.
 
 
 <br>
@@ -33,9 +33,12 @@ I have Zotero and Obsidian on both my work laptop and my personal laptop. The la
 
 For the pdf's and notes in Zotero, I use the build-in Zotero Sync. This choice makes it possible for me to synchronize with the IOS app on my iPad and therefore use it for taking notes and reading. You get up to 300 MB for free and can update to more for relatively cheap.
 
-So the workflow is that when I find a paper on one of the laptops, I use the chrome extention of Zotero to add the pdf to my Zotero library.
-I can then read it, highlight it, and take notes in it on my iPad.
-With two clicks in Zotero I then get a nicely formatted text with all my notes on this specific paper inside my Obsidian Vault for easy accessing and use. I love it!
+So the workflow is:
+- when I find a paper on one of the laptops, I use the chrome extention of Zotero to add the pdf to my Zotero library.
+- I then read it, highlight it, and take notes in it on my iPad.
+- With two clicks in Zotero, a nicely formatted text with all my notes on this specific paper pops up inside my Obsidian Vault for easy accessing and use.
+
+I love it!
 
 
 <br>
@@ -53,7 +56,7 @@ All of these highlights and notes will be saved, converted to markdown files, an
 
 This makes them easily searchable and usable with the great backlinking system in Obsidian and its network view of notes. For me, this actually makes them a lot more useful. Back when I had a more physical, non-electronic system, I rarely went through my notes from paper reviews or conferences -- but this new system has changed that.
 
-With the Apple pencil, I can write my notes and get the handwriting converted into text using the brilliant Scribble function, which is enabled in newer versions of iPad IOS.
+With the Apple pencil, I can write my notes and get the handwriting converted into text using the brilliant <a href="https://support.apple.com/en-us/HT208459#:~:text=Turn%20handwriting%20into%20text%20with%20Scribble&text=In%20a%20document%2C%20tap%20Apple,the%20screen%2C%20then%20start%20writing." target="_blank" rel="noopener">Scribble function</a>, which is enabled in newer versions of iPad IOS.
 
 With the Apple Pencil I can also draw in the paper on Zotero, however, these drawings do not get converted and saved in Obsidian. I therefore usually accompany a drawing with a sticky note (that does make it into my Obsidian Vault) so I remember that the drawing exists and can look it up if needed.
 
@@ -98,9 +101,24 @@ In Zotero's Config Editor, you need to change the setting  `extensions.zotero.an
 So for now I have changed it to `<p>[[Note]] {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}}`
 
 Line by line:
-- `<p>[[Note]] {{highlight quotes='true'}} {{citation}}</p>` This adds the link Note to this comment and tells me where in the document I added this sticky note.
-- `<blockquote><p>{{comment}}</p></blockquote>`: This adds my own note as a blockquote to separate it from the rest of the main text.
-- `{{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}}`: This adds another blockquote with any tags given to this note.
+~~~
+<p>[[Note]] {{highlight quotes='true'}} {{citation}}</p>
+~~~
+
+This adds the link Note to this comment and tells me where in the document I added this sticky note.
+
+~~~
+<blockquote><p>{{comment}}</p></blockquote>
+~~~
+
+ This adds my own note as a blockquote to separate it from the rest of the main text.
+
+~~~
+{{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}}
+~~~
+
+This adds another blockquote with any tags given to this note.
+
 
 ### 3.2.4 Changing Underlines
 This I could not find the setting for.
@@ -118,21 +136,67 @@ As mentioned above, my highlighting system currently is:
 - purple highlights are important conclusions.
 
 For now I have changed it to this long bit 
-```
+~~~
 {{if comment}} {{if color == '#ffd400'}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote> {{elseif color == '#5fb236'}}<p>{{highlight quotes='true'}} {{citation}}</p><p> - [ ] {{comment}} #task</p> {{elseif color == '#ff6666'}}<p>[[Disagreement]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote> <p>{{comment}}</p></blockquote> {{elseif color == '#2ea8e5'}}<p>[[Confusion]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{elseif color == '#a28ae5'}}<p>[[Important]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{else}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote>{{endif}} {{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}} {{else}}<p>[[Highlight]]:{{highlight quotes='true'}} {{citation}}</p>{{endif}}
-```
+~~~
 
 Again let us go through it line by line:
-- `{{if comment}}`: If a text comment was added to the highlight, do some of the following
-		- `{{if color == '#ffd400'}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote>`: If the color is yellow, just add a blockquote note.
-		- `{{elseif color == '#5fb236'}}<p>{{highlight quotes='true'}} {{citation}}</p><p> - [ ] {{comment}} #task</p>`: If the color is green, add a to-do item with the comment and tag the item with the label `#task`. This makes it possible to do the neat Dataview extraction in Obsidian as explained at the end of tutorial.
-		- `{{elseif color == '#ff6666'}}<p>[[Disagreement]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote> <p>{{comment}}</p></blockquote>`: If the color is red, mark the comment as Disagreement and add the note in a blockquote.
-		- `{{elseif color == '#2ea8e5'}}<p>[[Confusion]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote>`: If the color is blue, mark the comment as Confusion and add the note in a blockquote.
-		- `{{elseif color == '#a28ae5'}}<p>[[Important]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote>`: If the color is purple, label the comment as Important and add the note in a blockquote.
-		- `{{else}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote>{{endif}}`: If the color is something else (not yet implemented), then just add the note in a blockquote.
-	- `{{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}}`: All tags are added to a list
-- `{{else}}<p>[[Highlight]]:{{highlight quotes='true'}} {{citation}}</p>{{endif}}` If the highlight contains no notes, mark it as `Highlight`.
+~~~
+{{if comment}}
+~~~
 
+If a text comment was added to the highlight, do some of the following
+
+~~~
+{{if color == '#ffd400'}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote>
+~~~
+
+If the color is yellow, just add a blockquote note.
+
+~~~
+{{elseif color == '#5fb236'}}<p>{{highlight quotes='true'}} {{citation}}</p><p> - [ ] {{comment}} #task</p>
+~~~
+
+If the color is green, add a to-do item with the comment and tag the item with the label `#task`. This makes it possible to do the neat Dataview extraction in Obsidian as explained at the end of tutorial.
+
+
+~~~
+{{elseif color == '#ff6666'}}<p>[[Disagreement]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote> <p>{{comment}}</p></blockquote>
+~~~
+
+If the color is red, mark the comment as Disagreement and add the note in a blockquote.
+
+~~~
+{{elseif color == '#2ea8e5'}}<p>[[Confusion]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote>
+~~~
+
+ If the color is blue, mark the comment as Confusion and add the note in a blockquote.
+
+~~~
+{{elseif color == '#a28ae5'}}<p>[[Important]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote>
+~~~
+
+If the color is purple, label the comment as Important and add the note in a blockquote.
+
+~~~
+{{else}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote>{{endif}}
+~~~
+
+ If the color is something else (not yet implemented), then just add the note in a blockquote.
+
+~~~
+{{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}}
+~~~
+
+All tags added in Zotero are added to a list
+
+~~~
+{{else}}<p>[[Highlight]]:{{highlight quotes='true'}} {{citation}}</p>{{endif}}
+~~~
+
+ If the highlight contains no notes, mark it as `Highlight`.
+
+<br>
 ## Workflow
 So the workflow becomes:
 - Save the pdf in Zotero via a browser.
