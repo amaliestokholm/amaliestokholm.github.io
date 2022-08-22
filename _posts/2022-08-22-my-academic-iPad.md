@@ -29,7 +29,7 @@ I use it as a repository for notes, ideas, code snippets, and lists, but there a
 
 <br>
 ## Devices and workflow
-I have Zotero and Obsidian on both my work laptop and my personal laptop. The laptops synchronize the Obsidian Vault using git and the Obsidian plug-in <a href="https://github.com/denolehov/obsidian-git" target="_blank" rel="noopener">Obsidian Git</a>). This then also works as a backup for all of my notes.
+I have Zotero and Obsidian on both my work laptop and my personal laptop. The laptops synchronize the Obsidian Vault using git and the Obsidian plug-in <a href="https://github.com/denolehov/obsidian-git" target="_blank" rel="noopener">Obsidian Git</a>. This then also works as a backup for all of my notes.
 
 For the pdf's and notes in Zotero, I use the build-in Zotero Sync. This choice makes it possible for me to synchronize with the IOS app on my iPad and therefore use it for taking notes and reading. You get up to 300 MB for free and can update to more for relatively cheap.
 
@@ -101,7 +101,9 @@ In Zotero's Config Editor, you need to change the setting  `extensions.zotero.an
 I want to highlight my annotated comments from parts of the main text that are highlighted. However, Mdnotes does not yet support italics or bold (In the (<a href="https://argentinaos.com/zotero-mdnotes/changelog/" target="_blank" rel="noopener">Changelog</a>) this feature is listed under "Unreleased").
 
 In Zotero's Config Editor, you need to change the setting  `extensions.zotero.annotations.noteTemplates.note` to change the behavior of Notes/Sticky Notes
-So for now I have changed it to `{%raw%}<p>[[Note]] {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}}{%endraw%}`
+So for now I have changed it to
+```{%raw%}<p>[[Note]] {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}}{%endraw%}
+```
 
 Line by line:
 ```
