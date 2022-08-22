@@ -1,3 +1,8 @@
+--
+layout: blog
+category: Blog
+title: My Obsidian Vault
+---
 # My Obsidian Vault
 [Obsidian]( obsidian.md) is a note-taking and knowledge management app. What I like about it is that it saves all of your notes in markdown files in a local folder.
 

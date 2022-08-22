@@ -1,3 +1,8 @@
+--
+layout: blog
+category: Blog
+title: My academic iPad or how to link Zotero and Obsidian
+---
 # My academic iPad  or how to link Zotero and Obsidian
 At one of the summer conferences, I noticed just how many people in the audience that would take their notes on an iPad during the talks. I wanted to try it out - here is my experience with it.
 
