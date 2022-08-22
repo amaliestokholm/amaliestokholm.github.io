@@ -85,15 +85,18 @@ The `Create full export note` menu exports an item's metadata and its Zotero not
 {%raw%}{{noteContent}}{%endraw%}
 ```
 
+<br>
 ### Formatting the extraction of notes
 The customizing of annotations can be done using note templates in the Config Editor in Zotero, like in Section 3.1. A brief link on how the Config Editor customization works can be found <a href="https://www.zotero.org/support/note_templates" target="_blank" rel="noopener">here</a> . Now you need to change 
 - `extensions.zotero.annotations.noteTemplates.title`
 - `extensions.zotero.annotations.noteTemplates.note`
 - `extensions.zotero.annotations.noteTemplates.highlight`
 
+<br>
 ### 3.2.2 Changing the Note Title
 In Zotero's Config Editor, you need to change the setting  `extensions.zotero.annotations.noteTemplates.title` to change the title of the Extracted note. The default is `{%raw%}<h1>{{title}}<br/>({{date}})</h1>{%endraw%}` but as I am not interested in keeping the date, I changed it to `{%raw%}<h3>{{title}}<br/></h3>{%endraw%}`.
 
+<br>
 ### 3.2.3 Editing the Annotated Comments
 I want to highlight my annotated comments from parts of the main text that are highlighted. However, Mdnotes does not yet support italics or bold (In the (<a href="https://argentinaos.com/zotero-mdnotes/changelog/" target="_blank" rel="noopener">Changelog</a>) this feature is listed under "Unreleased").
 
@@ -120,9 +123,11 @@ This adds my own note as a blockquote to separate it from the rest of the main t
 This adds another blockquote with any tags given to this note.
 
 
+<br>
 ### 3.2.4 Changing Underlines
 This I could not find the setting for.
 
+<br>
 ### 3.2.5 Highlight Colors
 In Zotero's Config Editor, you need to change the setting  `extensions.zotero.annotations.noteTemplates.highlight` to change the behavior of the highlight.
 
@@ -165,19 +170,19 @@ If the color is green, add a to-do item with the comment and tag the item with t
 {%raw%}{{elseif color == '#ff6666'}}<p>[[Disagreement]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote> <p>{{comment}}</p></blockquote>{%endraw%}
 ```
 
-If the color is red, mark the comment as Disagreement and add the note in a blockquote.
+If the color is red, mark the comment as `Disagreement` and add the note in a blockquote.
 
 ```
 {%raw%}{{elseif color == '#2ea8e5'}}<p>[[Confusion]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote>{%endraw%}
 ```
 
-If the color is blue, mark the comment as Confusion and add the note in a blockquote.
+If the color is blue, mark the comment as `Confusion` and add the note in a blockquote.
 
 ```
 {%raw%}{{elseif color == '#a28ae5'}}<p>[[Important]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote>{%endraw%}
 ```
 
-If the color is purple, label the comment as Important and add the note in a blockquote.
+If the color is purple, label the comment as `Important` and add the note in a blockquote.
 
 ```
 {%raw%}{{else}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote>{{endif}}{%endraw%}
