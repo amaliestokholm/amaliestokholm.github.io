@@ -8,7 +8,7 @@ At one of the summer conferences, I noticed just how many people in the audience
 
 I got a refurbed iPad Pro as a birthday gift. I bough an Apple Pen, a Paperlike screen protector and a case for it (so I don't break it too easily).
 
-I uninstalled most apps, changed the wallpaper, and installed my paper reference manager <a href="zotero.org" target="_blank" rel="noopener">Zotero</a>). And that is it. My idea is that this iPad is supposed to be a bit 'dumb' with few-to-no distractions and only a nice set-up just for reading.
+I uninstalled most apps, changed the wallpaper, and installed my paper reference manager <a href="https://zotero.org" target="_blank">Zotero</a>). And that is it. My idea is that this iPad is supposed to be a bit 'dumb' with few-to-no distractions and only a nice set-up just for reading.
 
 <br>
 
@@ -20,9 +20,9 @@ Furthermore, Zotero has a decent built-in pdf viewer and annotator so you can ta
 
 <br>
 ## What is Obsidian?
-However, I also want to easily get an overview of all of my notes on a single paper. For this I use a workflow that connects Zotero with my note-taking app<a href="obsidian.md" target="_blank">Obsidian</a> and saves my notes in a readable, searchable, nice-looking markdown file.
+However, I also want to easily get an overview of all of my notes on a single paper. For this I use a workflow that connects Zotero with my note-taking app<a href="https://obsidian.md" target="_blank">Obsidian</a> and saves my notes in a readable, searchable, nice-looking markdown file.
 
-As mentioned in my post on <a href="/blog/2022/08/22/my-Obsidian" target="_blank">my Obsidian</a>, Obsidian is a note-taking and knowledge management app that saves all of your notes in plain markdown files in a local folder. It is a free tool and because it stores the data locally in simple text files, you do not rely on a cloud-service or on keep using Obsidian for the rest of your working life. The notes will always be readable to you and you can always access them.
+As mentioned in my post on <a href="/blog/2022/08/22/my-Obsidian/" target="_blank">my Obsidian</a>, Obsidian is a note-taking and knowledge management app that saves all of your notes in plain markdown files in a local folder. It is a free tool and because it stores the data locally in simple text files, you do not rely on a cloud-service or on keep using Obsidian for the rest of your working life. The notes will always be readable to you and you can always access them.
 
 I use it as a repository for notes, ideas, code snippets, and lists, but there are many different ways of using it. One strength of Obsidian is the many community-driven plug-ins that adds amazing functionalities and customizations so you can design the workflow that suits you the best.
 
