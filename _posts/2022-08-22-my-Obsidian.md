@@ -12,6 +12,8 @@ I use it as a repository for notes, ideas, code snippets, and lists, but there a
 
 The freedom of Obsidian is one of the things I really appreciate about it. I have one single Obsidian workspace or so-called Obsidian Vault. Some people like to have multiple for different projects or for a separation between personal/work notes. I just like my single everything-goes-here system.
 
+You can easily change how Obsidian looks and behaves via the plug-ins. Currently, I am loving the <a href="https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme" target="_blank" rel="noopener">Yin Yang theme</a> in light-mode(!) with an accent colour in a slightly darker purple (`#DAAFFF`) than default.
+
 I don't keep a strict structure to my Obsidian Vault. Whenever I feel like writing something down, I just open a new note and start writing.
 
 Currently I do have a vague structure
@@ -22,3 +24,4 @@ Currently I do have a vague structure
 - Subdirectory `Students` contains a note for each student I supervise or co-supervise. This contains when they have to hand-in, outlines of their projects and meeting notes and agreements.
 - Subdirectory `templates` contains all my Obsidian templates and is rarely opened from within Obsidian. However, it is nice to access them easily and to have them in the same git repository as the rest.
 - And lastly, notes that just 'floats' on the top-level. These might be short and have no other place to be and that is okay. Not everything needs to live inside a subdirectory. Sometimes if these notes grow in size or if they become to specific I choose to move them or merge them with other notes. Other times, they just stay where they are.
+
