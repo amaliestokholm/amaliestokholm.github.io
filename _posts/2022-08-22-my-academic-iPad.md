@@ -136,9 +136,7 @@ As mentioned above, my highlighting system currently is:
 - purple highlights are important conclusions.
 
 For now I have changed it to this long bit 
-````
-{{if comment}} {{if color == '#ffd400'}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote> {{elseif color == '#5fb236'}}<p>{{highlight quotes='true'}} {{citation}}</p><p> - [ ] {{comment}} #task</p> {{elseif color == '#ff6666'}}<p>[[Disagreement]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote> <p>{{comment}}</p></blockquote> {{elseif color == '#2ea8e5'}}<p>[[Confusion]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{elseif color == '#a28ae5'}}<p>[[Important]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{else}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote>{{endif}} {{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}} {{else}}<p>[[Highlight]]:{{highlight quotes='true'}} {{citation}}</p>{{endif}}
-````
+````{{if comment}} {{if color == '#ffd400'}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote> {{elseif color == '#5fb236'}}<p>{{highlight quotes='true'}} {{citation}}</p><p> - [ ] {{comment}} #task</p> {{elseif color == '#ff6666'}}<p>[[Disagreement]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote> <p>{{comment}}</p></blockquote> {{elseif color == '#2ea8e5'}}<p>[[Confusion]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{elseif color == '#a28ae5'}}<p>[[Important]]: {{highlight quotes='true'}} {{citation}}</p> <blockquote><p>{{comment}}</p></blockquote> {{else}}<p>{{highlight quotes='true'}} {{citation}}</p><blockquote><p>{{comment}}</p></blockquote>{{endif}} {{if tags}} <blockquote><p><b>Tags:</b> #{{tags join=' #'}}</p></blockquote>{{endif}} {{else}}<p>[[Highlight]]:{{highlight quotes='true'}} {{citation}}</p>{{endif}}````
 
 Again let us go through it line by line:
 
