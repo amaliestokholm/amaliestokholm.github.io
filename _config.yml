@@ -48,12 +48,12 @@ social:
 
 counter:
   - title: years studying
-    duration: 3000
-    count: 5
+    duration: 2000
+    count: 6
   - title: stars analyzed
     duration: 8000
-    count: 40000
+    count: 200000
     prefix: '~'
   - title: (co-)authored papers
     duration: 3000
-    count: 12
+    count: 22
