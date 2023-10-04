@@ -6,7 +6,9 @@ import time
 
 import requests
 
-adstmpdir = "./adstmp"
+adstmpdir = "./tmp_adsexport"
+if not os.path.exists(adstmpdir):
+    os.makedirs(adstmpdir)
 
 def get_secrets():
     secrets = {}
