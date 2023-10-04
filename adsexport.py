@@ -6,6 +6,7 @@ import time
 
 import requests
 
+adstmpdir = "./adstmp"
 
 def get_secrets():
     secrets = {}
@@ -31,7 +32,7 @@ def make_adsexport_json() -> None:
     headers = {'Authorization': 'Bearer ' + token}
     with requests.get(lib_url, headers=headers) as r:
         lib_json = r.json()
-    debugbase = "adsexport-debug-%s-" % datetime.datetime.now().strftime("%Y-%m-%d_%H%m%s")
+    debugbase = os.path.join(adstmpdir, "adsexport-debug-%s-" % datetime.datetime.now().strftime("%Y-%m-%d_%H%m%s"))
     with open(debugbase + "library.json", "w") as fp:
         fp.write(json.dumps(lib_json, indent=2))
     bibcodes = lib_json["documents"]
@@ -44,7 +45,7 @@ def make_adsexport_json() -> None:
     with open(debugbase + "bigquery.json", "w") as fp:
         fp.write(json.dumps(bq_json, indent=2))
     docs = bq_json["response"]["docs"]
-    with open("adsexport.json", "w") as fp:
+    with open(os.path.join(adstmpdir, "adsexport.json"), "w") as fp:
         fp.write(json.dumps(docs, indent=2))
 
 
@@ -63,7 +64,7 @@ def main(noofpubs=5) -> None:
         make_adsexport_json()
     else:
         print("Reuse ADS library from adsexport.json")
-    with open("adsexport.json") as fp:
+    with open(os.path.join(adstmpdir, "adsexport.json")) as fp:
         adsexport = json.load(fp)
     adsexport.sort(key=lambda pub: pub["pubdate"])
     adsexport.reverse()
