@@ -30,7 +30,7 @@ bundle exec jekyll serve
 - `images`: contains images for blog posts. It is sorted into subfolders relating to the relavant blogpost.
 - Files in `_includes` and in `_layouts`.
 
-Floating on top:
+## Floating on top:
 - `Gemfile`: Essential jekyll set-up
 - `Gemfile.lock`: Essential list of modules for Jekyll
 - `gulpfile.js`: Essential set-up for ruby and third party libraries.
