@@ -281,13 +281,15 @@ canvas {
 
 #particles-js {
 	width: 100%;
-	height: 100vh;
-	background-color:
-	#17182f;
-	background-size: cover;
-	background-position: 50% 50%;
-	background-repeat: no-repeat;
-	position:relative;
+    height: 100%;
+    background-color: #c91d61;
+    background: linear-gradient(270deg, #01acde, #c5d201, #f59a00, #e30613, #c91d61);
+    background-size: 1000% 1000% !important;
+    -webkit-animation: changeColors 30s ease infinite;
+    -moz-animation: changeColors 30s ease infinite;
+    -o-animation: changeColors 30s ease infinite;
+    animation: changeColors 30s ease infinite;
+    display: block;
 }
 a {
 	color:#525252;
