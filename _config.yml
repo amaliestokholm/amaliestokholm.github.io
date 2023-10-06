@@ -50,10 +50,10 @@ counter:
   - title: years studying
     duration: 2000
     count: 6
-  - title: k stars analyzed
+  - title: stars analyzed
     duration: 8000
-    count: 200
+    count: 200000
     prefix: '~'
   - title: (co-)authored papers
     duration: 3000
-    count: 24
+    count: 22
