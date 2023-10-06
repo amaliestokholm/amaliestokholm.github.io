@@ -286,7 +286,6 @@ canvas {
         background-size: 200% 200%;
 
 	-webkit-animation: Animation 5s ease infinite;
-	-moz-animation: Animation 5s ease infinite;
 	animation: Animation 5s ease infinite;
 }
 
