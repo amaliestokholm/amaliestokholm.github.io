@@ -285,8 +285,7 @@ canvas {
         background: linear-gradient(130deg, #ff7e00, #ffffff, #5cff00);
         background-size: 200% 200%;
 
-	-webkit-animation: Animation 5s ease infinite;
-	animation: Animation 5s ease infinite;
+	animation: Animation 15s ease infinite;
 }
 
 
