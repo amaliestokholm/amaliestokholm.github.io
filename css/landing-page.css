@@ -148,11 +148,10 @@ ul.intro-social-buttons > li.list-inline-item {
 .banner {
 	padding: 100px 0;
 	color: #f8f8f8;
-	background-color:
-	#17182f;
-	background-size: cover;
+	background: linear-gradient(-27deg, #011460, #31294C, #17182f, #231942, #2A3A70, #496092,  #cdb4db, #F9AECD, #ffe799, #d679c8);
+	background-size: 500% 500%;
+	animation: gradient 20s ease infinite;
 	height: 300px;
-	position: relative;
 }
 
 .banner h2 {
@@ -282,12 +281,20 @@ canvas {
 #particles-js {
 	width: 100%;
 	height: 100vh;
-	background-color:
-	#17182f;
-	background-size: cover;
-	background-position: 50% 50%;
-	background-repeat: no-repeat;
-	position:relative;
+	background: linear-gradient(-27deg, #011460, #31294C, #17182f, #231942, #2A3A70, #496092,  #cdb4db, #F9AECD, #ffe799, #d679c8);
+	background-size: 500% 500%;
+	animation: gradient 20s ease infinite;
+}
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
 }
 a {
 	color:#525252;
