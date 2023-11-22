@@ -47,13 +47,10 @@ social:
     url: https://a.strova.dk/rsc/resume.pdf
 
 counter:
-  - title: years studying
-    duration: 2000
-    count: 6
-  - title: stars analyzed
+  - title: k stars analyzed
     duration: 8000
-    count: 200000
+    count: 200
     prefix: '~'
   - title: (co-)authored papers
     duration: 3000
-    count: 22
+    count: 24

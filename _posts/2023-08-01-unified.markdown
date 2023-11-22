@@ -1,0 +1,15 @@
+---
+layout: blog
+category: Science
+title: A unified exploration of the chronology of the Galaxy
+---
+In this study, we delve into the complex structures of the Milky Way, leveraging recent advancements in data quality for a large number of stars.
+Our aim is to use unsupervised methods to unravel the intricate components associated with the Galaxy's formation and evolution.
+We determine stellar properties for 21,076 red giants, spanning distances of 2–15 kiloparsecs from the Galactic center, establishing the most extensive sample of red giants with precisely measured asteroseismic ages.
+
+By employing Gaussian mixture models as an unsupervised clustering technique, we explore the Galactic disc's different stellar structures incorporating chemical, kinematic, and age-related data.
+The outcome reveals four distinct physical components within the stellar disc: the thin disc, the thick disc, the stellar halo, and an interesting kinematically heated thin disc component.
+
+Moreover, we identify a potential age asymmetry between the Northern and Southern hemispheres of the Galactic disc. We also quantify the vertical and radial age gradients of the Galactic disc by extending asteroseismic ages to greater distances than previous investigations. 
+
+<a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.524.1634S/abstract" target="_blank">Read our entire study here</a>
