@@ -1,0 +1,11 @@
+---
+layout: tpw
+title: Amalie Stokholm
+head: Amalie Stokholm
+author: Amalie Stokholm
+description: Postdoctoral researcher in Astrophysics
+---
+
+{% for post in site.posts %}
+<li><a href="{{ post.url }}" class="list-group-item border-0">{{ post.title }}</a>
+{% endfor %}
