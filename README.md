@@ -11,6 +11,13 @@ bundle install --path vendor/bundle
 bundle exec jekyll serve
 ```
 
+Or using the Dockerfile:
+
+```
+buildah build --layers -f Dockerfile.dev -t localhost/amalieblog:latest . &&
+podman run --network=host -it -v .:/site localhost/amalieblog:latest
+```
+
 # Overview of structure
 
 ## Things necessary for the webpage
