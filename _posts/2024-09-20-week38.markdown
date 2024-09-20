@@ -18,7 +18,7 @@ Focusing just on the prior predictive distributions has helped quite a bit.
 It is not solved but I do feel like I know what to debug and what to try this afternoon.
 
 I met with Bill Monday regarding what we would like to investigate and do for post docs at the School this semester.
-Ideas were exchanged - I need to send some emails and get some help from other reps. Well, we need more reps.
+Ideas were exchanged - I need to send some emails and get some help from other reps.
 
 PLATO-wise I need to write a small summary of the progress in my work package and priorities for the remaining work.
 I plan to send it later today. Maybe I should just get the unit tests done so that I am just waiting for the final version of `SAS_tools`.
@@ -32,9 +32,7 @@ Higher weight/smaller scale weights on especially radius seems to be what we sho
 
 I met with Jens Thursday regarding Rogue and Hennes.
 The paper is basically done, but he though that the frequency matching algorithm was acting up for some of the l=2 modes and thus not working properly for these evolved stars. It does, we investigated, and his tests did bias the result. 
-We discussed what surface correction to use. We looked at the corner plots and most things looks promising and rather nice. It is very good work.
-I apparently repeated myself from earlier meetings quite a bit (uncertainties in magnitude, parallax offset) -- I need to be better at being concise.
-I also stumbled around when I was explaining the algorithm - I designed it, why is my explanation to ramblely? I should probably spent two working days just finishing up that paper, send it around and be done with it. Maybe the weekend of the 5th-6th?
+We discussed what surface correction to use. We looked at the corner plots and most things looks promising and rather nice.
 
 I promised I would give the dynamics of the stars a look - the targets are extremely interesting both from a seismic and Galactic point of view. They are 2 kpc away. I'll look into their Galactic origin next week and send Jens something before he returns from vacation.
 
