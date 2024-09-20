@@ -1,6 +1,7 @@
 ---
 title: "Week 38 -- Twenty Minute Summary Post"
 date: 2024-09-20
-categories: twentyminsum
+category: twentyminsum
+layout: blog
 ---
 Hi! This is a test :)
