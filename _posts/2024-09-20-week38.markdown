@@ -4,4 +4,48 @@ date: 2024-09-20
 category: twentyminsum
 layout: blog
 ---
-Hi! This is a test :)
+# Week 38
+
+## Summary
+This is the first time I do this - the format might change.
+
+This week has been a bit more messy than I would have liked.
+It has been quiet and nice, but cold in the office.
+I felt rather fatigued in the beginning of the week, but it has gotten less bad yesterday and today.
+
+`asterism`-wise, I have been working on untanglin and debugging why the MLM model produces non-physical or just plain odd luminosities and radii.
+Focusing just on the prior predictive distributions has helped quite a bit.
+It is not solved but I do feel like I know what to debug and what to try this afternoon.
+
+I met with Bill Monday regarding what we would like to investigate and do for post docs at the School this semester.
+Ideas were exchanged - I need to send some emails and get some help from other reps. Well, we need more reps.
+
+PLATO-wise I need to write a small summary of the progress in my work package and priorities for the remaining work.
+I plan to send it later today. Maybe I should just get the unit tests done so that I am just waiting for the final version of `SAS_tools`.
+
+I spent my Wednesday deep diving into the literature. Mostly on reaction rates in CNO cycles and how that affect the luminosities in the red giant phase.
+This was not intentional - I had other plans. But I did learn something so I guess that is nice.
+I also tested that predictions from the NN align with my expectations using the averaged HR-diagram and the GUI I made a couple of weeks ago.
+Everything but `fracage` looked alright. I ran tests including Teff in the output along with photometric radii and luminosities (`outlook_retainer_alias`).
+I also ran tests tweaking the weights in the loss function (`cyclist_fable_going`). 
+Higher weight/smaller scale weights on especially radius seems to be what we should do when the issue with `fracage` is resolved. Teff can stay where it was before.
+
+I met with Jens Thursday regarding Rogue and Hennes.
+The paper is basically done, but he though that the frequency matching algorithm was acting up for some of the l=2 modes and thus not working properly for these evolved stars. It does, we investigated, and his tests did bias the result. 
+We discussed what surface correction to use. We looked at the corner plots and most things looks promising and rather nice. It is very good work.
+I apparently repeated myself from earlier meetings quite a bit (uncertainties in magnitude, parallax offset) -- I need to be better at being concise.
+I also stumbled around when I was explaining the algorithm - I designed it, why is my explanation to ramblely? I should probably spent two working days just finishing up that paper, send it around and be done with it. Maybe the weekend of the 5th-6th?
+
+I promised I would give the dynamics of the stars a look - the targets are extremely interesting both from a seismic and Galactic point of view. They are 2 kpc away. I'll look into their Galactic origin next week and send Jens something before he returns from vacation.
+
+
+### Key things
+- Debug `asterism`
+
+### Challenges for next week
+- Solve this issue with the NN
+- Help Jens with the Galactic perspective on his project
+
+### Priorities for next week
+- Solve this `fracage` bug 
+
