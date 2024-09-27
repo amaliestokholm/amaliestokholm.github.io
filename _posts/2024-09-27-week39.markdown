@@ -1,0 +1,48 @@
+---
+title: "Week 39 -- Twenty Minute Summary Post"
+date: 2024-09-27
+category: twentyminsum
+layout: blog
+---
+# Week 39
+
+## Summary
+A cold and rather rainy week. I am happy that I worked from home Tuesday to avoid some of that rain.
+
+`asterism`-wise, I have been working on the temporal evolution issue.
+I have investigated whether it would help by modifying the `scaled_weights` (run `kennel_willing_french` and `cyclist_fable_going`) -- it didn't solve the underlying issues.
+I have tried adding central helium mass fraction as a measure of evolution (run `display_chasing_manlike` and even worse `backstab_confused_skyward`), it did not help and a direct age measure (`age`, `fracage` or similar) seems to be very much needed as an input irregardless.
+I am trying a new scaling in age `scaledage` and I have been exploring the isolines (isochrones, isofracage, isoscaledages) to see if the dependency on mass erases important information in `fracage` dimension compared to the other. It seems to be the case, so I am trying a new run with `scaledage`.
+I really would loved to have solved this this week, maybe I can still make it...
+
+I spent more time than expected this week on what I would consider `admin`.
+- I wrote the summary report to Bill on work package 374.210 and sent it Sunday. 
+- I wrote the three other post doc who, according to Bill, had `raised their hand` with respect to forming a post doc rep commitee Monday. I haven't received a reply yet.
+- I wrote Angharad to get a reply on her project as well as to invite her to Bham. 
+- I wrote Emma with regards to video'ing how to use the orrerey(?). She likes the idea, we will do it next week. We need to check that it is 'fixed' before the Open Days.
+- I did a lot of visa stuff on Tuesday, but it is resolved now and I received a new contract so that is really nice.
+- I planned for Mark to visit and get a desk in the office. I planend for him to give a seminar, Anjali booked the room for me, and I sent emails around notifying people.
+- I sent an email to the new Year 4 students to plan a first project meeting. I haven't heard anything back yet. I got an overview of the Canvas page and associated admin.
+
+Thursday I had a coffee meeting with Yeshpal. He wanted to meet me (post doc rep for Physics and Astronomy in Early Career Network thingy). We chatted, he wants me to (1) promote the impact programme to more people at Physics (more smaller grants), (2) get especially female speakers to his Quantum Technology seminar series. It is interdisciplinary (timing in space? Qubits for astronomy?). It was nice to meet him.
+
+Via Slack I helped Dinil with GitLab CI/CL set-up for his MSAP3 modules.
+
+Kinda by accident I discovered that University of Bham gives to you access to LinkedIn Learning for free. I will see if the statistics modules are fun.
+
+After the group meeting I will run the orbit for Jens. I should probably have done this Tuesday. It will not take long.
+
+
+### Key things
+- Debug `asterism`
+- Admin.
+
+### Challenges for next week
+- Mark is visiting: PLATO interpolation stuff
+- Finish exercise sheet for year 4 students by end Monday so it is ready for meeting Thursday
+- Test the NN with MLMs
+
+### Priorities for next week
+- PLATO thing with Mark
+- Test the new NN with the emus.
+
