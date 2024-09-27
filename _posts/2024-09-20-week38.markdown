@@ -2,6 +2,7 @@
 title: "Week 38 -- Twenty Minute Summary Post"
 date: 2024-09-20
 category: twentyminsum
+hidden: true
 layout: blog
 ---
 # Week 38
