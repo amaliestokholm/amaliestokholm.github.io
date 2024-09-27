@@ -5,13 +5,13 @@ head: Amalie Stokholm
 author: Amalie Stokholm
 description: Postdoctoral researcher in Astrophysics
 ---
-Blog posts
+<h2> Blog posts </h2>
 {% for post in site.categories.Blog %}
 <li><a href="{{ post.url }}" class="list-group-item border-0">{{ post.title }}</a>
 {% endfor %}
+<p></p>
 
-
-Science posts
+<h2> Science posts </h2>
 {% for post in site.categories.Science %}
 <li><a href="{{ post.url }}" class="list-group-item border-0">{{ post.title }}</a>
 {% endfor %}
