@@ -1,0 +1,33 @@
+---
+title: "Week 40 -- Twenty Minute Summary Post"
+date: 2024-10-08
+category: twentyminsum
+layout: blog
+---
+# Week 40
+I forgot to post this Friday due to meetings near the group meeting. Here it is.
+
+## Summary
+This week I was hosting Dr. Mark Lykke Winther. He is working on improving the interpolation routine for grid-based modelling in main-sequence stars and was appreciating input and sparring. Furthermore, he has never been in Birmingham and never really been part of a different research environment than the one he grew up in academically, so this was a good opportunity for him to see a new university environment.
+
+`asterism`-wise, I have been trying to improve the NN. I had a meeting with Owen where he pointed out that my learning rate might be too small, especially in restarts of a run and when using SGD. We adjusted that along with the weight on age (less weight) and luminosity (more weight). This seem to work better (`eject_mosaic_swagger`). I tried this using `scaledage` as well, but it looked way to messy (`glitzy_unified_embassy`) and the frequencies became way worse. Currently I am continuing to train `eject_mosaic_swagger` to se if that helps out the space.
+
+On a PLATO MSAP5 meeting Friday, we discussed the status of all module. My modules are the furthest. Dinil and Rafa asked my to do module 2.6 so we can use this for testing.
+
+I have been planning Angharad's visit, visit to Aarhus next year and the next postdoc coffee. I am considering starting the postdoc survey myself since it is not a lot of work.
+
+Saturday I helped on Open Days.
+
+We had the first project with the year 4 student. My notes for what we should discuss did not include everything -- I am revising them now for next time. I sent the exercise sheet and litterature to them.
+
+I helped Maddy with her paper. I need to do the same thing for her as for Jens - it is rather simple to do.
+I spent a good chunk of my Tuesday and Wednesday afternoon helping Emily with the M4 stars, especially as our year 4 students need to do a similar thing. It was dumb and difficult - we have asked Marco Tailo if he has an unofficial list of EPIC ids for the stars.
+
+
+### Key things
+- Mark was visiting: PLATO interpolation stuff
+
+### Challenges for next week
+- I will attend a grant writing workshop Tuesday/Wednesday morning
+- I need to get a model working. Maybe try a different approach than testing with the EMUs?
+- I want to get started with PBJam as well on the part of my sample with no individual frequencies.
