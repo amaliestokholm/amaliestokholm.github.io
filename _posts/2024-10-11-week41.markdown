@@ -7,6 +7,7 @@ layout: blog
 # Week 41
 Week with a big of sunshine and fall feelings in the air.
 
+---
 ## Summary
 `Project asterism`: I set-up a run in which the age is standard-scaled (range 0-1 per track). I am currently making range plots given strict mass ranges in the grid in order to assesss sparseness.
 
@@ -29,9 +30,9 @@ I will do the `sas_tools` integration and module 2.4 set-up in the beginning of 
 - I planned an `Office Plant Day` for Monday afternoon next week.
 - I planned a postdoc coffee next, next Monday afternoon in the Vinen room. I need to plan a small 'updates from ECDN' and a first draft of the survey. I started this but I did not finish the draft this week. I need to recruit more people to be reps, which I will remember to add to the small agenda.
 
-`Year 4 students`:
-- I just sent them the `tiara` grid so they can have a look at the structure. 
+`Year 4 students`: I just sent them the `chiara` grid so they can have a look at the structure. 
 
+---
 
 ### Key things
 - Grant writing workshop done.
