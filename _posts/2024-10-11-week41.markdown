@@ -1,0 +1,44 @@
+---
+title: "Week 41 -- Twenty Minute Summary Post"
+date: 2024-10-11
+category: twentyminsum
+layout: blog
+---
+# Week 41
+Week with a big of sunshine and fall feelings in the air.
+
+## Summary
+`Project asterism`: I set-up a run in which the age is standard-scaled (range 0-1 per track). I am currently making range plots given strict mass ranges in the grid in order to assesss sparseness.
+
+`Project parkour`: Draft is basically ready. I finished a Galactic orbit computation, numbers to a table, and a small paragraph. Jeppe will submit within the next week.
+
+`Project gmork`: We had a meeting Thursday Angharad, Martin, and me. The draft is there and it is taking form. There is a small issue with the frequencies from PBJam, but that might fix itself if she updates the PBJam repository which uses a different sampler. 
+
+`Project Rogue and Hennes`: I redid a plot of the Galactic orbits and added a kinematic assessment to the draft. I don't need to do more right now.
+
+`Project ozempic`: Emily found the light curves we were looking high and low for hidden in Wallace et al. 2019. We now also have them for the year 4 students.
+
+`Project Thanos`: We did not have a look at running them with BASTA this week, but we will in the beginning of next week.
+
+`PLATO`: We had the monthly leader telecon. The Orsay campus is floded and their servers was shut off in order to prevent fires, meaning the gitlab etc. were down.
+I will do the `sas_tools` integration and module 2.4 set-up in the beginning of next week.
+
+`Admin`:
+- I attended the Scriptoria Gran Writing Workshop Tuesday and Wednesday. It was not mindblowing, but it was better than anticipated. The structure and organisation was good and the zoom meeting format worked. I did it at the 'Staff working room' on the second floor at the library, which was nice and a good place to do this kind of work. I wrote most of my 'Narrative CV' which was a difficult exercise.
+- I got further with planning Angharad's visit in November. I am waiting for their response before I plan seminar etc. more.
+- I planned an `Office Plant Day` for Monday afternoon next week.
+- I planned a postdoc coffee next, next Monday afternoon in the Vinen room. I need to plan a small 'updates from ECDN' and a first draft of the survey. I started this but I did not finish the draft this week. I need to recruit more people to be reps, which I will remember to add to the small agenda.
+
+`Year 4 students`:
+- I just sent them the `tiara` grid so they can have a look at the structure. 
+
+
+### Key things
+- Grant writing workshop done.
+- A new hope for the NN was found.
+
+### Challenges for next week
+- Check if the new NN set-up works.
+- I want to get started with PBJam as well on the part of my sample with no individual frequencies. Emily promised to help me get started in the 'new' set-up.
+- Set-up BASTA for the Thanos sample.
+- Writing day Friday -> I will start the `asterism` draft properly.
