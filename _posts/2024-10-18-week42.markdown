@@ -1,0 +1,36 @@
+---
+title: "Week 42 -- Twenty Minute Summary Post"
+date: 2024-10-18
+category: twentyminsum
+layout: blog
+---
+# Week 42
+Beautiful autumnal vibes and weather.
+Poem of the week: <a href="https://www.instagram.com/p/DBEa9M7uShQ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">Put Your Own Oxygen Mask on First by L. E. Bowman</a>
+
+---
+## Summary
+`Project asterism`: The NN works! The residuals looks great. Now for the fun part :)
+
+`Project parkour`: I did more analysis, wrote a paragaph and finished reading the draft. It is ready for submission.
+
+`Project Rogue and Hennes`: I received the draft manuscript and started reading it. I need to write my section. I did most of the analysis and made a plot that needs resizing. Rogue is rather odd to me -- I need to dig deeper into the literature.
+
+'Project maddystar': I ran the analysis - Amaury and Maddy liked the 'flower' plot so they will like to use it.
+
+`PLATO`: The Orsay campus was floded again.  I will do the `sas_tools` integration and module 2.4 set-up today.
+
+`Admin`:
+- I got further with planning Angharad's visit in November. I just need to send a few more emails this morning.
+- I planned a postdoc coffee next, next Monday afternoon in the Vinen room. I need to plan a small 'updates from ECDN' and a first draft of the survey. I started this but I did not finish the draft this week. I need to recruit more people to be reps, which I will remember to add to the small agenda.
+- We had a writing workshop on Friday. I tried the juggling technique and worked on three different manuscripts: `asterism`, `modematching`, and `roguehennes`. It worked pretty well - when I ran into a block on one, it worked well to make the switch to one of the others. I got progress on all manuscripts which is nice.
+
+`Year 4 students`: They are working on PyTorch and might need some more help with Git.
+
+---
+
+### Key things
+- NN works!
+
+### Challenges for next week
+- I want to get started with PBJam as well on the part of my sample with no individual frequencies. Emily promised to help me get started in the 'new' set-up.
