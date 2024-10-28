@@ -1,0 +1,29 @@
+---
+title: "Week 43 -- Twenty Minute Summary Post"
+date: 2024-10-18
+category: twentyminsum
+layout: blog
+---
+# Week 43
+Beautiful fall-vibes on campus.
+
+---
+## Summary
+`Project asterism`: We are going through how to design the prior for the MLM. It is progressing. I was playing around with emu/hare and hounds set-up, but I am not done.
+
+`Project Emma's catalogue`: I need to send my comments - submission next week.
+
+`Project Rogue and Hennes`: Submission will be November 15. I am trying to figure out why Rogue has tension between it's age, kinematics and spectroscopy.
+
+
+`Admin`:
+- We had postdoc coffee Monday. It happened and people seemed to have fun, but I am not satisfied with the outcome. It is possible my feeling of the event is tainted by feeling stress and confusion all Monday.
+
+
+---
+
+### Key things
+- I spent most of my time this week coding, debugging and in meetings. Writing this, I feel confused that I have not done more - it is possible I am forgetting what I have done this week.
+
+### Challenges for next week
+- I feel like I am juggling too many things at the moment, which is the easiest way to be overwhelmed and stressed. I will spend my Monday closing things so I can focus and have fun.
