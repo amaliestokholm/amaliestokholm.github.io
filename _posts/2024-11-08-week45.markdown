@@ -1,0 +1,55 @@
+---
+title: "Week 45 -- Twenty Minute Summary Post"
+date: 2024-10-18
+category: twentyminsum
+layout: blog
+---
+# Week 45
+It is pretty outside. It has been a week.
+
+I have not been at 100 percent this week due to trouble sleeping and the state of the world, but progress have been made.
+
+#### Productivity test: Time block allocation
+Block allocation: I tried this week reserving my "pre-lunch"/"formiddag" work time for working on "my" things (with telecons being the only exception).
+
+This method worked okay. I did see and feel progress. However, I learned that I find it difficult to switch from one thing to another, especially if I didn't find a good 'closure' point in the project that I worked on in the morning. This means that I effectively push everything down the line and do progress in only one project. 
+I guess this also has to be the case when I previously started my work days with emails and other peoples projects, but with the down-side that I found it hard to switch to my own projects.
+I think the `whole day` allocation is a better approach generally for me in order to avoid the switching cost as much as possible while still utilising the focus of the allocation method.
+
+---
+## Summary
+`Project asterism`: I fixed the bug in how the observations are used in the model that Guy pointed out Friday.
+The posterior distributions for toy stars looks about right and can be plotted. It does take significantly longer to test on a bigger sample, but I have also not utilised the CPU for this and I do think multiple speed ups can be found easily.
+
+I made some new notebooks changing the number of toy stars and switching to emus. I consciously tried to keep the length of the notebooks down and instead increase the number of notebooks.
+
+I will be working on emus and hopefully have a more finished emu test by the end of today.
+
+`BASTA`: A lot of BASTA work this week. On Github, there has been a request to move BASTA to pip in order to make a web app - that work has started. We had a good long BASTA developement meeting Wednesday and we are restarting the BASTA telecons after Jakob's return. Jens has suggestions to the frequency algorithm for the evolved stars which I really do need to look at.
+
+We discussed at length three structural differences in BASTA:
+- A new input/output structure, built in json, which allows better I/O efficiency, readability, and error handling. This includes a GUI for newcomers and single star-setups and a more modern approach for the input files in general.
+- A `asta`-like framework for generating plots, post-precessing data/plots and generating input.
+- A new internal data structure in BASTA. We discussed using TypedDict vs. DataClasses and I had a discussion with computer scientists in my newwork afterwards to hear people's opinions on the use of these.
+This resulted in the choice of DataClass. 
+
+I'll have a look at implementing a draft of these changes this weekend. Some of these changes seem rather fun to do.
+
+Furthermore, Jakob agreed to compute a grid for Emily when Emily know the range in mass and metallicity.
+
+`Project Reaction Rate`: I received the draft and deadline for comments. I am yet to give comments
+
+`Project Percy`: I started a draft but I am yet to finish my paragraph and give comments.
+
+`Admin`:
+- We had Postdoc Coffee Monday. It worked better than last time. There were a lot of new people and new starters. People would like to join an after-work event at some point. I need to discuss support of this with Bill - maybe cover the entry to a museum? I will sent him an email about starting the survey later today.
+- I am almost done re-refereeing a paper. I will finish this before Monday to start next week with less things on my plate.
+
+---
+
+### Key things
+- In `asterism` the inplementation has been tested futher.
+
+
+### Challenges for next week
+- Angharad Weeks will visit me next week. We will work on her two projects and she will get input on PBJam and BASTA. She has also worked on a unified pipeline of the two which could be interesting to see.
