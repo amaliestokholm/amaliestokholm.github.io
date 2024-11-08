@@ -1,0 +1,26 @@
+---
+title: "Week 44 -- Twenty Minute Summary Post"
+date: 2024-10-18
+category: twentyminsum
+layout: blog
+---
+# Week 44
+Halloween-y and cold. Tired.
+
+---
+## Summary
+`Project asterism`: The priors that I had arrived at seemed okay. Guy pointed out a possible bug in the numpyro model which I am now investigating.
+I cleaned the repo and moved some repeating functions to `scripts/` so it can easier be used across notebooks.
+Guy does not like long notebooks so I am looking into whether collapsing them/shortening them is a good option or if I should revert back to making `highlight slides` before meetings.
+
+`Project Rogue and Hennes`: I still need to look into Rogue.
+
+`Admin`:
+- We will have postdoc coffee Monday. I chatted with many early career researcher yesterday. Some were happy it happened, some pointed out that breaks in the middle of the working day are difficult and they would prefer an after-work activity instead.
+
+---
+
+### Key things
+
+
+### Challenges for next week
