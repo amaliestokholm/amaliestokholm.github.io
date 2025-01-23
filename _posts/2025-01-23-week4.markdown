@@ -1,0 +1,64 @@
+---
+title: "Week 4 -- Twenty Minute Summary Post"
+date: 2025-01-23
+category: twentyminsum
+layout: blog
+---
+# Week 4
+I am giving this summary work another shot, along with the new structure of the daily/weekly obsidian notes.
+
+I still feel exhausted. I am running out of ways to treat it, other than `sleeping more` and `more sunshine`.
+Maybe it is just January.
+
+---
+## Summary
+`Project asterism`: I have changed the implementation of `population_alphaMLT` and `heliumenrichmentlaw` to a version where each only have two free parameters.
+I have tested this MLM and the results look great!
+
+I am concerned that if I give narrowly sample the hyperparameters, I do not recover them as neatly as I would like.
+I am trying with more warm-up and if this does not work, I'll switch strategy.
+
+I am yet to look at the surface correction. I'll prioritise it for next week.
+
+`Project PBJAM2.0`: I am reading the draft and giving comments.
+
+`Project Rogue and Hennes`: Referee report came back.
+
+`Project emmas catalogue`: Referee report came back.
+
+`PLATO`:
+- Martin and I gave a talk on PLATO work in the UK Wednesday.
+
+`Teaching`:
+- I am teaching Tuesday and Thursday afternoon.
+- This week there was no additional teaching things to do.
+- I am supervising ~1 hour Tuesday and then helped out with debugging Tuesday afternoon for both students.
+
+`Postdoc rep`:
+- I had a meeting with Anjali and made a plan for upcoming events. She helped me with room bookings.
+- I have send out a `Thank you for your survey feedback + Exciting news for 2025` to all postdocs with the summary of what to come.
+- I have planed the February postdoc coffee and booked rooms/sent out invitations for the March Jamboree.
+
+`Other`:
+- I did SOC work this week.
+- I helped other people with
+	- Obsidian
+	- lost files
+	- references for the precision on stellar ages using different methods
+	- gave input to a talk by giving them my take on what the biggest challenges in Galactic Archaeology are currently.
+	- I planned a writing session and booked a room for it.
+
+`Admin`:
+- I cleaned my directories, my notes, and re-organised my work life. I am not done, but it is a work in progress.
+
+
+---
+
+### Key things
+- In `asterism`, I am happy with the model now. I am still testing it and I am yet to implement the surface correction.
+- I have done other things this week and teaching has taken up more of my time this week compared to last week.
+- My inbox currently only contains one request/"to-do" email. That is a nice feeling.
+
+### Challenges for next week
+- Next week I would like to prioritise my work in `asterism`. I would like to write. I would like to implement the surface correction.
+- I have open Monday, Wednesday and Friday next week. I am considering working from home one of those days.
