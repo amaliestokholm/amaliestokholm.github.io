@@ -1,6 +1,6 @@
 ---
 title: "Week 43 -- Twenty Minute Summary Post"
-date: 2024-10-18
+date: 2024-10-25
 category: twentyminsum
 layout: blog
 ---

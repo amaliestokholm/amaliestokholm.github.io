@@ -1,6 +1,6 @@
 ---
 title: "Week 45 -- Twenty Minute Summary Post"
-date: 2024-10-18
+date: 2024-11-08
 category: twentyminsum
 layout: blog
 ---
