@@ -1,0 +1,64 @@
+---
+title: "Week 5 -- Twenty Minute Summary Post"
+date: 2025-01-31
+category: twentyminsum
+layout: blog
+---
+# Week 5
+It has been a grey week. I am still exhausted. It is still January.
+
+
+---
+## Summary
+`Project asterism`: I debugged the model as I when testing could never be close to finding the slope of the heliumenrichment law, which is kinda crucial.
+I found the bug (related to my set-up of the scatter around the law), fixed it,  and tested it a bit further.
+I did not expect to spend time on this so this meant I had less time to evolve the model further, which I find slightly frustrating.
+Furthermore, I have been writing on the draft.
+
+I am not as far as I wanted to be which is frustrating. However, it will be fine. I am working on it, I see progress, that is fine this week.
+
+`Project PBJAM2.0`: I gave feedback on the draft.
+
+`Project rockyrocks`: I gave feedback on the updated draft and reply to referee.
+
+`Project gmork`: I computed the orbit and gave feedback and comments on the draft.
+
+`PLATO`: I wanted to finish my modules this week, but I didn't find time to this.
+I find that frustrating because I wanted to be done with this prior to our telecon next week.
+I should probably have prioritised this and allocated (most of) an entire day to this, as I do expect this to be less straight-forward.
+I have not received the updated code, but I do have the new requirements and the new set-up I should implement.
+
+`Teaching`:
+- I am teaching Tuesday and Thursday afternoon.
+- I corrected their handed-in worksheets.
+- I supervised ~1 hour Tuesday. I helped out debugging Sunday.
+
+`Postdoc rep`:
+- I sent out a new invitation to the jamboree.
+- I pinged invitees for the jamboree and got a full line-up.
+- I send out an email about the postdoc coffee next week.
+- I wrote the news thing.
+- I should write the two emails I need to send Monday and plan a meeting with Anjali re. April.
+
+`Admin`:
+- None
+
+`Other`:
+- I did SOC work this week. I was good at being proactive and that felt good.
+- I helped other people with orbits this week, but otherwise not much.
+- I went to the astrophysics seminar and was inspired by one of the slides to have a look at more advanced techniques of communicating plots. I procrastinated (or well, worked on this dumb idea in the evenings) and started learning how to make and host (some kinds of) interactive plots.
+The project have taught me a bit about plotly, dash, HTML, and (:P) JS, mostly through the attempts that did not work, but now I have a working first prototype of the idea: <a href="https://a.strova.dk/billyszoo/plot.html" target="_blank" rel="noopener noreferrer">Billy's zoo </a>.
+
+---
+
+### Key things
+- I did not hit my priorities from last week and I spend more time debugging this week than I thought I would.
+- I received two co-author papers with short deadlines for feedback. I met those deadlines.
+- I did other things, but if this pattern repeats itself next week, I need to use sharper tools to get the progress I want.
+
+I have been using, liking and appreciating the daily/weekly note set-up. That works well.
+I do think there must be a good time allocation method that works for me out there. I will search for this at some point this weekend.
+
+### Challenges for next week
+- More progress on asterism
+- Actually finish a PLATO module before Friday
