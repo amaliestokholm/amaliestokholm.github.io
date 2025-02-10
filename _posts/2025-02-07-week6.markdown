@@ -13,6 +13,8 @@ I am feeling tired but optimistic that next week will be good.
 I have cleaned the repository and I am running a test on the observed stars with the surface correction.
 I have been writing a bit, but I want to do more next week.
 
+`Project Percy`: Paper accepted with like the shortest referee report ever :)
+
 `Project Reaction Rates`: Referee report came back with minor revision.
 
 `Project gmork`: I rewrote a section and submitted my last comments on the draft.
