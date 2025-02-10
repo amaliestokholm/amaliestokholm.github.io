@@ -1,0 +1,47 @@
+---
+title: "Week 6 -- Twenty Minute Summary Post"
+date: 2025-02-07
+category: twentyminsum
+layout: blog
+---
+# Week 6
+I am feeling tired but optimistic that next week will be good.
+
+---
+## Summary
+`Project asterism`: I debugged the model as I when testing could never be close to finding the slope of the heliumenrichment law, which is kinda crucial.
+I have cleaned the repository and I am running a test on the observed stars with the surface correction.
+I have been writing a bit, but I want to do more next week.
+
+`Project Reaction Rates`: Referee report came back with minor revision.
+
+`Project gmork`: I rewrote a section and submitted my last comments on the draft.
+
+`PLATO`: I updated `cookiecutter` for MSAP5\_11 and checked that the CI worked. I updated my laptop to Ubuntu 24, so I do need to update the Docker image to Python 3.12.
+ 
+But before doing anything further I need to have clarification on: license for the work (MIT/LGPL/Apache?) and where is the up-to-date PSM code that I know Mark submitted pre-New years?
+
+`Teaching`:
+- I am teaching Tuesday and Thursday afternoon.
+- I wrote general and indivial feedback for their handed-in worksheets.
+- I supervised ~1 hour Tuesday.
+
+`Postdoc rep`:
+- I had post doc coffee Monday. It went surprisingly alright - two new postdocs were present and we had a fruitfull discussion.
+- I sent out the general invite for the March Physics Postdoc Jamboree.
+
+`Admin`:
+- None
+
+`Other`:
+- I helped other people with references and inputs to presentations and introductions.
+
+---
+
+### Key things
+- Slow progress but still progress
+- Optimism
+
+### Challenges for next week
+- Finalise test with observations and surface correction.
+- Write
