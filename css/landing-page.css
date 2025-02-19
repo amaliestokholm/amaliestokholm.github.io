@@ -35,7 +35,8 @@ h6 {
     width: 100px;  /* Adjust size as needed */
     height: 100px; /* Maintain aspect ratio */
     border-radius: 50%; /* Makes it circular */
-    margin-right: 10px; /* Adds spacing between the image and the text */
+    display: block;
+    margin: 0 auto 10px; /* Centers the image and adds space below */
     vertical-align: middle; /* Aligns image with text */
 }
 
