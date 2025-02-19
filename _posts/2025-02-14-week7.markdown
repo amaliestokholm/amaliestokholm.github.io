@@ -1,0 +1,42 @@
+---
+title: "Week 7 -- Twenty Minute Summary Post"
+date: 2025-02-14
+category: twentyminsum
+layout: blog
+---
+# Week 7
+It is going to be okay.
+
+---
+## Summary
+`Project asterism`: I am testing another parameterisation of the scatter around the linear helium enrichment law.
+I am taking two steps back: I moved the additions I made last week and I am now testing a model in which the scatter is parameterised using alpha/beta computed from a scaling factor t and the mean from the law.
+I am awaiting the last test.
+
+`PLATO`: I am ready to work with the delivery from PSM.
+I did work on module 11 and got far. I had questions to the general structure, which I forwarded to the Slack channel. I am awaiting reply.
+
+`Teaching`:
+- I am teaching Tuesday and Thursday afternoon.
+- I supervised ~1 hour Tuesday and another Friday.
+
+`Postdoc rep`:
+- None this week
+
+`Admin`:
+I helped:
+- two different people with their respective referee report.
+- one person with a public interview.
+
+`Other`:
+- I do not recall. I did things this week, but right now I do not recall.
+
+---
+
+### Key things
+- I need to be better to write my daily notes.
+- Work on asterism is continuing, but hard.
+- PLATO work got a deadline (March) so I need to prioritise getting them done.
+
+### Challenges for next week
+- asterism
