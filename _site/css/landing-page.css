@@ -31,15 +31,6 @@ h6 {
 	font-weight: 400;
 }
 
-.profile-photo {
-    width: 80px;  /* Adjust size as needed */
-    height: 100px; /* Maintain aspect ratio */
-    border-radius: 50%; /* Makes it circular */
-    display: block;
-    margin: 0 auto 10px; /* Centers the image and adds space below */
-    vertical-align: middle; /* Aligns image with text */
-}
-
 .intro-header {
 	padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
 	padding-bottom: 50px;
