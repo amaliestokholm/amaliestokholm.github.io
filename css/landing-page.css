@@ -32,7 +32,7 @@ h6 {
 }
 
 .profile-photo {
-    width: 50px;  /* Adjust size as needed */
+    width: 100px;  /* Adjust size as needed */
     height: auto; /* Maintain aspect ratio */
     border-radius: 50%; /* Makes it circular */
     display: block;
