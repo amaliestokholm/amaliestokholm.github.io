@@ -18,6 +18,8 @@ Then a 'quick' hares test, surface correction and then real data.
 
 `PLATO`: I need to prioritise this next week
 
+`Beyblade`: I solved my VPN, server access and reading/writing access so I moved some structure models from `barbie` to my local machine to be played with. 
+
 `Teaching`:
 - I am teaching Tuesday and Thursday afternoon.
 - I supervised ~1 hour Tuesday and Friday. Furthermore, one student had their seminar Thursday, so I spend 11-13:30 on seminars.
