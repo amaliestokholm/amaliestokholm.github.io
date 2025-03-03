@@ -1,0 +1,40 @@
+---
+title: "Week 9 -- Twenty Minute Summary Post"
+date: 2025-02-28
+category: twentyminsum
+layout: blog
+---
+# Week 9
+This week has been fine for me. I have been busy but I have got a lot of small things sorted.
+I was travelling Friday, so I did not work that day.
+
+I am ready to next week.
+
+---
+## Summary
+`Project asterism`: I have added a bunch of tests and plots.
+I am more or less done with testing the model on emus - I need to output from one last test.
+Then a 'quick' hares test, surface correction and then real data.
+
+`PLATO`: I need to prioritise this next week
+
+`Teaching`:
+- I am teaching Tuesday and Thursday afternoon.
+- I supervised ~1 hour Tuesday and Friday. Furthermore, one student had their seminar Thursday, so I spend 11-13:30 on seminars.
+
+`Postdoc rep`:
+- Prep for Jamboree Monday
+
+`Admin`:
+- I gave another git tutorial this week.
+- I helped with a referee report.
+
+---
+
+### Key things
+- I am almost done with testing in asterism,
+
+### Challenges for next week
+- Jamboree Monday
+- I want to finish the PLATO modules next week
+- I want to finish hare and surface correction testing next week.
