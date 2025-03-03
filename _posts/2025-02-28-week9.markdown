@@ -30,6 +30,7 @@ Then a 'quick' hares test, surface correction and then real data.
 `Admin`:
 - I gave another git tutorial this week.
 - I helped with a referee report.
+- I gave a tutorial on galaxy kinematics. I need to finish a small working notebook with a `requirements` file.
 
 ---
 
