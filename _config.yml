@@ -54,3 +54,10 @@ counter:
   - title: (co-)authored papers
     duration: 3000
     count: 30
+
+carousels:
+  - images:
+    - image: images/carousel/mountwilson.jpg
+    - image: images/carousel/kifwinner2023.jpg
+    - image: images/carousel/kifwinner2023b.jpg
+    - image: images/carousel/kifwinner2023promo.jpg
