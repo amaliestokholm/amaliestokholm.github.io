@@ -1,0 +1,45 @@
+---
+title: "Week 11 -- Twenty Minute Summary Post"
+date: 2025-03-14
+category: twentyminsum
+layout: blog
+---
+# Week 11
+This week has been an interesting week with a lot of small things.
+There has been a good number of side quests, but progress has been made.
+
+A recommendation from Owen: https://youtu.be/bSCxZGROMxg?si=unm7IL4Epdr8gH3r
+
+---
+## Summary
+`Project asterism`: I finished emu tests and moved on to hares and hounds.
+They pass the tests with flying colours.
+
+I am now working on an overview of the observed sample.
+We discussed the possibility of delegating some of the work and getting help with the next phase of the project.
+I'll give it some more thought over the weekend and make a case for it on Monday.
+
+`PLATO`: I got some progress done, but I am not done done. As I want to be done done by Tuesday morning, this is my primary focus Sunday and Monday.
+
+`Teaching`:
+- I am teaching Tuesday and Thursday afternoon. Thursday this week the students had their seminar.
+- I supervised ~1 hour Tuesday, Thursday, and Friday. 
+- I bought "Helping Doctoral Students Write: Pedagogies for supervision" by Prof. Pat Thomson and Prof. Barbara Kamler. I intend to read and do some self-study this weekend.
+
+`Postdoc rep`:
+- I booked rooms for upcoming events.
+- I wrote drafts of invitation emails, but I did not send them. 
+
+`Admin`:
+- I planned upcoming travel. 
+
+---
+
+### Key things
+- I did some nice things this week. However, I need to have my science in focus and keep progressing.
+
+### Challenges for next week
+- I have an important overview meeting Tuesday morning. Therefore I want to be done with my modules before then.
+- I want to improve my skill as a supervisor this week.
+- I need to plan a workshop that will delegate some work and teach my how to better use PBJam.
+- 
