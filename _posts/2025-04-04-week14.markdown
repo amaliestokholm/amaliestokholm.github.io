@@ -1,0 +1,67 @@
+---
+title: "Week 14 -- Twenty Minute Summary Post"
+date: 2025-04-04
+category: twentyminsum
+layout: blog
+---
+# Week 14
+This has been a hectic week.
+I think I must acknowledge that I this week have been working mostly as a facilitator for other people and as an examinor.
+
+---
+## Summary
+`Project asterism`: I finished `cookiejam` and it works!
+I am happy that I accomplished this. I am now running my 'best-case' targets through it.
+Next week I will actually get to use it.
+
+`PLATO`: I didn't do PLATO this week. I want to before the telecon next week.
+
+`pitchfork`: I spent hours throughout the week reading, commenting, changing, and guiding.
+The draft is currently sent around the co-authors a day before our internal deadline, which is nice.
+
+`eagleescape`: I am finishing it today.
+
+`beyblade`: Based on a request I have helped getting key dimensions that was thought not to have been included in the initial models.
+ I spent time writing a script and reading papers in order to get progress in this project.
+
+`gmork`: Referee report came back with a few major comments but mostly a list of trivial corrections.
+The student leading this submitted her thesis last week so this is not a high priority this week.
+
+`Teaching`:
+- I have not heard from the Y4 students and I am not involved with the grading of them.
+- We have had vivas for the Y3 students this week (Tuesday and Thursday afternoons).
+I have read their 100-page report once in order to get decent and fair questions for them. 
+I need to finish my grading of the individual contributions to the report and we will wrap up the course on the 14th.
+
+`Postdoc rep`:
+- I invited people for the next jamboree.
+- I had the first postdoc coffee which `failed'. We were only three (and all from the same group).
+I think I should have sent more emails if I wanted a higher turnout.
+I think the next informal event should be an 'after-work' version -> maybe a drink at Bratby instead?
+
+`admin`:
+- I did not do much on my long list of admin stuff this week.
+
+`Other`:
+- I helped my co-worker on her high priority task most of Wednesday morning. 
+- I attended a seminar on pulsars Wednesday afternoon.
+
+`Things I should think about strengthen`:
+- I feel like the estimates I send to other people (e.g. in `eagleescape`) have been dishonest and too optimistic.
+- I think I need to be better at time estimating tasks. 
+
+---
+
+### Key things
+- My student reached the milestone of `finished first draft sent to co-authors'.
+They are happy and relieved and I am happy to have helped make the process more smooth and easier for them. 
+- I have helped two other people in multi-hour sessions this week with their high-priority tasks.
+- I have held exams for 16 students.
+- I finished the roadblock for getting the key observables that I needed.
+
+### Challenges for next week
+- I want to quality check the observables archieved using `cookiejam` and PBjam.
+- I want to write more and do more on my high-priority project next week.
+- In two weeks we will have a workshop that partly involves BASTA. I want to do some (fun) work on BASTA prior to then.
+- I want to do a bit more PLATO work before the telecon Friday next week.
+- I need to give my final marks for the Y3 students before our meeting next Monday.
