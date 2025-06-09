@@ -48,15 +48,18 @@ social:
 
 counter:
   - title: k stars analyzed
-    duration: 8000
+    duration: 3000
     count: 200
     prefix: '~'
   - title: (co-)authored papers
     duration: 3000
-    count: 30
+    count: 33
 
 carousels:
   - images:
     - image: images/carousel/mountwilson.jpg
+    - image: images/carousel/aot_christmasstar2017.jpeg
+    - image: images/carousel/6degofscience2018.jpeg
+    - image: images/carousel/6degofscience2018_2.jpeg
     - image: images/carousel/kifwinner2023.jpg
     - image: images/carousel/kifwinner2023promo.jpg
