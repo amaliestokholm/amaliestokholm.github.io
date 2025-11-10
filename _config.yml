@@ -53,7 +53,7 @@ counter:
     prefix: '~'
   - title: (co-)authored papers
     duration: 3000
-    count: 33
+    count: 44
 
 carousels:
   - images:
