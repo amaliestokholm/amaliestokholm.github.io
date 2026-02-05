@@ -1,4 +1,11 @@
-# Personal website.
+# Amalie Stokholm . github . io 
+This is my personal website. Here I write text, showcase fun things I learn, and play around with html, js, markdown, Jekyll, and css.
+
+This is a playground -- I am learning as I go.
+
+Somethings are clean and neat, others less so. But in order for something to be great or even perfect, it first needs to exist. 
+
+
 ### How to set-up
 ```
 sudo apt install ruby-bundler
