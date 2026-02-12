@@ -325,6 +325,10 @@ a {
 	width: 110px;
 	font-size: 16px;
 }
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
 
 
 
