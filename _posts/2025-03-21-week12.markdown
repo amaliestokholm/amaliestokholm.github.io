@@ -1,0 +1,52 @@
+---
+title: "Week 12 -- Twenty Minute Summary Post"
+date: 2025-03-21
+category: twentyminsum
+layout: blog
+---
+# Week 12
+I feel like I have been teaching and answering emails all week.
+
+The Sun has been out -- it is finally spring time!
+
+---
+## Summary
+`Project asterism`: I did some writing and structuring. 
+Next week we will have an afternoon looking at the observables for this sample.
+
+`PLATO`: I fixed one module, got a nice overview of what is left.
+I need to add some tests but otherwise I am almost happy with where I am at.
+I attended a big meeting Tuesday morning, which was nice.
+
+`pitchfork`: I did a lot of reading, commenting and shaping.
+
+`rogue&hennes`: I had multiple meetings to discuss a referee report.
+
+`rockyrocks`: The shortest referee report came back and the paper was finally accepted later that day!
+
+`gmork`: Paper submitted.
+
+`Teaching`:
+- I am teaching Tuesday and Thursday afternoon.
+- I supervised ~1 hour Tuesday and answered emails.
+- I read "Helping Doctoral Students Write: Pedagogies for supervision" by Prof. Pat Thomson and Prof. Barbara Kamler - I need to structure my notes on the book.
+
+`Postdoc rep`:
+- I booked rooms for upcoming events.
+- I invited people for the next jamboree, however, some declined the offer and I had to invite more.
+
+`admin`:
+- I did some planning of future travel with the group.
+
+
+---
+
+### Key things
+- I did many small things.
+- I did do the key things I had planned for last week.
+- I did nice things as a temp supervisor. I found my key areas that need to be improved going forward.
+
+
+### Challenges for next week
+- There is a PBJamming session Wednesday that I need to prep for.
+- Next week is last week of the semester so I expect many 'urgent' things before Friday from people with deadlines.

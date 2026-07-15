@@ -5,36 +5,45 @@ category: twentyminsum
 layout: blog
 ---
 # Week 8
-This week has been difficult for me for a number of reasons.
+This week has been difficult for me.
 I have been feeling frustrated over not being further with the asterism project. 
-I have worked on it and debugged quite a bit though.
-And then this week also includes February 20 which is a difficult day for me for personal reasons.
+And then this week also includes February 20 which is a difficult day for me.
+
+However, progress was made and one of the big roadblocks got cleared.
 
 ---
 ## Summary
-`Project asterism`: 
+`Project asterism`: I found myself focusing on one thing, convinced it was the root to all my issues.
+I needed help to realise that that was not the case. I set up new tests with a simpler model.
+I also wrote a good chunk and actually found a solution to my initial issue after I let it go and focused on something else.
 
-`PLATO`: I got 
+There is a lesson about remembering to ask for help and to keep an eye on the big picture in here.
+I should probably keep that in mind going forward.
+
+`PLATO`: I got answers to some of the specifics so now I need to finish setting up the modules.
 
 `Teaching`:
 - I am teaching Tuesday and Thursday afternoon.
-- I supervised ~1 hour Tuesday and another Friday.
+- I supervised ~1 hour Tuesday and Friday.
 
 `Postdoc rep`:
 - None this week
 
 `Admin`:
 - I gave a tutorial on Git (and Obsidian),
-- I helped with a referee report
-- I helped with with stellar models
+- I helped with an annoying referee report
+- I helped with some stellar models
 - I helped with questions for an interview
-
-
-`Other`:
-- 
 
 ---
 
 ### Key things
+- I got reminded about my typical pitfalls when doing project management.
+- I did clear my mental roadblock by letting it go and then solving it.
+- Given it was a difficult week, I managed it pretty well.
 
 ### Challenges for next week
+- I want to be done with all of these tests I have done multiple times now.
+- There are seminars for the Y4 students next week.
+- I will be travelling Friday. 
+- I need to prepare for the Jamboree on the 3.

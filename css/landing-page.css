@@ -51,7 +51,7 @@ h6 {
 
 .intro-message {
 	position: relative;
-	padding-top: 20%;
+	padding-top: 20vh;
 }
 
 .intro-message > h1 {
@@ -324,6 +324,10 @@ a {
 	right: 0px;
 	width: 110px;
 	font-size: 16px;
+}
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
 }
 
 

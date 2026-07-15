@@ -1,0 +1,36 @@
+---
+title: "Week 10 -- Twenty Minute Summary Post"
+date: 2025-03-07
+category: twentyminsum
+layout: blog
+---
+# Week 10
+I felt mentally off in the beginning of the week, rather high anxiety for no apparent reason. I think I need to prioritise some downtime and relaxing this week - it might be a new stress sign?
+
+
+---
+## Summary
+`Project asterism`: I added the KBC surface correction and finished emu tests.
+
+`PLATO`: I got some progress done, but I am not done done.
+
+`Teaching`:
+- I am teaching Tuesday and Thursday afternoon.
+- I supervised ~1 hour Tuesday and Friday. 
+
+`Postdoc rep`:
+- I had the Physics Postdoc Jamboree Monday. It went okay. People liked the concept.
+I was pressed on time and I do not think it went perfectly, but it went okay.
+I highly appreciated the help from Anjali and Emily.
+
+`Admin`:
+- I had a first look on some travel.
+
+---
+
+### Key things
+- I did some nice things this week. 
+
+### Challenges for next week
+- I want to finish the PLATO modules next week
+- I want to do hare testing next week.

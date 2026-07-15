@@ -1,0 +1,48 @@
+---
+title: "Week 13 -- Twenty Minute Summary Post"
+date: 2025-03-28
+category: twentyminsum
+layout: blog
+---
+# Week 13
+Decent week with sunshine.
+
+---
+## Summary
+`Project asterism`: I did some writing and structuring. 
+I prepped for an afternoon session where we had a look at how to improve the usability.
+I collected and wrote code for doing this easily for many stars.
+This needs a bit of testing, but I think I can finish it Monday next week.
+
+`PLATO`: I didn't get so many things done this week on the PLATO front.
+
+`pitchfork`: I did some reading and commenting.
+
+`roguehennes`: Accepted :)
+
+`eagleescape`: I need to finish the run and send it.
+
+`Teaching`:
+- I was teaching Tuesday and Thursday afternoon, but it was the last week before their deadline so not much was required.
+- I supervised ~1 hour Tuesday and answered a lot of emails prior to them submitting their reports Friday.
+
+`Postdoc rep`:
+- I invited people for the next jamboree - if this one accepts I have a full line-up.
+- I met and chatted with some people.
+- Some people asked for resources on `how to supervise, especially PhD students`. I asked around, collected some resources, but this also highlighted the need for a skill session on the topic.
+
+`admin`:
+- I did some planning of future travel with the group.
+- My visa expires soon, so I got stuff started in order to extend it.
+
+---
+
+### Key things
+- There were many urgent things this week. But I handled it alright.
+- I got progress done.
+
+### Challenges for next week
+- Finish and run `cookiejam`.
+- Finish `eagleescape`
+- Write
+- Help with getting a project in shape for sending it around to co-authors.

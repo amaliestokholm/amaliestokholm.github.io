@@ -1,0 +1,64 @@
+---
+title: "Week 18 -- Twenty Minute Summary Post"
+date: 2025-05-02
+category: twentyminsum
+layout: blog
+---
+# Week 18
+After a number of slightly hectic weeks, I will try to summarize my last month, briefly.
+
+---
+## Summary
+`Project asterism`: I got frequencies from the targets using PBjam and cookiejam.
+I have written and I have been putting it into the model, but I have been having some trouble getting it to work.
+This is a priority for next week.
+
+`PLATO`: I have worked a lot on improving the code for the PSM side, not much for the PDC.
+One module works, but I need to apply my finding to the remainder. 
+This is a priority for next week.
+
+`pitchfork`: Submitted.
+
+`gmork`: Resubmitted.
+
+`cookiejam`: I developed the code and the code just works nicely on BlueBear.
+
+`parkour`: Accepted and on arXiv.
+
+`Percy`: Accepted and on arXiv.
+
+`beyblade`: We have had a couple of meetings and I promised to look into how quickly we can produce our models.
+This is a priority for next week.
+
+`pastafork`: I attended a two-day workshop and did a lot of nice modelling work.
+
+`estrella`: I modelled a handfull of nice stars for collaborators.
+
+`BASTA`: I started a bigger rework of BASTA (mostly outside of work/ as a weekend project). It is almost done. It will lead to a poster from a collaborator to TASC and to a project I can be a bit more proud of. It was nice and fun to do - I have learned a lot about Python 3.9-3.12, dataclasses, type hinting, mypy and ruff.
+
+`Teaching`:
+- We held oral exams, marked their final reports, and had meetings moderating the mark.
+- I will not teach in the upcoming semester.
+
+`Postdoc rep`:
+- I planned and arranged another Physics Postdoc Jamboree. It had about 40 attendees. I was a better chair this time: I had an introduction slide, I prepped the speakers before-hand, I had some questions planned prior to the event and we finished beautifly on time.
+- I will not do another before, say, October at the earliest -- I have other stuff to do.
+
+`admin`:
+- I started visa extension application.
+
+`Other`:
+- I helped a student with some stellar properties for a target.
+- I have helped others with job applications, abstract writings and paper writing over multiple sessions.
+- It was Easter.
+
+---
+
+### Key things
+- This month has been uncharacteristically hectic. I let go of all of my most useful planning practices (useful daily and weekly notes, this blog) because I felt busy and overwhelmed. 
+It worked out, but I do not think that was the smartest choice and it goes to show that habits require energy to keep up.
+- This is not the full list, but these are the things I kinda remember doing. 
+
+### Challenges for next week
+- Do fun work
+- Write more
