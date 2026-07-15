@@ -50,10 +50,11 @@ counter:
     prefix: '~'
   - title: (co-)authored papers
     duration: 3000
-    count: 47
+    count: 55
 
 carousels:
   - images:
+    - image: images/carousel/2026_tasc.jpg
     - image: images/carousel/mountwilson.jpg
     - image: images/carousel/aot_christmasstar2017.jpeg
     - image: images/carousel/6degofscience2018.jpeg
